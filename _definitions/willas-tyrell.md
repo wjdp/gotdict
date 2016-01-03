@@ -1,5 +1,6 @@
 ---
 title: Willas Tyrell
+inflections: [Willas]
 ---
 
 Willas Tyrell is the eldest son and heir of Lord Mace Tyrell and Lady Alerie Hightower. Though crippled with a bad leg, he is often noted as a studious, educated, and kind, and is renowned for breeding the finest hawks, hounds, and horses in the Seven Kingdoms. 

@@ -1,5 +1,6 @@
 ---
 title: Selyse Florent
+inflections: [Selyse]
 ---
 
 Selyse Florent is the wife of Lord Stannis Baratheon. Selyse is a fervent worshiper of R'hllor and a supporter of Melisandre.

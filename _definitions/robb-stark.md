@@ -1,5 +1,6 @@
 ---
 title: Robb Stark
+inflections: [Robb]
 ---
 
 Robb Stark is the eldest son of Eddard Stark and Catelyn Tully and the heir to Winterfell and the North. Robb's appearance favors his Tully side, with a stocky build, blue eyes, and thick red-brown hair. He opened the series as a boy of fourteen years. He is his father's son, with a keen sense of honor and justice.

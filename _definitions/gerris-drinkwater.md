@@ -1,5 +1,6 @@
 ---
 title: Gerris Drinkwater
+inflections: [Gerris]
 ---
 
 Ser Gerris Drinkwater is a member of House Drinkwater and a long-time friend of Prince Quentyn Martell. Gerris is tall and lean and comely, with blue-green eyes and sandy hair. He has a swordsman's grace and a courtier's wit. His confidence often close to arrogance.

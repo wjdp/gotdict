@@ -1,5 +1,6 @@
 ---
 title: Ethan Glover
+inflections: [Ethan]
 ---
 
 Ethan Glover was a member of House Glover. He was the former squire to Brandon Stark.

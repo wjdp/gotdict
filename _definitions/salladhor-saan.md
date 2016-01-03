@@ -1,5 +1,6 @@
 ---
 title: Salladhor Saan
+inflections: [Salladhor]
 ---
 
 Lord Salladhor Saan is a Lysene pirate and sellsail and is good friends with Ser Davos Seaworth. He is a smuggler, trader, banker and a notorious pirate. He has no wives, only concubines. He styles himself as the Prince of the Narrow Sea. He is a sleek, smiling man whose flamboyance is a byword on both sides of the Narrow Sea.

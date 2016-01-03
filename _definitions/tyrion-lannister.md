@@ -1,5 +1,6 @@
 ---
 title: Tyrion Lannister
+inflections: [Tyrion]
 ---
 
 Tyrion Lannister, is the third and youngest child of Tywin and Joanna. Tyrion is a dwarf, because of this he is sometimes mockingly called The Imp and The Halfman. Tyrion is shrewd, educated, and calculating, but receives little respect for this from his father, because of his deformity, and the death of his mother during his birth. He is capable of cruelty to his enemies, but also has great sympathy for fellow outcasts and the mistreated.

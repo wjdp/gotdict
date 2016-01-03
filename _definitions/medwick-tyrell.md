@@ -1,5 +1,6 @@
 ---
 title: Medwick Tyrell
+inflections: [Medwick]
 ---
 
 Maester Medwick Tyrell is a chained Maester of the Citadel. He is the second son of Ser Luthor Tyrell.

@@ -1,5 +1,6 @@
 ---
 title: Torghen Flint
+inflections: [Torghen]
 ---
 
 Lord Torghen Flint, known as The Flint, or Old Flint clan chief of the first Flints, a mountain clan in the North. He's the father of Donnel and Artos Flint, each by a different woman.

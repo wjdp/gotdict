@@ -1,5 +1,6 @@
 ---
 title: Azor Ahai
+inflections: [Azor]
 ---
 
 Azor Ahai was a legendary hero who lived approximately eight thousand years before Aegon's Landing. It is said that during the midst of The Long Night, Azor Ahai rose up and defeated the Others, wielding a sword of fire, called Lightbringer. Some readers believe that Azor Ahai is the same hero as the prince that was promised, while others believe that they come from two distinct prophecies.

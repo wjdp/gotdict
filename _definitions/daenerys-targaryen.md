@@ -1,5 +1,6 @@
 ---
 title: Daenerys Targaryen
+inflections: [Daenerys]
 ---
 
 Daenerys Targaryen, known as Daenerys Stormborn or Dany, is the last confirmed member of the ancient Targaryen Dynasty. Daenerys is a young woman in her early teens. She is short of stature and very beautiful, with the silver-blonde hair and purple eyes for which House Targaryen has always been known.

@@ -1,5 +1,6 @@
 ---
 title: Roundel
+inflections: [Rondel]
 ---
 
 1. a stiff-bladed dagger with a round handgaurd and round or spherical pommel. It was carried as a sidearm by knights in tournaments where it could be used to puncture chainmail or joints in the armor of an opponent.

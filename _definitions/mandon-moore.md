@@ -1,5 +1,6 @@
 ---
 title: Mandon Moore
+inflections: [Mandon]
 ---
 
 Ser Mandon Moore is a knight of the Kingsguard. Jaime Lannister considered him the most dangerous of the Kingsguard after himself because his face gave nothing away. He has pale grey eyes, flat and lifeless.

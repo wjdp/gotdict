@@ -1,5 +1,6 @@
 ---
 title: Harlen Tyrell
+inflections: [Harlen]
 ---
 
 Lord Harlen Tyrell of Highgarden was the first to rule the Reach after the War of Conquest.

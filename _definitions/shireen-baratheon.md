@@ -1,5 +1,6 @@
 ---
 title: Shireen Baratheon
+inflections: [Shireen]
 ---
 
 Shireen Baratheon is the daughter of Stannis Baratheon and his only child. Her mother is Lady Selyse Florent. Shireen is regarded as a sweet child.

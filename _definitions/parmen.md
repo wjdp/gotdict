@@ -1,7 +1,0 @@
----
-title: Parmen
----
-
-Ser Parmen Crane, also known as Parmen the Purple, is a member of House Crane and was one of Renly I's Rainbow Guard. He wears purple plums on his surcoat. 
-
-

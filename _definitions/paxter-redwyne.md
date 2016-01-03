@@ -1,5 +1,6 @@
 ---
 title: Paxter Redwyne
+inflections: [Paxter]
 ---
 
 Lord Paxter Redwyne of the Arbor is the Lord of the Arbor and head of House Redwyne. He is married to his cousin Mina Tyrell, the sister of his liege Lord Mace Tyrell. By her he has two sons, Ser Horas and Ser Hobber and a daughter, Desmera. He is stooped of shoulder, thin, and balding with only a few orange tufts of hair remaining.

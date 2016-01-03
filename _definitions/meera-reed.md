@@ -1,5 +1,6 @@
 ---
 title: Meera Reed
+inflections: [Meera]
 ---
 
 Meera Reed is Howland Reed's daughter and oldest child. Her younger brother is Jojen Reed. She is sixteen years old. As is typical of crannogmen, Meera is short and slim. She has long brown hair and green eyes. Although she is flat chested and is never remarked as being particularly beautiful.

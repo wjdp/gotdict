@@ -1,5 +1,6 @@
 ---
 title: Galazza Galare
+inflections: [Galazza]
 ---
 
 Galazza Galare is the Ghiscari high priestess of Meereen. She is known as the Green Grace. Galazza is in her eighties.

@@ -1,5 +1,6 @@
 ---
 title: Lancel Lannister
+inflections: [Lancel]
 ---
 
 Lancel Lannister is the eldest son of Ser Kevan Lannister. A squire to King Robert Baratheon.

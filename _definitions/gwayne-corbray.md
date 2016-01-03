@@ -1,5 +1,6 @@
 ---
 title: Gwayne Corbray
+inflections: [Gwayne]
 ---
 
 Ser Gwayne Corbray was a knight of the Kingsguard during Daeron II's reign. He wielded a Valyrian steel sword named Lady Forlorn. He is in the White Book.

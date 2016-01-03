@@ -1,5 +1,6 @@
 ---
 title: Gowen Baratheon
+inflections: [Gowen]
 ---
 
 Gowen Baratheon was the third son of a reigning Lord of Storm's End.

@@ -1,5 +1,6 @@
 ---
 title: Tristifer Botley
+inflections: [Tristifer]
 ---
 
 Tristifer Botley is the second son of Lord Sawane Botley. He has messy hair and large eyes. He is handsome. Tristifer was among the five boys brought to Pyke to become the foster son of Lady Alannys Harlaw after the Greyjoy Rebellion.

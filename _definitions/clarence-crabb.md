@@ -1,5 +1,6 @@
 ---
 title: Clarence Crabb
+inflections: [Clarence]
 ---
 
 There are two Clarences:

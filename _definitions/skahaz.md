@@ -1,7 +1,0 @@
----
-title: Skahaz
----
-
-Skahaz mo Kandaq, also known as the Shavepate, is a Ghiscari noble of the city of Meereen. He is described as "a lesser nobleman". He has an odious face with a beetled brow, small eyes with heavy bags beneath, and a big nose dark with blackheads His oily skin looks more yellow than amber, somewhat unusual for a Ghiscari. His face seems blunt, brutal, and angry. 
-
-

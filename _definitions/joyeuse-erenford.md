@@ -1,5 +1,6 @@
 ---
 title: Joyeuse Erenford
+inflections: [Joyeuse]
 ---
 
 Lady Joyeuse Erenford is the eighth wife of Lord Walder Frey. She is a pale, frail young woman of sixteen years. 

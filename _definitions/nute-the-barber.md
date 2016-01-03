@@ -1,5 +1,6 @@
 ---
 title: Nute the Barber
+inflections: [Nute]
 ---
 
 Nute, better known as Nute the Barber, is an ironborn raider and a member of Lord Victarion Greyjoy's crew aboard the Iron Victory.

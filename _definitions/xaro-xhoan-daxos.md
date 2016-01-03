@@ -1,5 +1,6 @@
 ---
 title: Xaro Xhoan Daxos
+inflections: [Xaro]
 ---
 
 Xaro Xhoan Daxos is a merchant prince of Qarth. He is a member of the Thirteen, a prominent group of traders within Qarth.

@@ -1,5 +1,6 @@
 ---
 title: Minisa Whent
+inflections: [Minisa]
 ---
 
 Minisa Whent of House Whent, was the wife of Lord Hoster Tully and mother to Catelyn, Lysa, and Edmure.

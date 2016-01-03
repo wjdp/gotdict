@@ -1,5 +1,6 @@
 ---
 title: Mance Rayder
+inflections: [Mance]
 ---
 
 Mance Rayder was once a man of the Night's Watch before breaking his vows and abandoning his post. He has since become extremely influential among the wildlings, and called "The King Beyond the Wall".

@@ -1,5 +1,6 @@
 ---
 title: Yezzan zo Qaggaz
+inflections: [Yezzan]
 ---
 
 Yezzan zo Qaggaz is an extremely wealthy slave trader and is one of the Wise Masters from Yunkai. He is said to be the richest man in Yunkai and has great influence because of this.

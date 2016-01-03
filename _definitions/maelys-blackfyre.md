@@ -1,5 +1,6 @@
 ---
 title: Maelys Blackfyre
+inflections: [Maelys]
 ---
 
 Maelys Blackfyre, better known as Maelys the Monstrous, was the last of the Blackfyre pretenders to the Iron Throne. Maelys Blackfyre descended from Daemon Blackfyre. He was named 'Maelys the Monstrous' for supposedly having eaten his twin in the womb, making him a kinslayer.

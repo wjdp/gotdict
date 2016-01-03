@@ -1,5 +1,6 @@
 ---
 title: Howland Reed
+inflections: [Howland]
 ---
 
 Howland Reed is the Lord of Greywater Watch and holds dominion over the crannogmen of the Neck. Reed's children are Meera, a girl of fifteen years, and Jojen, a boy of thirteen years.

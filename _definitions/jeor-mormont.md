@@ -1,5 +1,6 @@
 ---
 title: Jeor Mormont
+inflections: [Jeor]
 ---
 
 Lord Commander Jeor Mormont, also known as the Old Bear, is the 997th Lord Commander of the Night's Watch , which he commands from his headquarters, the fortress of Castle Black.

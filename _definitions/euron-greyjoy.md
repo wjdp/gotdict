@@ -1,5 +1,6 @@
 ---
 title: Euron Greyjoy
+inflections: [Euron]
 ---
 
 Euron Greyjoy is a younger brother of Balon and is known as "Crow's Eye". He is captain of the Silence, a ship crewed entirely by mutes whose tongues Euron ripped out. His personal coat-of-arms is a red eye with a black pupil beneath a black iron crown supported by two crows.

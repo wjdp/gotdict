@@ -1,5 +1,6 @@
 ---
 title: Armond Connington
+inflections: [Armond]
 ---
 
 Lord Armond Connington, Lord of Griffin's Roost, was the head of House Connington and father of Jon Connington.

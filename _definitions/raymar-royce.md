@@ -1,5 +1,6 @@
 ---
 title: Raymar Royce
+inflections: [Raymar]
 ---
 
 Lord Raymar Royce was a former head of the lesser branch of House Royce. One of his younger sons married the sister of Eddard Stark's grandfather. They had three daughters, one of which married a Corbray, another a Waynwood and the third might have married a Templeton. 

@@ -1,5 +1,6 @@
 ---
 title: Lomas Estermont
+inflections: [Lomas]
 ---
 
 Ser Lomas Estermont is a member of House Estermont and father of Ser Andrew Estermont. He is associated with Stannis Baratheon.

@@ -1,9 +1,0 @@
----
-title: Pyp
----
-
-Pypar, more commonly known as Pyp, is a member of the Night's Watch. He is also known as Monkey. He is in the same novice class as Jon Snow. He is small and has large ears.
-
-Before coming to the Wall, Pyp had traveled the Seven Kingdoms with a mummers' troupe. Supposedly he can tell where you are from by your accent. He can imitate a hundred different voices and loves to act. 
-
-

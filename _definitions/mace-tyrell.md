@@ -1,5 +1,6 @@
 ---
 title: Mace Tyrell
+inflections: [Mace]
 ---
 
 Lord Mace Tyrell is Lord of Highgarden, Defender of the Marches, High Marshal of the Reach, and Warden of the South. He is father to Willas, Garlan, Loras, and Margaery Tyrell.

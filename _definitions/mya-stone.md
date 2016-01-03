@@ -1,5 +1,6 @@
 ---
 title: Mya Stone
+inflections: [Mya]
 ---
 
 Mya Stone is a young woman serving House Royce of the Gates of the Moon. She is a tall, strapping young woman, with coal-black hair cut short and deep blue eyes.

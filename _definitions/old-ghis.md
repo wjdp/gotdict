@@ -1,5 +1,6 @@
 ---
 title: Old Ghis
+inflections: [Ghis]
 ---
 
 Ghis, the ruins of the capital city of the ancient Ghiscari Empire, located in the Ghiscar region on the eastern continent, almost directly east across the Gulf of Grief from Valyria.

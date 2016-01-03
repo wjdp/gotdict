@@ -1,5 +1,6 @@
 ---
 title: Ellyn Tarbeck
+inflections: [Ellyn]
 ---
 
 Ellyn Tarbeck was a member of House Tarbeck.

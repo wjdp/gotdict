@@ -1,7 +1,0 @@
----
-title: Walys
----
-
-Maester Walys was a maester of the Citadel. He was born a bastard son of a Hightower girl and an Archmaester of the Citadel. After forging his chain, he served at Winterfell when Rickard Stark was lord. It is said he promoted Lord Rickard's southron ambitions, including the marriage of his son, Brandon, to Catelyn Tully. 
-
-

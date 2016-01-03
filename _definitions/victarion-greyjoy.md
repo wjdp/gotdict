@@ -1,5 +1,6 @@
 ---
 title: Victarion Greyjoy
+inflections: [Victarion]
 ---
 
 Victarion Greyjoy is a brother of Balon Greyjoy and Lord Captain of the Iron Fleet, his flagship is Iron Victory. He is a capable commander and a fierce warrior in battle, but has a calm demeanor outside of it, thinking of enemies with great respect. He is a religious man and wears full plate armor while sailing because he has no fear of drowning. Victarion recognized the greatness of his older brother Balon and followed him loyally.

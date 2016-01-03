@@ -1,5 +1,6 @@
 ---
 title: Lothar Frey
+inflections: [Lothar]
 ---
 
 Lothar Frey, often called "Lame Lothar", is the twelfth son of Walder Frey and the first son born from Lord Walders marriage to Alyssa Blackwood. Lothar has served as Lord Walder's steward for twelve years.

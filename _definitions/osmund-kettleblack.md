@@ -1,5 +1,6 @@
 ---
 title: Osmund Kettleblack
+inflections: [Osmund]
 ---
 
 Ser Osmund Kettleblack is a member of House Kettleblack. He is a (supposed) hedge knight. He has two brothers, Osfryd and Osney Kettleblack.

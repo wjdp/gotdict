@@ -1,5 +1,6 @@
 ---
 title: Melisandre of Asshai
+inflections: [Melisandre]
 ---
 
 Melisandre is a priestess of R'hllor and a Shadowbinder, hailing from the eastern city of Asshai. She has joined the entourage of Stannis Baratheon, believing him to be Azor Ahai reborn, a hero destined to defeat the Great Other. She has become an influential advisor to him and his family.

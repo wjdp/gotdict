@@ -1,5 +1,6 @@
 ---
 title: Tywin Lannister
+inflections: [Tywin]
 ---
 
 Tywin Lannister is Lord of Casterly Rock, Shield of Lannisport and Warden of the West. Tywin is one of the most powerful lords in Westeros. He is the father of Jaime, Cersei, and Tyrion Lannister. Tywin Lannister is a calculating, intelligent, politically astute, ruthless, and controlling man. Tywin Lannister dedicated his whole life and all his efforts into maintaining the Lannisters prestige, ensuring House Lannister was respected or at least feared.

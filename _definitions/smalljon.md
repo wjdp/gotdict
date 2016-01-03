@@ -1,7 +1,0 @@
----
-title: Smalljon
----
-
-Jon Umber, better known as the Smalljon in comparison to his father the Greatjon, is the eldest son and the heir to Last Hearth. Despite his name Smalljon is a foot taller then his father standing just over seven feet tall, like his father he is big and strong. Jon Umber is a large man, nearly seven feet tall. His is heavily muscled and is a formidable warrior. Jon is proud, boisterous, and fierce, and impressed only by those who earn his respect.
-
-

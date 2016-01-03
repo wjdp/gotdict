@@ -1,5 +1,6 @@
 ---
 title: Lynesse Hightower
+inflections: [Lynesse]
 ---
 
 Lynesse Hightower is the youngest daughter of Lord Leyton Hightower. She was the second wife of Ser Jorah Mormont. Lynesse is very beautiful. She has golden hair, skin the color of cream, and soft hands.

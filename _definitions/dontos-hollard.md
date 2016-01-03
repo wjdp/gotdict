@@ -1,5 +1,6 @@
 ---
 title: Dontos Hollard
+inflections: [Dontos]
 ---
 
 Ser Dontos Hollard is a knight serving at the court of King's Landing. He is a portly average looking man and is usually drunk.

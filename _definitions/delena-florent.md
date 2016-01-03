@@ -1,5 +1,6 @@
 ---
 title: Delena Florent
+inflections: [Delena]
 ---
 
 Delena Florent is the mother of Edric Storm and niece to Lord Alester Florent. She is married to Ser Hosman Norcross and has two children by him.

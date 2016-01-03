@@ -1,7 +1,0 @@
----
-title: Andrew
----
-
-Ser Andrew Estermont is a knight of House Estermont, the only son of Lomas Estermont and former squire of Lord Stannis Baratheon. He is tall with a long, pointy beard and bushy, brown eyebrows.
-
-

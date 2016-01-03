@@ -1,7 +1,0 @@
----
-title: Daegon
----
-
-Daegon Shepherd, better known as The Black Shepherd is the captain of the ship Dagger in the Iron Fleet and is under the command of Victarion Greyjoy.
-
-

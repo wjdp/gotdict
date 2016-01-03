@@ -1,5 +1,6 @@
 ---
 title: Jason Mallister
+inflections: [Jason]
 ---
 
 Lord Jason Mallister is the head of House Mallister and Lord of Seagard. He has at least one son, Patrek. Ser Jason was defeated in a tourney at Storm's End by Prince Rhaegar Targaryen.

@@ -1,5 +1,6 @@
 ---
 title: Daario Naharis
+inflections: [Daario]
 ---
 
 Daario Naharis is a member of the mercenary company, Stormcrows. He is Tyroshi.

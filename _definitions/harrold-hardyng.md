@@ -1,5 +1,6 @@
 ---
 title: Harrold Hardyng
+inflections: [Harrold]
 ---
 
 Ser Harrold Hardyng, often called "Harry the Heir" and "The Young Falcon", is a gallant, handsome squire and a ward of Lady Anya Waynwood.

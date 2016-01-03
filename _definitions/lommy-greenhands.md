@@ -1,5 +1,6 @@
 ---
 title: Lommy Greenhands
+inflections: [Lommy]
 ---
 
 Lommy Greenhands is an orphan boy of King's Landing bound for the Wall in Yoren's company alongside Arya Stark; he was a dyer's apprentice before he was caught stealing, and his arms are mottled green to the elbows.

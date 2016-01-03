@@ -1,5 +1,6 @@
 ---
 title: Luthor Tyrell
+inflections: [Luthor]
 ---
 
 Lord Luthor Tyrell, Lord of Highgarden, Warden of the South, was the former head of House Tyrell. He is the father of the current lord, Mace Tyrell.

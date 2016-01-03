@@ -1,5 +1,6 @@
 ---
 title: Catelyn Tully
+inflections: [Catelyn]
 ---
 
 Catelyn Tully is the wife of Lord Eddard Stark and Lady of Winterfell. Together they have five children: Robb, Sansa, Arya, Bran, and Rickon. Catelyn was born into House Tully of Riverrun, Lords Paramount of the Riverlands. She is the daughter of Lord Hoster Tully and Minisa Whent, and her siblings are Edmure and Lysa.

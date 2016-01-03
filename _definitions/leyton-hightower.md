@@ -1,5 +1,6 @@
 ---
 title: Leyton Hightower
+inflections: [Leyton]
 ---
 
 Lord Leyton Hightower, sometimes called the Old Man of Oldtown, the Voice of Oldtown, Lord of the Port, Lord of the Hightower, Defender of the Citadel, Beacon of the South.

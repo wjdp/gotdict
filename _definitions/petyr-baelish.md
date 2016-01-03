@@ -1,5 +1,6 @@
 ---
 title: Petyr Baelish
+inflections: [Littlefinger]
 ---
 
 Lord Petyr Baelish, sometimes called Littlefinger, was Master of Coin (or treasurer) on the King's Small Council. Petyr wears a mockingbird as his crest instead of his family sigil.

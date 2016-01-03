@@ -1,5 +1,6 @@
 ---
 title: Doran Martell
+inflections: [Doran]
 ---
 
 Doran Nymeros Martell is the Prince of Dorne and Lord of Sunspear. He is a cautious, pensive man who does not wear his emotions on his sleeve. He has a bad case of gout and has trouble walking. He attempts to appear neutral in the War of the Five Kings, but has shown a desire to avenge his murdered sister Elia Martell.

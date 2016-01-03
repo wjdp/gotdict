@@ -1,5 +1,6 @@
 ---
 title: Sothoryos
+inflections: [Sothoros]
 ---
 
 Sothoros is one of the three known continents in the world. It lies to the south east of Westeros and just south of Essos across the Summer Sea. Sothoros is also often spelled Sothoryos.

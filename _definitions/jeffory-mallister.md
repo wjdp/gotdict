@@ -1,5 +1,6 @@
 ---
 title: Jeffory Mallister
+inflections: [Jeffory]
 ---
 
 Jeffory Mallister was a member of House Mallister.

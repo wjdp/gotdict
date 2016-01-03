@@ -1,5 +1,6 @@
 ---
 title: Quhuru Mo
+inflections: [Quhuru]
 ---
 
 Quhuru Mo is the captain of the Cinnamon Wind out of Tall Trees Town in the Summer Islands. He has a daughter, Kojja Mo. He is black and wears a cape of green and yellow feathers. 

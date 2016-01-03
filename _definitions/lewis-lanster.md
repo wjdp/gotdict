@@ -1,5 +1,6 @@
 ---
 title: Lewis Lanster
+inflections: [Lewis]
 ---
 
 Lewis Lanster is a sellsword and member of the Windblown. He is said to be the companys best archer. He has golden hair.

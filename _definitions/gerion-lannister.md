@@ -1,5 +1,6 @@
 ---
 title: Gerion Lannister
+inflections: [Gerion]
 ---
 
 Gerion Lannister was a member of House Lannister. He was the youngest and most reckless brother of Tywin Lannister, the head of the house.Tyrion and Jaime often refer to him as their favourite uncle. He prized and supported Tyrion when the dwarf recited historical facts memorized by heart or cartwheeled across the supper table in Casterly Rock's great hall. He once gifted Tyrion with the books Wonders and Wonders Made by Man by Lomas Longstrider and often had Tyrion recite the sixteen wonders of the World.

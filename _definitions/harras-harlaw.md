@@ -1,5 +1,6 @@
 ---
 title: Harras Harlaw
+inflections: [Harras]
 ---
 
 Ser Harras Harlaw, the Knight of Grey Garden is a member of House Harlaw and master of Grey Garden. He is the heir of House Harlaw.

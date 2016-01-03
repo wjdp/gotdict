@@ -1,5 +1,6 @@
 ---
 title: Jojen Reed
+inflections: [Jojen]
 ---
 
 Jojen Reed is Howland Reed's only son and Meera Reed's younger brother. Jojen has greensight, the power of prophetic dreams. He is thirteen. Jojen is barely an adolescent when he arrives at Winterfell, but his gravity and mature personality make him seem older.

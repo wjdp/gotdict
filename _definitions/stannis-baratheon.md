@@ -1,5 +1,6 @@
 ---
 title: Stannis Baratheon
+inflections: [Stannis]
 ---
 
 Stannis Baratheon is the elder of Robert Baratheon's younger brothers. He served on his brother's small council as Master of Ships and was also Lord of Dragonstone.

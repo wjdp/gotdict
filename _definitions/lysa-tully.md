@@ -1,5 +1,6 @@
 ---
 title: Lysa Tully
+inflections: [Lysa]
 ---
 
 Lysa Tully is a member of House Tully. She is the daughter of Hoster Tully and Minisa Whent and wife of Jon Arryn. Since her husband's death she is the Lady Regent of the Vale of Arryn. She has a son Robert Arryn.

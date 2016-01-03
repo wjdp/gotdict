@@ -1,5 +1,6 @@
 ---
 title: Areo Hotah
+inflections: [Areo]
 ---
 
 Areo Hotah is the captain of Doran Martell's guards. He is originally from the Free City of Norvos, where he was trained by the Bearded Priests of Norvos. Areo is broad-shouldered with white hair. He bears a longaxe that has a shaft six feet long. Areo was the youngest of six children and was sold to the bearded priests at a young age. At age 16, he completed his training. He was wedded to his axe and branded on his chest to signify the event. He came to Dorne with Mellario of Norvos when she married Doran, thus entering his service.

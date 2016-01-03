@@ -1,5 +1,6 @@
 ---
 title: Qhorin Halfhand
+inflections: [Qhorin]
 ---
 
 Qhorin, known as Halfhand, is a ranger of the Night's Watch and second-in-command at the Shadow Tower. Qhorin Halfhand is tall and clean-shaven with gray eyes.

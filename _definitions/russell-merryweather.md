@@ -1,5 +1,6 @@
 ---
 title: Russell Merryweather
+inflections: [Russell]
 ---
 
 Russell Merryweather is the son of Lord Orton Merryweather and Taena of Myr. He is six years old. He was born at Longtable.

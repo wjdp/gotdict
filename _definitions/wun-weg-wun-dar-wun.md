@@ -1,5 +1,6 @@
 ---
 title: Wun Weg Wun Dar Wun
+inflections: [Wun Wun]
 ---
 
 Wun Weg Wun Dar Wun, known as Wun Wun, is a giant who the Night's Watch found with a small group of wildlings in the grove of weirwoods in the Haunted Forest. He speaks the Old Tongue after a fashion and is as strong as twelve men. 

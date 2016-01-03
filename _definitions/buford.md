@@ -1,7 +1,0 @@
----
-title: Buford
----
-
-Ser Buford Bulwer (or Ser Theomore Bulwer), better known as the Old Ox, was a knight of some renown during the reign of Aerys I. His best days were considered behind him though, as he was past sixty, fat and soft and was blind in his right eye. He wore blood red armor and a helm decorated with black bull's horns on either side
-
-

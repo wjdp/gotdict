@@ -1,5 +1,6 @@
 ---
 title: Danny Flint
+inflections: [Danny]
 ---
 
 Danny Flint was a girl who dressed up as a boy to become a member of the Night's Watch.

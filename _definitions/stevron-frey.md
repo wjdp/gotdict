@@ -1,5 +1,6 @@
 ---
 title: Stevron Frey
+inflections: [Stevron]
 ---
 
 Ser Stevron Frey is Lord Walder Frey's first born son, and heir apparent to the Twins. Like his father Ser Stevron resembles a weasel. He has grey eyes. A man in his sixties, Stevron's appearance showes his age.

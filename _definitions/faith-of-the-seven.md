@@ -1,5 +1,6 @@
 ---
 title: Faith of the Seven
+inflections: [Faith]
 ---
 
 The Faith of the Seven is the dominant religion of the Seven Kingdoms, and is often simply referred to as "the Faith". The only parts of Westeros where the Faith is not widespread are the North and the Iron Islands, where the practice of the Old Gods and of the Drowned God respectively are still strong.

@@ -1,5 +1,6 @@
 ---
 title: Jaime Lannister
+inflections: [Jaime]
 ---
 
 Jaime Lannister, known as the Kingslayer, is the second child and first-born son of Lord Tywin Lannister of Casterly Rock and his wife Lady Joanna, also of House Lannister. Raised at the age of fifteen to the Kingsguard of the Mad King Aerys II Targaryen, Jaime became the youngest member in the history of the prestigious knightly order. He earned the derogatory nickname "Kingslayer" when he treasonously slew King Aerys near the end of Robert's Rebellion.

@@ -1,9 +1,0 @@
----
-title: Roslin
----
-
-Roslin Frey is the fifth daughter of Walder Frey. Her mother was Bethany Rosby, the sixth wife of Walder Frey, being the only daughter born of that marriage.
-
-Roslin is small. She has very white skin, a pretty face with a small chin, delicate nose, and big brown eyes. Between her teeth she has a small gap. Her hair is brown and reaches her waist. 
-
-

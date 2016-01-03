@@ -1,5 +1,6 @@
 ---
 title: Arianne Martell
+inflections: [Arianne]
 ---
 
 Arianne Martell is the eldest daughter of the ruling Prince of Dorne, Prince Doran of House Martell, and his consort, Mellario of Norvos. According to Dornish Customs, she is the Heiress of Sunspear, and the future ruling Princess of Dorne. Arianne is buxom and beautiful, with olive skin, large dark eyes, and long black hair that falls in ringlets to the middle of her back. Favoring her mother, she is short, standing at five foot two.

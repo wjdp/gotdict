@@ -1,7 +1,0 @@
----
-title: Runcel
----
-
-Lord Commander Runcel Hightower was a former Lord Commander of the Night's Watch. Lord Commander Runcel forgot his vows and attempted to bequeathe Castle Black and the Night's Watch to his bastard son. He almost destroyed the Night's Watch.
-
-

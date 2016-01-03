@@ -1,5 +1,6 @@
 ---
 title: Perriane Frey
+inflections: [Perriane]
 ---
 
 Perianne Frey is the eldest daughter of Lord Walder Frey and his first born daughter. Her mother was Perra Royce. She is married to Ser Leslyn Haigh.

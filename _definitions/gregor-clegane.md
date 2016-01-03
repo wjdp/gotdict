@@ -1,5 +1,6 @@
 ---
 title: Gregor Clegane
+inflections: [Gregor]
 ---
 
 Ser Gregor Clegane is head of House Clegane which are landed knights and bannermen to House Lannister. Gregor is a freakishly large man and for this he is often called The Mountain That Rides or simply The Mountain. Gregor Clegane is well known for his size, cruelty, and prowess in battle. Gregor is extremely tall (close to eight feet). He has "massive shoulders and arms thick as the trunk of small trees." Gregor weighs over thirty stone(420 lbs), nearly all of it muscle, making him near inhumanly strong.

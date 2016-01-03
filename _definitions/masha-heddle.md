@@ -1,5 +1,6 @@
 ---
 title: Masha Heddle
+inflections: [Masha]
 ---
 
 Masha Heddle is the innkeeper of an inn in the Riverlands. The inn is called the Crossroads Inn by the smallfolk and dates from the time of King Jaehaerys I. It has been run by Masha Heddle and her grandfather before her.

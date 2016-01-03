@@ -1,7 +1,0 @@
----
-title: Albar
----
-
- A knight and Son of Lord Nestor Royce, who is the Lord of the Gates of the Moon. They are tied to the Vale and Nestor was High Steward of the Vale prior to Lord Jon Arryn's death
-
-

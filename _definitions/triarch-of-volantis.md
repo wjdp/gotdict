@@ -1,5 +1,6 @@
 ---
 title: Triarch of Volantis
+inflections: [Triarch]
 ---
 
 Triarch of Volantis is a title bestowed on the elected Triarchs of Volantis. The triarchs are neither kings nor princes; Volantis is a freehold, like Valyria of old. All freeborn landholders share the rule. The triarchs are chosen from amongst those noble families who can prove unbroken descent from old Valyria, to serve until the first day of the New Year. The triarchs are considered so elevated that their feet are not allowed to touch the ground during their year of service. They ride everywhere in elephants. An elected Triarch shares joint rulership of the city of Volantis with two other Triarchs. A Triarchs term lasts for one year. However a Triarch may run for re-election for the post as many times as they wish. Each year the freeborn landholder of Volantis can elect a new Triarch or re-elect the a current one.

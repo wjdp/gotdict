@@ -1,5 +1,6 @@
 ---
 title: Urron Greyiron
+inflections: [Urron]
 ---
 
 King Urron Greyiron, better known as Urron Redhand was the first King of the Iron Islands to make the throne hereditary, five thousand years before the War of the Five Kings. History: For thousands of years, each island of the Iron Islands had a 'salt king' and a 'rock king'.

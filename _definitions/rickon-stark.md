@@ -1,5 +1,6 @@
 ---
 title: Rickon Stark
+inflections: [Rickon]
 ---
 
 Rickon Stark is Eddard and Catelyn's youngest child, only three years old when the series begins. Rickon is a naturally aggressive and strong-willed child, but his youth makes it difficult for him to cope with the terrible changes that come to his family and life.

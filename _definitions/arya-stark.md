@@ -1,5 +1,6 @@
 ---
 title: Arya Stark
+inflections: [Arya]
 ---
 
 Arya Stark is the third child and second daughter of Lord Eddard and Lady Catelyn Stark. She is nine at the start of A Game of Thrones. She has three brothers Robb, Bran, Rickon, a half-brother Jon Snow, and a older sister Sansa. Her own direwolf is Nymeria, who is named in reference to the Rhoynar warrior-queen of the same name.

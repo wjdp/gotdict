@@ -1,9 +1,0 @@
----
-title: Mace
----
-
-Lord Mace Tyrell is Lord of Highgarden, Defender of the Marches, High Marshal of the Reach, and Warden of the South. He is father to Willas, Garlan, Loras, and Margaery Tyrell.
-
-He is handsome and a once powerful looking man, but has since turned to fat. He has curly brown hair and cuts his beard into a triangular shape that has white spots within it. He is a prematurely old and tedious man lacking in political savvy. 
-
-

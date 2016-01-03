@@ -1,5 +1,6 @@
 ---
 title: Roslin Frey
+inflections: [Roslin]
 ---
 
 Roslin Frey is the fifth daughter of Walder Frey. Her mother was Bethany Rosby, the sixth wife of Walder Frey, being the only daughter born of that marriage.

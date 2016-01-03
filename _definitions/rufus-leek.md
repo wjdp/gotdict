@@ -1,5 +1,6 @@
 ---
 title: Rufus Leek
+inflections: [Rufus]
 ---
 
 Ser Rufus Leek is the castellan of the Dun Fort in Duskendale for House Rykker. He is short, stout with a grey beard and an amputated left leg. He can not read. 

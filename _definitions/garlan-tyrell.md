@@ -1,5 +1,6 @@
 ---
 title: Garlan Tyrell
+inflections: [Garlan]
 ---
 
 Lord Garlan Tyrell, better known as Garlan the Gallant, is the second son of Lord Mace Tyrell and Lady Alerie Hightower. His personal coat of arms is two golden roses on green, to denote his status as second son.

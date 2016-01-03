@@ -1,5 +1,6 @@
 ---
 title: Ramsay Snow
+inflections: [Ramsay]
 ---
 
 Ramsay Bolton is the legitimated bastard son of Lord Roose Bolton. Originally named Ramsay Snow, he was known as the Bastard of Bolton and the Bastard of the Dreadfort. Ramsay considers himself a true Bolton despite his birth and is highly resentful of his baseborn status, referring to himself proudly as the trueborn scion of the Dreadfort and violently correcting those who refer to him otherwise.

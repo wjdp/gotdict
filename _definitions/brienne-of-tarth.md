@@ -1,5 +1,6 @@
 ---
 title: Brienne of Tarth
+inflections: [Brienne]
 ---
 
 Brienne, the Maid of Tarth, sometimes mockingly called Brienne the Beauty, is the only child and heir of Lord Selwyn Tarth of Evenfall. Brienne is distinctly unfeminine in appearance, and is considered extremely unattractive by Westerosi standards. She is very tall, muscular, flat-chested and ungainly, with straw-colored hair and broad, coarse features that are covered in freckles. Her teeth are prominent and crooked, her mouth is wide, her lips are swollen, and her nose has been broken more than once.

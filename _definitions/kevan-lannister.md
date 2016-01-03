@@ -1,5 +1,6 @@
 ---
 title: Kevan Lannister
+inflections: [Kevan]
 ---
 
 Ser Kevan Lannister is Tywin Lannister's younger brother. Ser Kevan is described as being a fat fifty five year old man, with rounded shoulders and fair skin.

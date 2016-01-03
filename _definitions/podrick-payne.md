@@ -1,5 +1,6 @@
 ---
 title: Podrick Payne
+inflections: [Podrick]
 ---
 
 Podrick Payne is the squire of Tyrion Lannister. He is from a cadet branch of House Payne. He is a very quiet boy. He is twelve years old.

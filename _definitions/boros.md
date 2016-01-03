@@ -1,7 +1,0 @@
----
-title: Boros
----
-
-Ser Boros Blount is a knight of the Kingsguard. Ser Boros is an ugly man with a broad chest and short, bandy legs. He is bald, has a flat nose, jowls and grey hair. He is short-tempered.
-
-

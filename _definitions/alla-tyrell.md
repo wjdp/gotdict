@@ -1,5 +1,6 @@
 ---
 title: Alla Tyrell
+inflections: [Alla]
 ---
 
 Alla Tyrell is the eldest daughter of Ser Leo Tyrell and Lady Alys Beesbury. She is a granddaughter of Ser Victor Tyrell, the later being a cousin of Lord Mace Tyrell.

@@ -1,5 +1,6 @@
 ---
 title: Amory Lorch
+inflections: [Amory]
 ---
 
 Ser Amory Lorch is a landed knight of House Lorch and bannerman of House Lannister. His arms are a black manticore on a red field. He is a portly man of average height described as having a piggy face with small pig-like eyes. Lorch is regarded as a cruel, simple and small man.

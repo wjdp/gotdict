@@ -1,5 +1,6 @@
 ---
 title: Oberyn Martell
+inflections: [Oberyn]
 ---
 
 Prince Oberyn Nymeros Martell, known as the Red Viper, is Doran's hot-headed younger brother. He has eight bastard daughters, called the Sand Snakes, the four youngest of which by his current paramour Ellaria Sand.

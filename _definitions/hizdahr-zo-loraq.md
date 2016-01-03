@@ -1,5 +1,6 @@
 ---
 title: Hizdahr zo Loraq
+inflections: [Hizdahr]
 ---
 
 Hizdahr zo Loraq, Fourteenth of His Noble Name, is a Ghiscari noble of the city of Meereen, he is extremely wealthy and can trace his descent from several notable Ghiscari citizens such as Mazdhan the Magnificent, Hazrak the Handsome and Zharaq the Liberator.

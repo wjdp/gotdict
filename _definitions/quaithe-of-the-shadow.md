@@ -1,5 +1,6 @@
 ---
 title: Quaithe of the Shadow
+inflections: [Quaithe]
 ---
 
 Quaithe, also known as Quaithe of the Shadow, is a priestess of Asshai. She is a shadowbinder. She is a woman who wears a red lacquered wooden mask.

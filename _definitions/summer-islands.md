@@ -1,5 +1,6 @@
 ---
 title: Summer Islands
+inflections: [Summer Isles]
 ---
 
 The Summer Islands or Summer Isles are a large archipelago located to the south of Westeros and Essos, and west of Sothoryos. The islands separate the Sunset Sea to the west from the Summer Sea to the east. The northern-most islands of the group have been mapped, but it is not known how far south the island chain extends. The mapped portion of the chain includes three large islands and numerous smaller ones.

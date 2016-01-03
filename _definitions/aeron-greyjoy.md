@@ -1,5 +1,6 @@
 ---
 title: Aeron Greyjoy
+inflections: [Aeron]
 ---
 
 Aeron Greyjoy, younger brother of Balon Greyjoy. As result of a near-death experience during the Greyjoy Rebellion, he became priest of the Drowned God, primarily known by his new name, Damphair. Aeron is tall and thin with fierce black eyes and a beak of a nose.

@@ -1,5 +1,6 @@
 ---
 title: Oznak zo Pahl
+inflections: [Oznak]
 ---
 
 Oznak zo Pahl is a noble from Meereen, a scion of the House of Pahl, one of the old slaving families. He wears his hair in the shape of two ram's horns. He wears pink and white as his colors which are the colors of the House of Pahl. His armor is of copper and jet scales.

@@ -1,5 +1,6 @@
 ---
 title: Moreo Tumitis
+inflections: [Moreo]
 ---
 
 Moreo Tumitis is captain of the ship Storm Dancer. He has a forked green beard. Hailing from Tyrosh he can speak the Common Tongue fluently.

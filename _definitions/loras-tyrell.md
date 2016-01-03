@@ -1,5 +1,6 @@
 ---
 title: Loras Tyrell
+inflections: [Loras]
 ---
 
 Ser Loras Tyrell is Lord Mace Tyrell's third son. Known as the Knight of Flowers, he is a highly skilled knight and jouster. His tournament successes, dazzling good looks, and ostentatious showmanship have made him a celebrated figure in the courts of the Seven Kingdoms.

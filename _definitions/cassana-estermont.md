@@ -1,5 +1,6 @@
 ---
 title: Cassana Estermont
+inflections: [Cassana]
 ---
 
 Cassana Estermont was the wife of Steffon Baratheon. With Steffon she had three sons, Robert, Stannis and Renly.

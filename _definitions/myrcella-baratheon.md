@@ -1,5 +1,6 @@
 ---
 title: Myrcella Baratheon
+inflections: [Myrcella]
 ---
 
 Princess Myrcella Baratheon is the second oldest of the royal Baratheon children. Her two brothers are Joffrey and Tommen. Her parents are Robert Baratheon and Cersei Lannister.

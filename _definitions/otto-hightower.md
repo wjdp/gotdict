@@ -1,5 +1,6 @@
 ---
 title: Otto Hightower
+inflections: [Otto]
 ---
 
 Ser Otto Hightower was considered a man of great learning in his time. Ser Otto was famous for his knowledge. For this ability, he was named Hand of the King and was a disaster.

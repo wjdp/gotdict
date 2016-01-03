@@ -1,5 +1,6 @@
 ---
 title: Renly Baratheon
+inflections: [Renly]
 ---
 
 Renly Baratheon is the younger brother of Robert and Stannis Baratheon, all sons of Steffon Baratheon and Cassana Estermont. He rules as Lord of Storm's End, and served as Master of Laws on Robert's small council.

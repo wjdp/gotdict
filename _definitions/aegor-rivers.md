@@ -1,5 +1,6 @@
 ---
 title: Aegor Rivers
+inflections: [Aegor]
 ---
 
 Ser Aegor Rivers, often called Bittersteel, was a renowned warrior and one of the Great Bastards fathered by Aegon IV. His mother was Barba of House Bracken. In his personal arms, he combined the the coat-of-arms of his parents: a red stallion for House Bracken with black dragon wings for House Blackfyre, on a golden field. Bittersteel was a warrior, and looked the part. He was tall and well-made, but also lean and lithe.

@@ -1,5 +1,6 @@
 ---
 title: Merrett Frey
+inflections: [Merrett]
 ---
 
 Merrett Frey is a member of House Frey. He is 37 years old and is the ninth son of Lord Walder Frey. He is the fourth son born of Lord Walder's marriage to Amarei Crakehall. Merrett was a big, broad man.

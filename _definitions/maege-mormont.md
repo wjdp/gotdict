@@ -1,5 +1,6 @@
 ---
 title: Maege Mormont
+inflections: [Maege]
 ---
 
 Lady Maege Mormont is the head of House Mormont and ruler of Bear Island. She inherited her title from her nephew, Ser Jorah Mormont, after he fled into exile.

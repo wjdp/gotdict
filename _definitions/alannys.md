@@ -1,7 +1,0 @@
----
-title: Alannys
----
-
-Alannys Harlaw is the wife of Lord Balon Greyjoy and sister to Lord Rodrik Harlaw. She had four children with Balon; Rodrik, Maron, Asha and Theon. She has long white hair and a strong face.
-
-

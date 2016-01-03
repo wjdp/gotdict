@@ -1,5 +1,6 @@
 ---
 title: Donal Noye
+inflections: [Donal]
 ---
 
 Donal Noye is a member of the Night's Watch. He used to be a smith and soldier for the Baratheons.

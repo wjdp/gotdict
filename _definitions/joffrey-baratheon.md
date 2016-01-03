@@ -1,5 +1,6 @@
 ---
 title: Joffrey Baratheon
+inflections: [Joffrey]
 ---
 
 Joffrey Baratheon is the eldest son and heir of King Robert Baratheon and Queen Cersei Lannister. He is 12 years old at the beginning of the series. Joffrey is strong-willed as a child and has an uncontrollable temper not unlike his mother's and an unchecked sadistic streak. He has little sense of right or wrong, which often leads him to trouble, especially when he loses his temper and when things go wrong, he always blames the problems on others.

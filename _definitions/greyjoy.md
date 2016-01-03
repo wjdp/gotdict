@@ -10,16 +10,26 @@ Thus relegated to their dismal homeland and constrained by the king's peace, the
 
 The known members of House Greyjoy are:
 
-- Lord Balon Greyjoy : Lord of the Iron Islands.
-- Alannys Harlaw : his wife
-- Rodrik Greyjoy : his eldest son. Slain at Seagard in the Greyjoy Rebellion
-- Maron Greyjoy : his second son. Slain at Pyke the Greyjoy Rebellion.
-- Asha Greyjoy : his daughter.
-- [Theon Greyjoy](#theon-greyjoy) : his third son. Fostered at Winterfell.
-- Euron Greyjoy: his brother, called the 'Crow's Eye.'
-- Victarion Greyjoy, his brother. Lord Captain of the Iron Fleet.
-- Aeron Greyjoy, his youngest surviving brother. A priest of the Drowned God. Called the 'Damphair.'
-- Quenton Greyjoy : a distant cousin to the main branch.
-- Dagon Greyjoy : called Dagon the drunkard, a more distant cousin to the main branch.
+Lord Balon Greyjoy : Lord of the Iron Islands.
+
+Alannys Harlaw : his wife
+
+Rodrik Greyjoy : his eldest son. Slain at Seagard in the Greyjoy Rebellion
+
+Maron Greyjoy : his second son. Slain at Pyke the Greyjoy Rebellion.
+
+Asha Greyjoy : his daughter.
+
+Theon Greyjoy : his third son. Fostered at Winterfell.
+
+Euron Greyjoy: his brother, called the 'Crow's Eye.'
+
+Victarion Greyjoy, his brother. Lord Captain of the Iron Fleet.
+
+Aeron Greyjoy, his youngest surviving brother. A priest of the Drowned God. Called the 'Damphair.'
+
+Quenton Greyjoy : a distant cousin to the main branch.
+
+Dagon Greyjoy: called Dagon the drunkard, a more distant cousin to the main branch.
 
 

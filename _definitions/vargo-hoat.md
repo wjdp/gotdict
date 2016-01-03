@@ -1,5 +1,6 @@
 ---
 title: Vargo Hoat
+inflections: [Vargo]
 ---
 
 Vargo Hoat is the leader of the Brave Companions, a particularly unsavory sellsword company referred to as the "Bloody Mummers" in the Seven Kingdoms. The Mummers are described as the scum of the world, criminals and outcasts from many countries, with Hoat himself originating in Qohor. He is sometimes called "the Goat" due to his helm which is shaped to appear like goat horns.

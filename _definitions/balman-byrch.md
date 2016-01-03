@@ -1,5 +1,6 @@
 ---
 title: Balman Byrch
+inflections: [Balman]
 ---
 
 Ser Balman Byrch is a member of House Byrch and the husband of Falyse Stokeworth.

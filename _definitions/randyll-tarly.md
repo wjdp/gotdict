@@ -1,5 +1,6 @@
 ---
 title: Randyll Tarly
+inflections: [Randyll]
 ---
 
 Lord Randyll Tarly is the Lord of Horn Hill and the head of House Tarly. He is married to Melessa Florent and they have two sons Samwell and Dickon. He wields the Tarly ancestral blade Heartsbane, a Valyrian steel greatsword, in battle. He is a lean and balding man with a short, bristly grey beard. He is a narrow man but iron willed, shrewd and capable. He is considered the finest soldier in Westeros and a strong battle commander.

@@ -1,5 +1,6 @@
 ---
 title: Theon Greyjoy
+inflections: [Theon]
 ---
 
 Theon Greyjoy is the son and heir apparent of Lord Balon Greyjoy. At the end of the Greyjoy Rebellion, Theon was taken as a hostage and ward to Eddard Stark.

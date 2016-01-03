@@ -1,9 +1,0 @@
----
-title: Cedric
----
-
-Ser Cedric Payne was a member of House Payne.
-
-Ser Cedric took Podrick Payne in after he was abandoned by his mother. Podrick squired for Ser Cedric until Ser Cedric died.
-
-

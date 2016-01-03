@@ -1,5 +1,6 @@
 ---
 title: Wyman Manderly
+inflections: [Wyman]
 ---
 
 Lord Wyman Manderly, known as Lord Too-Fat-to-Sit-a-Horse, of White Harbor is the head of House Manderly. He has two sons, Ser Wylis and Ser Wendel and has been a widower for eight years.

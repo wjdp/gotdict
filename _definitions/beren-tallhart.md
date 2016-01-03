@@ -1,5 +1,6 @@
 ---
 title: Beren Tallhart
+inflections: [Beren]
 ---
 
 Beren Tallhart is the second son of Leobald Tallhart, himself the younger scion of House Tallhart. He is ten years old.

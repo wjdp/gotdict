@@ -1,5 +1,6 @@
 ---
 title: Alliser Thorne
+inflections: [Alliser]
 ---
 
 Ser Alliser Thorne is a master-at-arms of the Night's Watch at Castle Black. The tone of his voice and his contempt makes him hated by the Night's Watch's recruits.

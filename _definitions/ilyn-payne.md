@@ -1,5 +1,6 @@
 ---
 title: Ilyn Payne
+inflections: [Ilyn]
 ---
 
 Ser Ilyn Payne had his tongue ripped out with hot pincers at the command of Aerys II the Mad King. and can no longer speak. He servs as King's Justice, the royal executioner, in the service of King Robert Baratheon.

@@ -1,9 +1,0 @@
----
-title: Amory
----
-
-Ser Amory Lorch is a landed knight of House Lorch and bannerman of House Lannister. His arms are a black manticore on a red field. He is a portly man of average height described as having a piggy face with small pig-like eyes. Lorch is regarded as a cruel, simple and small man.
-
-He was responsible for the murder of the four-year old Princess Rhaenys Targaryen during the sack of King's Landing. He dragged the screaming toddler from under her father Rhaegar's bed and stabbed her (over fifty times) to death. When Tywin Lannister, who ordered the killing, later asked Lorch why it had taken half a hundred sword thrusts to kill a girl of four, Lorch's reply was she kept screaming and wouldn't be quiet. Lord Tywin later stated if Lorch had the wits the gods gave a turnip he would have used sweet words and a soft pillow to kill the girl instead.
-
-

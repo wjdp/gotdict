@@ -1,5 +1,6 @@
 ---
 title: Arthur Dayne
+inflections: [Arthur]
 ---
 
 Ser Arthur Dayne, known as the Sword of the Morning, was a famed and legendary knight and a member of Aerys II's Kingsguard. He was Prince Rhaegar's closest friend. His accomplishments include defeating the Kingswood Brotherhood. He got the smallfolk to love him by paying for what he and his forces took and taking their grievances before King Aerys II. In the end he slayed the Smiling Knight in single combat and ended the threat of the Brotherhood. Following that victory, he knighted Jaime Lannister, who would later become a sworn brother of the Kingsguard.

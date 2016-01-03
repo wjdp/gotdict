@@ -1,5 +1,6 @@
 ---
 title: Mellario of Norvos
+inflections: [Mellario]
 ---
 
 Lady Mellario of Norvos is the estranged wife of Prince Doran Martell. She has had three children by him: Arianne, Quentyn, and Trystane. She is from the Free City of Norvos. She is younger than her husband.

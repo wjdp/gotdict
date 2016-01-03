@@ -1,5 +1,6 @@
 ---
 title: Cedric Payne
+inflections: [Cedric]
 ---
 
 Ser Cedric Payne was a member of House Payne.

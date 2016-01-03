@@ -1,5 +1,6 @@
 ---
 title: Gerrick Kingsblood
+inflections: [Gerrick]
 ---
 
 Gerrick Kingsblood is a wildling raider. He has a son and three daughters. He boasts descent from King Raymun Redbeard, the King-Beyond-the-Wall who invaded the North and was defeated in the Battle of Long Lake. Raymun and all his sons were killed at Long Lake. Gerrick actually descends from Raymun Redbeard's younger brother, known as the Red Raven, not the

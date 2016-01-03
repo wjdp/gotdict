@@ -1,5 +1,6 @@
 ---
 title: Sansa Stark
+inflections: [Sansa]
 ---
 
 Sansa Stark is the elder daughter of Catelyn and Eddard Stark. She has three brothers (Robb, Bran and Rickon) and a younger sister, Arya.

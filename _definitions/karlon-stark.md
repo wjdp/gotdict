@@ -1,5 +1,6 @@
 ---
 title: Karlon Stark
+inflections: [Karlon]
 ---
 
 Karlon Stark was a younger son of a former Lord of Winterfell. A thousand years ago, after putting down a rebel lord, Karlon was granted lands by his father for his success and bravery. Originally the castle he built was named Karl's Hold but eventually the name changed to Karhold and the Karhold Starks became the Karstarks. 

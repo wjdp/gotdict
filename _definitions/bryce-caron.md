@@ -1,5 +1,6 @@
 ---
 title: Bryce Caron
+inflections: [Bryce]
 ---
 
 Lord Bryce Caron is the head of House Caron of Nightsong. He is also known as Bryce the Orange of King Renly's Rainbow Guard.

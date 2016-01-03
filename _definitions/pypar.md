@@ -1,5 +1,6 @@
 ---
 title: Pypar
+inflections: [Pyp]
 ---
 
 Pypar, more commonly known as Pyp, is a member of the Night's Watch. He is also known as Monkey. He is in the same novice class as Jon Snow. He is small and has large ears.
