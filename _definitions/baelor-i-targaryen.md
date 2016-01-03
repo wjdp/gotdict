@@ -1,0 +1,7 @@
+---
+title: Baelor I Targaryen
+---
+
+Baelor I, known as the Beloved and the Blessed, was the ninth Targaryen king to reign on the Iron Throne. Known for his piety, Baelor was a septon as well as a king. He was the second son of Aegon III and ruled after the death of his brother Daeron I Targaryen. The Great Sept of Baelor in King's Landing features a statue of him. None of the Targaryen dynasty's kings are as beloved as Baelor, he loved the smallfolk and the gods in equal parts - yet imprisoned his own sisters. Baelor was a peaceful, devoted and pious man. He was very thin and frail looking from his repeated fasts. He wore a long beard and hair of typical Targaryen silver-gold color. His crown was made of flowers and vines. Some remember Baelor as a great and holy man, given to deep prayer and fasting to experience religious visions, and honor him for his contributions to the Faith, including the construction of the Great Sept in King's Landing. Others regard him as a weak, simpering fool, prone to hallucinations and bad decisions brought about by excessive zealotry. 
+
+

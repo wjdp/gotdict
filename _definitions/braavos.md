@@ -1,0 +1,11 @@
+---
+title: Braavos
+---
+
+Unique among the Free Cities, Braavos was not a Valyrian colony, but a secret refuge from Valyrian expansion. A seafaring city of tiny islands, Braavos is known for its swashbuckling bravos and its Guild of the Faceless Men. It is also famed for the Titan of Braavos, both a fortress and a statue.
+
+Map on Next page.
+
+![Image](images/000027.jpg)
+
+

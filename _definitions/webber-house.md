@@ -1,0 +1,11 @@
+---
+title: Webber (House)
+---
+
+House Webber of Coldmoat is a noble house from the Reach. It is sworn to House Rowan. Their lands border those of House Osgrey. Their blazon is a a black field with a spotted spider on a silver web.
+
+The known members of this house are:
+
+Webber: a member of the Windblown
+
+

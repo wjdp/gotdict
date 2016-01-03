@@ -1,0 +1,15 @@
+---
+title: Summerhall
+---
+
+Summerhall was a lightly fortified castle that was used by the Targaryens as a summer castle and a royal residence. It was destroyed in a great fire in 259AL.
+
+Summerhall was built in the Dornish Marches during the notably pro-Dornish reign of King Daeron II Targaryen. It sits roughly where Dorne, the Reach, and the Stormlands come together, near the end of the Boneway pass.
+
+It was a Targaryen summer castle and royal residence used frequently by Daeron in his youth. As he grew older, he left King's Landing less frequently and Summerhall passed to his youngest son, Prince Maekar. The prince maintained a household there after the Blackfyre Rebellion. This was possible since Dareon's heir Baelor had Dragonstone, and Aerys and Rhaegel seldom left the court.
+
+Map on Next page.
+
+![Image](images/000020.jpg)
+
+

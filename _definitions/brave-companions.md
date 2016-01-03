@@ -1,0 +1,9 @@
+---
+title: Brave Companions
+---
+
+The Brave Companions are a sellsword company of considerably ill repute. It comprises criminals and outcasts from many nations. The band is led by Vargo Hoat, a tall, gaunt, lisping man from Qohor. The band is often called the "Bloody Mummers" by the Westerosi for its members' brutality and outlandish appearance, though they find this name insulting. They are also called the Footmen for Vargo's practice of cutting off the hands and feet of prisoners.
+
+Some of the company's notable members include Qyburn, a disgraced maester, Septon Utt, a child-killing priest of the Seven, Shagwell, a psychotic jester, and Fat Zollo, a Dothraki. Their standard is a black goat with bloody horns, symbolizing the Black Goat of Qohor.
+
+

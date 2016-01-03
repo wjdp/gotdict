@@ -1,0 +1,7 @@
+---
+title: Morya Frey
+---
+
+Lady Morya Frey is the third daughter of Lord Walder Frey. She is the first daughter born of Lord Walder Frey and Alyssa Blackwood. She is married to Ser Flement Brax. They have three children.
+
+

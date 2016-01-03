@@ -1,0 +1,15 @@
+---
+title: Eastwatch-by-the-Sea
+---
+
+Eastwatch-by-the-Sea is the easternmost castle along the Wall, located on a grey, windswept shore by the Bay of Seals.. During the event of A Game of Thrones there were fewer than two hundred men stationed there, commanded by Cotter Pyke. Eastwatch has its own maester.
+
+The Night's Watch keeps several galleys at Eastwatch, both larger vessels capable of crossing the Narrow Sea and lean fighting vessels The galleys patrol the Bay of Seals in part to catch smugglers who trade weapons to the wildlings.
+
+Near Eastwatch live some fisherfolk and to the west lies Greenguard.
+
+Map on Next page.
+
+![Image](images/000037.jpg)
+
+

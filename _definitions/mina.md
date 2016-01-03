@@ -1,0 +1,7 @@
+---
+title: Mina
+---
+
+Lady Mina Tyrell is the sister to Lord Mace Tyrell and wife of Lord Paxter Redwyne. She has two sons, Ser Horas and Ser Hobber and a daughter, Desmera. She is younger than her husband. 
+
+

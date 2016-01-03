@@ -1,0 +1,7 @@
+---
+title: Ronnet
+---
+
+Ser Ronnet Connington, also known as Red Ronnet, is the Knight of Griffin's Roost. He has a red beard. He was once betrothed to Brienne of Tarth. He was six years her senior, however he had no real interest in marrying her. 
+
+

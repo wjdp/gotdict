@@ -1,0 +1,7 @@
+---
+title: Anya
+---
+
+Lady Anya Waynwood is an old woman who heads House Waynwood. She is widowed and has three sons: Morton, Donnel and Wallace. The young Harrold Hardyng, the heir-presumptive of the Vale, is her cousin and ward. Lady Waynwood has greying hair, loose skin beneath her chin, and crows-feet around her eyes, but is described as having a distinct air of nobility. She wears a mantle on her arm. 
+
+

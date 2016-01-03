@@ -1,0 +1,9 @@
+---
+title: Roose Bolton
+---
+
+Roose Bolton is the head of House Bolton and Lord of the Dreadfort. Though mild-mannered, he is cold, calculating, and capable of great cruelty. He speaks softly, never raising his voice, forcing those who listen to do so intently. He receives regular leechings, which he believes to improve his health, prompting some to call him "The Leech Lord".
+
+Roose is patient with a cold cunning, possessing a skill for strategy and a calculating nature. His body is "soft hairless". He is of average size and is "not handsome but not quite plain", with his only noticeable feature being his eerie eyes, which are as pale and strange as two white moons, to Jaime they are paler than stone, darker than milk. His skin is pasty white, most likely due to the leechings. His voice is spider soft. 
+
+

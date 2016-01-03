@@ -1,0 +1,7 @@
+---
+title: Symeon Star-Eyes
+---
+
+Symeon Star-Eyes is a legendary knight from the Age of Heroes who was blind. According to legend, Symeon was a knight who lost both of his eyes. He replaced them with star sapphires. He fought with a long staff with blades at both ends and would spin it in his hands to chop down two men at once. He once visited the Nightfort where he saw hellhounds fighting. 
+
+

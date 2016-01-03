@@ -1,0 +1,13 @@
+---
+title: Thenn
+---
+
+Thenn is a region located in the northernmost area beyond the Wall. It is located in a mountain valley in the peaks of the Frostfangs. Thenn lies at almost the northern end of the Frostfangs. The inhabitants are called the Thenn. The Thenn consider themselves the last of the First Men, they speak the Old Tongue and most have only a few words of the Common Tongue. The Thenn led by the Magnar, who is considered more a god than a man by his people. According to Jon, the Thenn are more sophisticated and closer to people south to the wall, because they have laws and lords in their valley.
+
+The Thenns are savage fighters, but because of their belief in their Magnar as their god they are absolutely obedient and much more disciplined than other wildlings. They are often better equipped than most wildlings, with bronze helms, axes of bronze and a few axes of chipped stone, short stabbing spears with leaf-shaped heads, shirts sewn with bronze discs, and plain unadorned shields of black boiled leather with bronze rims and bosses.
+
+Map on Next page.
+
+![Image](images/000037.jpg)
+
+

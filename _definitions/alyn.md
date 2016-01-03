@@ -1,0 +1,25 @@
+---
+title: Alyn
+---
+
+There are several Alyns:
+
+Alyn of the Rosewood : a member of the nightwatch
+
+Alyn Ambrose : Son of Lord Arthur Ambrose
+
+Alyn Connington : former Lord commander of Kingsguard
+
+Alyn Estermont : so of Aemon Eastermont
+
+Alyn Frey : member of House Frey
+
+Alyn Haigh : a squire
+
+Alyn Hunt : A knight of House Hunt
+
+Alyn Stackspear : a Knight of House Stackspear
+
+Alyn Velaryon : A former Admiral of Westeros
+
+

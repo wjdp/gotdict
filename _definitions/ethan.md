@@ -1,0 +1,11 @@
+---
+title: Ethan
+---
+
+Ethan Glover was a member of House Glover. He was the former squire to Brandon Stark.
+
+When the news of Lyanna Stark's abduction at the hands of Prince Rhaegar Targaryen reached Brandon, he and his party, which included Ethan, took off for King's Landing. There, Brandon rode into the Red Keep demanding that Rhaegar come out to die. King Aerys II had Brandon and his party arrested for threatening the life of the crown Prince. The father's of Brandon and his companions were called to King's Landing to answer for their son's crimes. The father's, as well as the sons, were all executed by King Aerys II, although Ethan was not. This chain of events lead to the start of Robert's Rebellion. Ethan presumedly spent the majority of the war in the King's Landing dungeons until he was freed after the Sack of King's Landing by the Lannisters.
+
+He joined Eddard Stark, Brandon's younger brother, when he marched south to lift the Siege at Storm's End. From there, he was part of Ned's party that travelled to the Tower of Joy. He was slain at the Tower of Joy during a fight with the last three members of the Kingsguard.
+
+

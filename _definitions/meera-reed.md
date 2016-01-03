@@ -1,0 +1,11 @@
+---
+title: Meera Reed
+---
+
+Meera Reed is Howland Reed's daughter and oldest child. Her younger brother is Jojen Reed. She is sixteen years old. As is typical of crannogmen, Meera is short and slim. She has long brown hair and green eyes. Although she is flat chested and is never remarked as being particularly beautiful.
+
+Meera has been taught to fight with a net and a three prong frog spear by her father. She is a fine huntress, able to easily spear fish with her spear. She was able to defeat Summer in mock combat with her weapons by entangling the direwolf, in her net.
+
+Meera is described as having a cheerful disposition, in stark contrast to her sullen brother. She is intensely loyal and protective of her "prince" as well as her own brother, and will not back down from a fight if need be. Bran says that the only thing that ever makes her angry or upset is her brother Jojen . 
+
+

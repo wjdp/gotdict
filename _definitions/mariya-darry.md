@@ -1,0 +1,7 @@
+---
+title: Mariya Darry
+---
+
+Mariya Darry is the wife of Merrett Frey, who considers her a shrew. They have four children. She is the daughter of a previous Lord Darry. She is a handsome woman with grey streaks in her hair. During her marriage to Merrett Frey, whom she found disappointing, she had three girls, a stillbirth, a girl that died in infancy and then a son. 
+
+

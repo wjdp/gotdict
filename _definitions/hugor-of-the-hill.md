@@ -1,0 +1,7 @@
+---
+title: Hugor of the Hill
+---
+
+King Hugor of the Hill was the first King of the Andals in Andalos.
+
+

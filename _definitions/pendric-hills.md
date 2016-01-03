@@ -1,0 +1,11 @@
+---
+title: Pendric Hills
+---
+
+ The Pendric Hills are the site of a gold mine in the Westerlands.
+
+Map on Next page.
+
+![Image](images/000014.jpg)
+
+

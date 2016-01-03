@@ -1,0 +1,25 @@
+---
+title: Vance of Atranta
+---
+
+House Vance of Atranta is one of the two great branches of House Vance in the Riverlands, the other being House Vance of Wayfarer's Rest.
+
+They blazon their arms as quartered, a green dragon on white and a white tower on black.
+
+The known members of this house are:
+
+Lord Norbert Vance, Lord of Atranta. A blind old man.
+
+Ser Ronald Vance : his eldest son and heir.
+
+Ser Hugo Vance : his second son.
+
+Ser Ellery Vance: his third son.
+
+Ser Kirth Vance : his fourth son.
+
+Maester Jon : his fifth son
+
+Ser Dafyn Vance :He married Maegelle Frey
+
+

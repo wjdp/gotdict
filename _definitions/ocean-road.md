@@ -1,0 +1,11 @@
+---
+title: Ocean Road
+---
+
+The Ocean Road is a stretch of road that begins near Old Oak and travels along the coast until it moves inland as it makes its way to Highgarden.
+
+Map on Next page.
+
+![Image](images/000011.jpg)
+
+

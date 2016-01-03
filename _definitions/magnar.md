@@ -1,0 +1,9 @@
+---
+title: Magnar
+---
+
+House Magnar of Kinghouse is a noble house from the island of Skagos in the North. They blazon their arms with a green lobster on white, its claws holding a black harpoon. Their name derives from the Old Tongue word, magnar, meaning "lord".
+
+There are no known members of this house
+
+

@@ -1,0 +1,9 @@
+---
+title: Roundel
+---
+
+1. a stiff-bladed dagger with a round handgaurd and round or spherical pommel. It was carried as a sidearm by knights in tournaments where it could be used to puncture chainmail or joints in the armor of an opponent.
+
+2. circular pieces of metal armor, used commonly to protect the vulnerable armpit area, also called a besagew image
+
+

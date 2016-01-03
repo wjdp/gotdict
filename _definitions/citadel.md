@@ -1,0 +1,13 @@
+---
+title: Citadel
+---
+
+The Citadel is a complex of buildings in Oldtown that serves as headquarters to the order of the Maesters. It is the place where they convene, study, and train new members. It is also the residence of the archmaesters. House Hightower played an integral role in the foundation of the Citadel and continue to be strong patrons of learning.
+
+The Citadel lies on the Honeywine, where its towers and domes are connected with arching stone bridges. Houses and stalls sit on the bridges. The gates are flanked by a pair of tall green sphinxes with the bodies of lions, the wings of eagles and the tails of serpents. One has the face of a man, the other a woman.
+
+Map on Next page.
+
+![Image](images/000011.jpg)
+
+

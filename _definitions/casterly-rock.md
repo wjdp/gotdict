@@ -1,0 +1,13 @@
+---
+title: Casterly Rock
+---
+
+ Casterly Rock is a fortress, overlooking the harbor of Lannisport and the Sunset Sea. It is the seat of House Lannister.
+
+The fortress is carved out of a great stone hill and its natural defenses are further enhanced with walls and other structures, In fact, the Rock has never fallen. Legend says that Casterly Rock is named for the family that ruled it in the Age of Heroes, the Casterlys, who no longer exist. The Lannisters trace their rule over it back to the Lann the Clever who tricked the Casterlys out of their castle and claimed it for his own. After Harrenhal, the Rock is most likely the second-largest castle in the realm.
+
+Map on Next page.
+
+![Image](images/000014.jpg)
+
+

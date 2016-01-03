@@ -1,0 +1,11 @@
+---
+title: Lys
+---
+
+Lys is another of the Free Cities that sits astride a series of islands. The Lysene have a tendency to be tall and fair of skin and eyes, unlike most inhabitants of the Free Cities. Lys is well known for its pleasure houses, training slaves in the arts of love and selling them as concubines and bed-slaves. Lys also frequently fights over control of the Stepstones and the Disputed Lands. There appears to be a love goddess whose worship is peculiar to Lys.
+
+Map on Next page.
+
+![Image](images/000027.jpg)
+
+

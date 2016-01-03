@@ -1,0 +1,7 @@
+---
+title: Benjen Stark
+---
+
+Benjen Stark is the younger brother of Lord Eddard Stark and a sworn brother of the Night's Watch. He is the First Ranger, or leader of the rangers, of the Night's Watch.
+
+

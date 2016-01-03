@@ -1,0 +1,11 @@
+---
+title: Doran
+---
+
+Doran Nymeros Martell is the Prince of Dorne and Lord of Sunspear. He is a cautious, pensive man who does not wear his emotions on his sleeve. He has a bad case of gout and has trouble walking. He attempts to appear neutral in the War of the Five Kings, but has shown a desire to avenge his murdered sister Elia Martell.
+
+He is rarely seen in public because of the gout, as he does not want to appear weak to his enemies. He met his wife Mellario of Norvos while traveling in the Free Cities. They fell in love and married. Although Mellario was high born enough to become his wife, most marriages between nobles in Westeros are political marriages and a love match is very uncommon. The couple had three children. Although they married out of love, the marriage was not very happy. Mellario could not get used to Dornish customs.
+
+Shortly after the birth of Trystane, Quentyn was sent to be fostered as the ward and squire of Lord Anders Yronwood. This was done to make peace with the Yronwoods after the previous Lord Ormond Yronwood had died of his wounds taken in a duel with Oberyn. Mellario did not approve and went back to Norvos. He avoids the commoners and only sees his trusted courtiers and advisors to hide his weakness from his enemies. 
+
+

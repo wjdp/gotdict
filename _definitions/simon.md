@@ -1,0 +1,7 @@
+---
+title: Simon
+---
+
+Simon Toyne was the leader of the Kingswood Brotherhood, an outlaw organization that operated during the reign of Aerys II. He was killed by Ser Barristan the Bold.
+
+

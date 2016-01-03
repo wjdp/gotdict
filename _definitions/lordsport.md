@@ -1,0 +1,11 @@
+---
+title: Lordsport
+---
+
+Lordsport is a small harbor town with a keep, on the island of Pyke, providing safe anchor for those who wish to reach the castle of Pyke. It is the seat of House Botley.
+
+During the Greyjoy Rebellion, Lordsport and its keep were the first place on Pyke to fall, when Robert Baratheon and his forces embarked uponon the island. The keep and the town was razed and the sept was burned to the ground.
+
+![Image](images/000042.jpg)
+
+

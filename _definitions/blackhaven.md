@@ -1,0 +1,13 @@
+---
+title: Blackhaven
+---
+
+Blackhaven is the seat of House Dondarrion. It sits at the bottom of the Boneway, as the last stop before one enters the passes of the Dornish Marches.
+
+When Ser Barristan Selmy was ten years old, he borrowed armor and entered a tourney as a mystery knight that took place at Blackhaven, where he was eventually defeated and unmasked by Prince Duncan Targaryen. For that, Barristan earned the nickname 'Bold'.
+
+Map on Next page.
+
+![Image](images/000020.jpg)
+
+

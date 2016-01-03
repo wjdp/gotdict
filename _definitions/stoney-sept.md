@@ -1,0 +1,13 @@
+---
+title: Stoney Sept
+---
+
+Stoney Sept is a walled town in the Riverlands. The sept sits on a hill. Below it is a holdfast made of grey stone that seems undersized for the town that surrounds it. The heart of Stoney Sept is a market square with a fountain in the shape of a leaping trout.
+
+Stoney Sept was the site of one of the most important battles of Robert's Rebellion. Robert Baratheon, with the aid of Lords Eddard Stark, Jon Arryn and Hoster Tully beat a royal army under the command of Lord Jon Connington, the Hand of the King to Aerys II.
+
+Map on Next page.
+
+![Image](images/000007.jpg)
+
+

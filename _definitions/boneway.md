@@ -1,0 +1,9 @@
+---
+title: Boneway
+---
+
+The Boneway is a major pass that runs through the Red Mountains, connecting Dorne and the Stormlands. The name may be a colloquial name, with the 'Stone Way' being its official name
+
+![Image](images/000024.jpg)
+
+

@@ -1,0 +1,11 @@
+---
+title: Mermaid's Palace
+---
+
+Mermaid's Palace is a small isle off the coast of the Arbor.
+
+Map on Next page.
+
+![Image](images/000011.jpg)
+
+

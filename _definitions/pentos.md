@@ -1,0 +1,11 @@
+---
+title: Pentos
+---
+
+Pentos is a major trading port on a bay of the western coast. Dominated by an architecture of square brick towers it is headed by a Prince that is chosen by the de facto rulers of the city, known as Magisters. Khalasars occasionally make their way this far from the Dothraki Sea, but the Pentoshi are spared much of the raiding and invasions by paying tribute to their khals. Men from Pentos wear dyed and forked beards. As in many Free Cities, slavery is outlawed, but the wealthy and powerful members of the city have the ability to flout these laws by keeping servants collared in bronze.
+
+Map on Next page.
+
+![Image](images/000027.jpg)
+
+

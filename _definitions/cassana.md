@@ -1,0 +1,9 @@
+---
+title: Cassana
+---
+
+Cassana Estermont was the wife of Steffon Baratheon. With Steffon she had three sons, Robert, Stannis and Renly.
+
+King Aerys II sent Lord Steffon, his cousin, and his wife to the Free Cities to search for a bride for his son, Rhaegar Targaryen. Their quest was unsuccesfull but they did find a remarkable fool called Patchface. During the return journey the Windproud, their ship was caught in a severe storm. Within sight of Robert and Stannis, who were standing on the towers of Storm's End, the ship was smashed on the rocks and sank. Cassana, Steffon and hundreds of men drowned. Patchface was the only survivor.
+
+

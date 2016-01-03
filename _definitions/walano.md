@@ -1,0 +1,11 @@
+---
+title: Walano
+---
+
+ Walano is the northern most of the major islands in the Summer Islands . On its south coast are cites of Tall Trees Town, and Lotus Port and on it northern coast is town of Last Lament. It is located in the Summer Sea. To the south of Walano are the smaller islands of Koj the Isle of Birds iin the Smiling Sea., To the north the smaller island of Stone Head and the Isle of Women.
+
+Map on Next page.
+
+![Image](images/000054.jpg)
+
+

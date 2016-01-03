@@ -1,0 +1,7 @@
+---
+title: Leal
+---
+
+loyal, faithful
+
+

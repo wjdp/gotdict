@@ -1,0 +1,11 @@
+---
+title: Quiet isle
+---
+
+The Quiet Isle is an upthrust island that sits at the mouth of the river Trident where it flows into the Bay of Crabs. It is a refuge for those sworn to the Faith of the Seven. The isle lies across the river to the south of Saltpans. Thick mudflats surround the island when the tide goes out. When the tide is in the brothers use a ferry to get to the mainland.
+
+Map on Next page.
+
+![Image](images/000009.jpg)
+
+

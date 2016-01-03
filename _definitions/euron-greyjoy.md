@@ -1,0 +1,11 @@
+---
+title: Euron Greyjoy
+---
+
+Euron Greyjoy is a younger brother of Balon and is known as "Crow's Eye". He is captain of the Silence, a ship crewed entirely by mutes whose tongues Euron ripped out. His personal coat-of-arms is a red eye with a black pupil beneath a black iron crown supported by two crows.
+
+Euron is pale and handsome with black hair and a dark beard. He wears a patch over his left eye, and is nicknamed "Crow's Eye". According to his nephew, Theon, the patch conceals a "black eye shining with malice". His right eye is as blue as summer sky and is regarded as his "smiling eye". In addition, his lips are a pale blue, due to his propensity to drink shade of the evening.
+
+He is a wildly unpredictable man, known for his delight in playing vicious mind games and waging psychological warfare on anyone around him. He is hated by all his brothers for this reason. He is a skilled warrior and manipulator, and is cunning, shrewd and ruthless. 
+
+

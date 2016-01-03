@@ -1,0 +1,11 @@
+---
+title: Harrenhal
+---
+
+Harrenhal is a great castle constructed before the War of Conquest, located in the Riverlands, on the north shore of the Gods Eye lake. It is the largest castle in the Seven Kingdoms. Since the War of Conquest, however, it has become a dark and ruinous place.
+
+Map on Next page.
+
+![Image](images/000007.jpg)
+
+

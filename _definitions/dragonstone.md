@@ -1,0 +1,11 @@
+---
+title: Dragonstone
+---
+
+Dragonstone is the name of the island located at the entrance to Blackwater Bay and the castle thereon, which was shaped from stone to look like dragons. Dragonstone was the original seat of House Targaryen in Westeros during the Valyrian Freehold, later serving as the seat of their heir apparent ("The Prince of Dragonstone") after their conquest of the Seven Kingdoms. After Robert Baratheon overthrew the Targaryens, he gave the island to his brother Stannis, creating House Baratheon of Dragonstone. The castle has a dark reputation.
+
+Dragonstone is a volcanic island at the mouth of Blackwater Bay, created by the active volcano, Dragonmont. The castle of Dragonstone is a small fortress located on the face of the volcano. Outside its walls sits a small fishing village on the stormy coast.
+
+![Image](images/000025.jpg)
+
+

@@ -1,0 +1,11 @@
+---
+title: Wall
+---
+
+The Wall is a massive wall over 700 feet high and is made of ice, stretching 300 miles across the northern border of the Seven Kingdoms, separating it from the wild lands beyond and is regarded as one of the nine Wonders Made by Man. The Wall is defended and held by the Sworn Brothers of the Night's Watch, who patrol and guard the castles from the Frostfangs Mountain range in the west to the Bay of Seals in the east.
+
+Map on Next page.
+
+![Image](images/000037.jpg)
+
+

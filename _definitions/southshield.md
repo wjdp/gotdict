@@ -1,0 +1,11 @@
+---
+title: Southshield
+---
+
+Southshield is an island of the Shield Islands in the Reach. It lies near the mouth of the river Mander. It is the seat of House Serry.
+
+Map on Next page.
+
+![Image](images/000011.jpg)
+
+

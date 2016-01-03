@@ -1,0 +1,15 @@
+---
+title: Twins
+---
+
+The Twins, sometimes known as The Crossing, is the name given to the fortified river crossing of House Frey. located within the Riverlands. It consists of two identical castles each stands on a margin of the Green Fork of the Trident. A stone bridge arches between them. This bridge is wide enough for two wagons to cross abreast, and is guarded by a tower in the middle known as the Water Tower. It is the only crossing point over the Green Fork for hundreds of miles in either direction, from the North to the western Riverlands. It lies directly athwart the main route from Winterfell to Riverrun.
+
+It took the Freys three generations to complete the fortress, starting six hundred years ago with timber keeps on either bank of the river. Since then, the Freys have grown wealthy by charging a heavy toll on all those who need to cross - a fact which irks many older or more powerful houses. The timber keeps have since been replaced by stone. These castles are what give the stronghold its name, for they are identical. They have high curtain walls, deep moats and a barbican and portcullis in each. The bridge footings rise from within the inner keeps. Given their strong castle, strategic location, wealth, and numbers, the Freys are one of the most powerful bannerhouses sworn to House Tully, able to raise four thousand men-at-arms.
+
+The seat of the Lord of The Crossing is a massive chair of black oak. Its back is carved in the shape of two towers joined by an arched bridge.
+
+Map on Next page.
+
+![Image](images/000007.jpg)
+
+

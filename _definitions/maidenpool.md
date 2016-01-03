@@ -1,0 +1,15 @@
+---
+title: Maidenpool
+---
+
+Maidenpool is a town in the Riverlands. It lies near the Bay of Crabs. It is the seat of House Mooton. The town takes its name from the pool where the legendary Florian first spied Jonquil bathing with her sisters. The castle at Maidenpool sits on a hill, and the town is walled. East of Maidenpool are hills.
+
+There are two roads leading to King's Landing from Maidenpool. One that goes through Duskendale and the other which travels along the coast. The Duskendale road is faster.
+
+Maidenpool has a busy harbor, Fisherfolk northwest of Maidenpool fish the waters in leather coracles. Others collect clams.
+
+Map on Next page.
+
+![Image](images/000007.jpg)
+
+

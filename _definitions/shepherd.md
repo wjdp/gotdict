@@ -1,0 +1,9 @@
+---
+title: Shepherd
+---
+
+House Shepherd is a noble house from the Iron Islands. Neither its arms nor its words have appeared yet. It is considered a young house of small stature.
+
+There are no known members.
+
+

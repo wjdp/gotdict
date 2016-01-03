@@ -1,0 +1,7 @@
+---
+title: Wynton
+---
+
+Ser Wynton Stout is a ranger of the Night's Watch. He is old and has lost his wits. hirty years before the War of the Five Kings, Ser Wynton came within a dozen votes of being named Lord Commander. He has been a ranger in the Night's Watch for eighty years. 
+
+

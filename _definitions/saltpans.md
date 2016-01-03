@@ -1,0 +1,11 @@
+---
+title: Saltpans
+---
+
+Saltpans is a town in the Riverlands that sits on the Bay of Crabs and the seat of House Cox. It has never been an important trading port but ships do call there from time to time. A small castle dominates the town. A tall, square keep with a bailey and a curtain wall. The castle overlooks the harbor.
+
+Map on Next page.
+
+![Image](images/000007.jpg)
+
+

@@ -1,0 +1,11 @@
+---
+title: Oakenshield
+---
+
+Oakenshield is one of the four islands that make up the Shield Islands. It lies to the west of Highgarden. Lord Hewett's Town is found on the island.
+
+Map on Next page.
+
+![Image](images/000011.jpg)
+
+

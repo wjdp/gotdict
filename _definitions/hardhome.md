@@ -1,0 +1,11 @@
+---
+title: Hardhome
+---
+
+Hardhome is a community of Wildlings north beyond the Wall. It is on the tip of the peninsula Storrold's Point on the Shivering Sea. Hardhome sits on a sheltered bay and has natural harbor deep enough for the biggest ships afloat. Woods and stone are plentiful near there. The waters teem with fish, and there are colonies of seals and sea cows close at hand.
+
+Hardhome was close to becoming the only true town north of the Wall. But about 300 years before Aegon's Landing the town was attacked, with it's people carried off into slavery or slaughtered for meat. Their homes were said to have burned with flames so high and hot that the watchers on the Wall were said to have thought that the sun was rising in from the north. Traders reported only devastation at the site.
+
+![Image](images/000037.jpg)
+
+

@@ -1,0 +1,13 @@
+---
+title: Massey
+---
+
+House Massey of Stonedance is a noble house of the Crownlands. They blazon their arms with a triple spiral; red, green and blue, on white, an ancient sigil for an ancient House.
+
+The known members of this house are:
+
+Wallace Massey, a member of the Night's Watch.
+
+Ser Justin Massey, a knight in service of Stannis Baratheon. 
+
+

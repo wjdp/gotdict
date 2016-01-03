@@ -1,0 +1,11 @@
+---
+title: Sherrer
+---
+
+Sherrer is a holdfast in the Riverlands. The holdfast is made of stone. There is an alehouse located next to the stone bridge owned by a man named Joss.
+
+Map on Next page.
+
+![Image](images/000007.jpg)
+
+

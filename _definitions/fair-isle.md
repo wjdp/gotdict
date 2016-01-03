@@ -1,0 +1,15 @@
+---
+title: Fair Isle
+---
+
+Fair Isle is an island off the coast of the Westerlands. It is controlled by House Farman, whose seat Faircastle, sits on it.
+
+The brothers Arron and Emrick come from Fair Isle.
+
+During the reign of Aerys I, the ironborn raided Fair Isle, making off with half its worth. The Battle of Fair Isle took place off the coast during the Greyjoy Rebellion.
+
+Map on Next page.
+
+![Image](images/000014.jpg)
+
+

@@ -1,0 +1,28 @@
+# Site settings
+title: GOTDict
+description: "Kindle dictionary for A Song of Ice and Fire."
+lang: "en"
+author: "Various"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+website: "https://wjdp.github.io/gotdict" # For issue posting
+
+# Build settings
+markdown: kramdown
+
+# Prevents excerpts from being generated (wasted 50s+ on build)
+# See https://github.com/jekyll/jekyll/pull/1386
+excerpt_separator: ""
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - kindlegen
+
+destination: _output
+
+collections:
+  definitions:
+    output: false
+

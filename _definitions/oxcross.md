@@ -1,0 +1,11 @@
+---
+title: Oxcross
+---
+
+ Oxcross is a village not three days ride from Lannisport in the Westerlands.
+
+Map on Next page.
+
+![Image](images/000014.jpg)
+
+

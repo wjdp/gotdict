@@ -1,0 +1,11 @@
+---
+title: Littlefinger
+---
+
+Lord Petyr Baelish, sometimes called Littlefinger, was Master of Coin (or treasurer) on the King's Small Council. Petyr wears a mockingbird as his crest instead of his family sigil.
+
+A short man of slender build, with handsome features, Petyr has gray-green eyes, a small pointed beard on his chin, and threads of grey running throughout his dark hair.
+
+Petyr was born to a small and insignificant house, spending most of his adult life trying to rise above his lowly birthright and become something greater, craving for power and status. He possesses considerable skill in commerce and coin, and is a master of court intrigue, his brilliance matched only by his ambition and his gift for political improvisation.
+
+

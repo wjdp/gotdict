@@ -1,0 +1,11 @@
+---
+title: Greenshield
+---
+
+Greenshield is one of the Shield Islands in the Reach. It lies near the mouth of the river Mander. It is the seat of House Chester.
+
+Map on Next page.
+
+![Image](images/000011.jpg)
+
+

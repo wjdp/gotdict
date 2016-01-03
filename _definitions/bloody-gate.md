@@ -1,0 +1,13 @@
+---
+title: Bloody Gate
+---
+
+The Bloody Gate is a series of battlements placed across the mountain road that leads into the Vale of Arryn from the Mountains of the Moon. There are two long parapets built into the stone of the mountains. The pass, narrow where it meets the gate, is watched over by twin watchtowers, which are joined by a covered bridge of grey stone that arches above the road.
+
+The Knight of the Gate is the title given to the commander of the Bloody Gate. He traditionally asks the question, "Who would pass the Bloody Gate?" of all who would pass through.
+
+Map on Next page.
+
+![Image](images/000009.jpg)
+
+

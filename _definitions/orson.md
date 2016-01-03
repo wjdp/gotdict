@@ -1,0 +1,7 @@
+---
+title: Orson
+---
+
+Orson Stone is a sellsword and member of the Windblown. He is known as the Bastard Knight by the rest of the Windblown. His surname implies that he is probably a bastard born or raised in Vale. At some time the Tattered Prince dispatched Orson's brother to the Sorrows.
+
+

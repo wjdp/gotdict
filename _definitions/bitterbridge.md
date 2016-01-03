@@ -1,0 +1,11 @@
+---
+title: Bitterbridge
+---
+
+Bitterbridge is the seat of House Caswell in the Reach. It is situated where the river Mander meets the Roseroad. It takes its name from an ancient stone bridge that crosses the Mander. The castle is small, made of stone and timber. The keep is not that tall, however the land is low and flat and makes it seem taller.
+
+Map on Next page.
+
+![Image](images/000011.jpg)
+
+

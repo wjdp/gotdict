@@ -1,0 +1,7 @@
+---
+title: Allar Deem
+---
+
+Allar Deem is a member of the City Watch of King's Landing and one of Janos Slynt's most ardent supporters. He is feared on the streets.
+
+

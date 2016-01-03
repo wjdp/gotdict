@@ -1,0 +1,7 @@
+---
+title: Arys
+---
+
+Ser Arys Oakheart is a knight of the Kingsguard, serving under King Robert I and his heirs. He is the youngest son of Lady Arwyn Oakheart, the head of House Oakheart. Ser Arys has light-brown hair and a comely face.
+
+

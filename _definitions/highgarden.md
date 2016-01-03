@@ -1,0 +1,13 @@
+---
+title: Highgarden
+---
+
+Highgarden Castle is the seat of House Tyrell, regional capital of the Reach and heart of chivalry in the Seven Kingdoms. It lies on the Mander and there the Ocean Road meets the Roseroad, making it an important crossroads.
+
+The castle is described as having groves and fountains, shady courtyards, and marble colonnades. It is filled with singers, pipers, fiddlers and harpers. The stables have a fine selection of horseflesh, and there are pleasure boats to sail along the Mander.
+
+Map on Next page.
+
+![Image](images/000011.jpg)
+
+

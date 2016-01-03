@@ -1,0 +1,19 @@
+---
+title: Dayne of Starfall
+---
+
+ House Dayne of Starfall is a Dornish noble house sworn to House Martell. The Sword of the Morning is a title given to a Dayne knight who is considered worthy of wielding the greatsword Dawn, a blade said to be created from the heart of falling star. Their sigil is a sword and a falling star on a lavender background. A cadet branch of House Dayne are the Daynes of High Hermitage. In appearance, members of the family are stony Dornishmen whose characteristics mostly resemble the rest of the Seven Kingdoms in look, customs and traditions. Unlike the rest of the more rhoynar-looking Dornishmen they have pale skin with hair ranging from dark brown to pale blond and that they often have violet eyes.
+
+The known members of this house are:
+
+Lord Edric Dayne, Lord of Starfall.
+
+Ser Arthur Dayne, his uncle and the Sword of the Morning.
+
+Ashara Dayne, his aunt.
+
+Allyria Dayne, his aunt
+
+Gerold Dayne, cousin of Arthur and Edric from an unknown distant relative. 
+
+

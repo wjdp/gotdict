@@ -1,0 +1,9 @@
+---
+title: Bael
+---
+
+Bael, more commonly known as Bael the Bard, is a former King-Beyond-the-Wall. According to legend, he was one of the greatest Free Folk raiders of his time, who outwitted the Northmen and even managed to impregnate Lord Brandon Stark's daughter, he was also a bard who wrote songs about his own life, which are still used to this day.
+
+Legend of Bael the Bard. The lord of the North at this time, Lord Brandon Stark once called Bael a coward. To take revenge of this affront and prove his courage, Bael climbed the Wall, took the Kingsroad and entered Winterfell under the name of Sygerrik of Skagos, which means deceitful in the old language of Skagos, a singer. There, he sang until midnight for the lord. Impressed by his skills as a singer, Lord Stark asked him what he wanted as a reward, and Bael only asked for the most beautiful flower blooming in Winterfell's gardens. As the blue winter rose were just blooming, Brandon Stark accepted to offer him one. But the following morning, the single, virgin daughter of the lord had disappeared, and in her bed was the blue winter rose. Lord Brandon sent the members of the Night's Watch looking for them beyond the Wall, but they never found neither Bael nor the girl. The Stark line was on the verge of extinction, when one day the girl was back in her room, holding in her hand an infant: they had actually never left Winterfell, staying hidden in the crypts. Bael's bastard with the daughter of the Lord Stark became the new Lord Stark. When years later Bael became King-Beyond-the-Wall and led the wildling's army south, he had to fight his own son at the Frozen Ford. There, incapable of killing his own blood, he let himself be killed by Lord Stark. His son brought back Bael's head to Winterfell, and his mother who had loved the bard, seeing the trophy, killed herself from the top of a tower.
+
+

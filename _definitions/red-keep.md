@@ -1,0 +1,11 @@
+---
+title: Red Keep
+---
+
+The Red Keep is a castle, home of the Kings of the Seven Kingdoms. It located in King's Landing, the capital of the Seven Kingdoms, where it sits on Aegon's Hill.
+
+
+
+
+
+

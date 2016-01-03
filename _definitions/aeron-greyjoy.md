@@ -1,0 +1,9 @@
+---
+title: Aeron Greyjoy
+---
+
+Aeron Greyjoy, younger brother of Balon Greyjoy. As result of a near-death experience during the Greyjoy Rebellion, he became priest of the Drowned God, primarily known by his new name, Damphair. Aeron is tall and thin with fierce black eyes and a beak of a nose.
+
+He garbs himself in roughspun robes dyed in the green, grey, and blue of the Drowned God. He never cuts his hair, that falls to his waist and he weaves seaweed into it. He carries a waterskin filled with seawater, which he uses to bless those who desire it. Aeron's transformation has made him more devoutly devoted to the god in his watery halls. He is now a dour, humorless man who views every breath as a gift that is wasted if it is not used to extol the virtues of following the Drowned God's path. 
+
+

@@ -1,0 +1,7 @@
+---
+title: Tanton Fossoway
+---
+
+Ser Tanton Fossoway is a member and perhaps head of House Fossoway of Cider Hall.
+
+

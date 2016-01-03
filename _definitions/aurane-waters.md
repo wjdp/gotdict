@@ -1,0 +1,7 @@
+---
+title: Aurane Waters
+---
+
+Aurane Waters, also called the Bastard of Driftmark, is a bastard member of House Velaryon. He is handsome, thin, with silver-gold hair and grey-green eyes. He has a cleft in his chin. His appearance reminded Cersei Lannister of Rhaegar Targaryen. He is twenty-two years old. It is possible that Lord Monford Velaryon is his father.
+
+

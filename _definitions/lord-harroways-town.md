@@ -1,0 +1,11 @@
+---
+title: Lord Harroway's Town
+---
+
+Lord Harroway's Town is a town in the Riverlands that sits along the Trident. It is the seat of House Roote. It has a seven-sided sept, a two-story inn and a stone roundtower. It is named after an extinct noble house, House Harroway.
+
+Map on Next page.
+
+![Image](images/000007.jpg)
+
+

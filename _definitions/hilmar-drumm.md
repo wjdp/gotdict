@@ -1,0 +1,7 @@
+---
+title: Hilmar Drumm
+---
+
+Hilmar Drumm, better known as Hilmar the Cunning, is a famous former member of House Drumm. He took the Valyrian steel sword Red Rain from an armored knight with nothing but his wits and a wooden cudgel. 
+
+

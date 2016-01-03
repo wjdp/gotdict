@@ -1,0 +1,7 @@
+---
+title: Aggo
+---
+
+ Aggo is a member of Daenerys's khas, and later her bloodrider.
+
+

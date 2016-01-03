@@ -1,0 +1,15 @@
+---
+title: Frostfangs
+---
+
+The Frostfangs are a mountain range in the far north of the continent of Westeros, north of the Wall.
+
+The Frostfangs lie to the north of the Wall, just north west of the Shadow Tower, separating the Lands of Always Winter to their west and the Haunted Forest to their east and its southern peaks and foothills extend into the North. One of the largest mountains in the range is called Forktop by the Night's Watch. The easiest way into the Frostfangs is to follow the Milkwater river to its source, but this path is very visible from the Fist of the First Men. Other paths into the Frostfangs include the Giant's Stair and the Skirling Pass, if it is clear
+
+The Frostfangs are a cruel and inhospitable wilderness of stone and ice, jagged peaks eternally covered in snow. However, the Frostfangs conceal a diverse series of wonders. Icy waterfalls plunge over sheer stone cliffs, mountain meadows are filled with grass and wildflowers, there are ravines so deep and black they seem to go all the way to hell, and bridges of natural stone span distances with only the sky to either side, It's been suggested that hidden valleys exist in the Frostfangs that sustain small numbers of people yet not even wildlings dare live in the Frostfangs during the winter.
+
+Map on Next page.
+
+![Image](images/000037.jpg)
+
+

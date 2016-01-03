@@ -1,0 +1,13 @@
+---
+title: Dornish Marches
+---
+
+The Dornish Marches is the area stretching along the Red Mountains west of the Stormlands.
+
+For over a thousand years the marches were common battlegrounds between the Stormlands, the Reach and Dorne until the last century, when Dorne joined the Seven Kingdoms. Having been conquered by the Storm Kings, it serves as an effective buffer zone between the old enemies of the Reach and Dorne. It is ruled by House Caron and lesser marcher lords.
+
+Map on Next page.
+
+![Image](images/000020.jpg)
+
+

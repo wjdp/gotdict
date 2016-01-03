@@ -1,0 +1,7 @@
+---
+title: Merlon
+---
+
+Ser Merlon Crakehall is the youngest son of Lord Roland Crakehall and a member of House Crakehall.
+
+

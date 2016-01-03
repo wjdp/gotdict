@@ -1,0 +1,31 @@
+---
+---
+<?xml version="1.0" encoding="utf-8"?>
+<package unique-identifier="uid">
+  <metadata>
+    <dc-metadata xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+      <dc:Title>{{ site.title }}</dc:Title>
+      <dc:Language>{{ site.lang }}</dc:Language>
+      <dc:Creator>{{ site.author }}</dc:Creator>
+      <dc:Description>{{ site.description }}</dc:Description>
+      <dc:Date>{{ site.time | date: "%Y-%m-%d" }}</dc:Date>
+    </dc-metadata>
+    <x-metadata>
+      <output encoding="utf-8" content-type="text/x-oeb1-document"></output>
+      <EmbeddedCover>images/cover.jpg</EmbeddedCover>
+      <!-- That's how it's recognized as a dictionary: -->
+      <DictionaryInLanguage>en</DictionaryInLanguage>
+      <DictionaryOutLanguage>en</DictionaryOutLanguage>
+      <DefaultLookupIndex>got</DefaultLookupIndex>
+    </x-metadata>
+  </metadata>
+  <manifest>
+    <item id="dic" media-type="text/x-oeb1-document" href="dic.html"></item>
+  </manifest>
+  <spine toc="toc">
+    <itemref idref="dic"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="dic.html#toc"></reference>
+  </guide>
+</package>

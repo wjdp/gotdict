@@ -1,0 +1,7 @@
+---
+title: Gerold
+---
+
+Ser Gerold Dayne, known as the Darkstar, is the head of a knightly cadet branch of House Dayne. Gerold Dayne has an aquiline nose, high cheekbones and a strong jaw. He keeps his face clean-shaven. He has thick silver hair that falls to his collar like a silver glacier, divided by a streak of midnight black. His eyes appear black but at closer vantage they are a dark purple - dark and angry. He has a cruel mouth and a crueler tongue.
+
+

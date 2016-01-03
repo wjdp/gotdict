@@ -1,0 +1,7 @@
+---
+title: Eon
+---
+
+Lord Eon Hunter, Lord of Longbow Hall, is the head of House Hunter. He has three quarrelsome sons: Gilwood, Eustace and Harlan. He ruled as Lord of House Hunter for nearly sixty years until his sudden death.
+
+

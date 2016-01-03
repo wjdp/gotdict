@@ -1,0 +1,22 @@
+.book-title {
+  font-size: 2em;
+  text-align: center;
+}
+
+.book-subtitle {
+  text-align: center;
+}
+
+.orth {
+  font-size: 1.1em;
+  font-weight: bold;
+  font-variant: small-caps;
+}
+
+strong {
+  font-weight: bold;
+}
+
+p {
+  text-align: justify;
+}

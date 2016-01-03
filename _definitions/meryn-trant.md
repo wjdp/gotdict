@@ -1,0 +1,7 @@
+---
+title: Meryn Trant
+---
+
+Ser Meryn Trant is a knight of the Kingsguard during the reign of Robert I. He has droopy eyes and a red beard. He is considered him sly and cruel.
+
+

@@ -1,0 +1,11 @@
+---
+title: Three Towers
+---
+
+Three Towers is the seat of House Costayne. It sits on a cliff on the southern shore of Whispering Sound, almost where the Sound meets the Redwyne Straits.
+
+Map on Next page.
+
+![Image](images/000011.jpg)
+
+

@@ -1,0 +1,13 @@
+---
+title: Duskendale
+---
+
+Duskendale is a large port town off the coast of Blackwater Bay. Located north and east of King's Landing, east of Rosby. It is the seat of House Rykker.
+
+The town spreads out around the harbor, The town has cobbled streets. South of the town is a rocky headland that shelters the harbor from the storms of the narrow sea and north of it rise chalk cliffs and a road runs beside the shore between the sea and low limestone hills. Fishing villages dot the road for miles. The castle that overlooks the port is known as the Dun Fort. It is the a squat square stone castle with big drum towers of House Rykker.
+
+Duskendale was formerly held by the Darklyns, an ancient family descended from First Men kings that was wiped out as a result of the Defiance of Duskendale. During the defiance King Aerys II was held captive within Duskendale by the Darklyns. After Ser Barristan Selmy managed to rescue to the King, House Darklyn was destroyed and Duskendale and its lands and incomes were give to House Rykker.
+
+![Image](images/000025.jpg)
+
+

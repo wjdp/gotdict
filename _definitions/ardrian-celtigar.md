@@ -1,0 +1,7 @@
+---
+title: Ardrian Celtigar
+---
+
+Lord Ardrian Celtigar, known as the Red Crab is an old man, Lord of House Celtigar. He is known for his avarice and his wealth. He is considered sour.
+
+

@@ -1,0 +1,11 @@
+---
+title: Three Exiles
+---
+
+ The Three Exiles is a group of three islands in the Summer Islands. They are located in the Summer Sea west of Woluu and the Isle of Love and south of the group of islands called The Singing Stones. The Three Exiles are the westernmost islands in the Summer Isles.
+
+Map on Next page.
+
+![Image](images/000054.jpg)
+
+

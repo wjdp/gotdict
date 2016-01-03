@@ -1,0 +1,7 @@
+---
+title: Alan
+---
+
+Alan of Rosby is a ranger and a good archer of the Night's Watch of Castle Black. He comes from Rosby in the Crownlands.
+
+

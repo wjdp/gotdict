@@ -1,0 +1,11 @@
+---
+title: Smiling Sea
+---
+
+ The Smiling Sea is a body of water in the Summer Isles. It separates the islands of Walano, to the North, from Omboru, to the south and east. In its center is the Isle of Birds, that is south of Tall Trees Town. The island of Koj separates it from the Summer Sea on the west.
+
+Map on Next page.
+
+![Image](images/000054.jpg)
+
+

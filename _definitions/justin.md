@@ -1,0 +1,7 @@
+---
+title: Justin
+---
+
+Ser Justin Massey is a member of House Massey and a Queen's Man. He once squired for Robert Baratheon, where it is said he acquired his appetite for women. He is a large man with pink cheeks, blue eyes and white blonde hair pale as flax. He has a ready smile and Stannis refers to him as "the smiler". 
+
+

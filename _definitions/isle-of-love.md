@@ -1,0 +1,11 @@
+---
+title: Isle of Love
+---
+
+ The Isle of Love is an island in the Summer Islands. It is located in the Summer Sea west of Jhala. Tio the north of it is the Isle of Love and to the west of it is the group of islands called The Three Exiles.
+
+Map on Next page.
+
+![Image](images/000054.jpg)
+
+

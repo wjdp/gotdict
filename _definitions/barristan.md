@@ -1,0 +1,9 @@
+---
+title: Barristan
+---
+
+Ser Barristan Selmy, called "Barristan the Bold," is a celebrated hero and knight of the Kingsguard, serving throughout a time when the Kingsguard were considered to be the greatest knights of the realm. Selmy is one of the most skilled and respected knights in the Seven Kingdoms.Selmy is tall and has blue eyes.
+
+He is an older man (sixty at the series' beginning), with long white hair and lined features. Despite advanced age, he looks strong and graceful and every bit the skilled knight he was in his youth. 
+
+

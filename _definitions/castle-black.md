@@ -1,0 +1,13 @@
+---
+title: Castle Black
+---
+
+Castle Black is the main fortress for the Night's Watch. The castle is situated along the Wall between Queensgate to the west and Oakenshield to the east, near the center of the Wall, at the northern end of the Kingsroad.
+
+Despite there being 19 strongholds along the Wall, Castle Black is one of only three still manned by the Night's Watch. Once the castle held over five thousand men, but now currently holds about six hundred brothers.
+
+Map on Next page.
+
+![Image](images/000037.jpg)
+
+

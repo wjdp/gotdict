@@ -1,0 +1,13 @@
+---
+title: Skirling Pass
+---
+
+The Skirling Pass is path paths into the Frostfangs, located Beyond the Wall. The pass is named for the keening sound the wind makes as it blows through it. The pass is long, twisting course between mountain peaks and hidden valleys, there is no grass with a few weeds and pale litchen clinging to life amongst cracks in the rock. The highest point of the pass is marked with a a stone archway. From the top there is a hidden valley, long and v-shaped, amongst the mountains. A glacier of ice several thousand high plugs one end, squeezed between the mountains. Under that icy height is a great lake, its waters a deep cobalt that reflect the snow-capped peaks that surround it.
+
+Other paths into the Frostfangs include the Giant's Stair, if it is clear.
+
+Map on Next page.
+
+![Image](images/000037.jpg)
+
+

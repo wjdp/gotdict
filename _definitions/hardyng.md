@@ -1,0 +1,13 @@
+---
+title: Hardyng
+---
+
+House Hardyng is a noble house from the Vale of Arryn. They blazon their arms with a field of red and white diamonds.
+
+The known members of this house are:
+
+Harrold Hardyng, known as "Harry the Heir".
+
+Deana Hardyng, the wife of Walton Frey. 
+
+

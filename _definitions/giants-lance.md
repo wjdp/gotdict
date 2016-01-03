@@ -1,0 +1,13 @@
+---
+title: Giant's Lance
+---
+
+The Giant's Lance is the largest mountain in the Vale of Arryn and contains the Eyrie, the summer seat of House Arryn. It lies in the northern range, its peak lost in the clouds. On its western shoulder flows Alyssa's Tears. At the foot of the mountain lies the Gates of the Moon.
+
+The peak of Giant's Lance was the site of the legendary battle where Ser Artys Arryn slew the Griffin King.
+
+Map on Next page.
+
+![Image](images/000009.jpg)
+
+
