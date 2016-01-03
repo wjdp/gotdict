@@ -1,57 +1,65 @@
 ---
 ---
 <!DOCTYPE html>
-<html lang="en">
+<html xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:mbp="http://www.kreutzfeldt.de/mmc/mbp"
+xmlns:idx="http://www.mobipocket.com/idx" lang="en">
   <head>
-    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>{{ site.title }}</title>
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
+    <mbp:frameset>
     <h1 class="book-title">{{ site.title }}</h1>
     <div class="book-subtitle">Build {% include travis_build_number.txt %}</div>
     <div class="book-subtitle">Completed at {{ site.time | date: "%Y-%m-%d %H:%M" }}.</div>
     <div class="book-subtitle">For updates see <a href="http://wjdp.github.io/gotdict">wjdp.github.io/gotdict</a></div>
-    <mbp:pagebreak />
+    <mbp:pagebreak/>
 
     <a name="toc"></a>
     <h1 class="section-title">Table of Contents</h1>
     <p><a href="#dict">The Definitions A&ndash;Z</a></p>
     <p><a href="#contributing">Contributing To The Dictionary</a></p>
     <p><a href="#tech">Build Details</a></p>
-    <mbp:pagebreak />
+    <mbp:pagebreak/>
 
-
-
-    <mbp:frameset> <!-- Contains all definitions -->
     <a id="dict" name="dict"></a>
     {% for def in site.definitions %}
     {% capture name %}{{ def.path | replace: '_definitions/', '' | replace: '.md', '' }}{% endcapture %}
     <idx:entry name="got" scriptable="yes" spell="yes" id="{{ name }}">
       <a id="{{ name }}" name="{{ name }}"></a>
-      <div class="orth"><idx:orth value="{{ def.title }}">{{ def.title }}</idx:orth></div>
-      <idx:infl>
-        {% for infl in def.inflections %}<idx:iform value="{{ infl }}" />{% endfor %}
-      </idx:infl>
+      <div class="orth">
+        <idx:orth value="{{ def.title }}">
+          {{ def.title }}
+          {% if def.inflections.size > 0 %}
+          <idx:infl>
+            {% for infl in def.inflections %}
+            <idx:iform value="{{ infl }}" />{% endfor %}
+          </idx:infl>
+          {% endif %}
+        </idx:orth>
+      </div>
+
       {{ def.output }}
     </idx:entry>
     <hr />
     {% endfor %}
-    </mbp:frameset>
-    <mbp:pagebreak />
+    <mbp:pagebreak/>
 
     <a id="contributing" name="contributing"></a>
     <h1 class="section-title">Contributing To The Dictionary</h1>
     <p>This section will be expanded later. Pull requests are welcome at <a href="http://wjdp.github.io/gotdict">wjdp.github.io/gotdict</a></p>
 
-    <mbp:pagebreak />
+    <mbp:pagebreak/>
 
     <a id="tech" name="tech"></a>
     <h1 class="section-title">Build Details</h1>
     <p>Build {% include travis_build_number.txt %}, {{ site.time | date: "%Y-%m-%d %H:%M" }}.</p>
     <p>{{ site.definitions.size }} defs in dictionary.</p>
 
-    <mbp:pagebreak />
+    <mbp:pagebreak/>
 
+    </mbp:frameset>
   </body>
 </html>
