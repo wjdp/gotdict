@@ -1,3 +1,6 @@
 _extract/
 _output/
-kindlegen
+tmp/
+bin/
+vendor/
+.bundle

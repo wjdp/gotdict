@@ -15,6 +15,7 @@ markdown: kramdown
 excerpt_separator: ""
 
 exclude:
+  - vendor
   - Gemfile
   - Gemfile.lock
   - Rakefile
