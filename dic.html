@@ -9,7 +9,8 @@
   </head>
   <body>
     <h1 class="book-title">{{ site.title }}</h1>
-    <div class="book-subtitle">This copy was built at {{ site.time | date: "%Y-%m-%d %H:%M" }}</div>
+    <div class="book-subtitle">Build {% include travis_build_number.txt %}</div>
+    <div class="book-subtitle">Completed at {{ site.time | date: "%Y-%m-%d %H:%M" }}.</div>
     <div class="book-subtitle">For updates see <a href="http://wjdp.github.io/gotdict">wjdp.github.io/gotdict</a></div>
     <mbp:pagebreak />
 
@@ -47,6 +48,7 @@
 
     <a id="tech" name="tech"></a>
     <h1 class="section-title">Build Details</h1>
+    <p>Build {% include travis_build_number.txt %}, {{ site.time | date: "%Y-%m-%d %H:%M" }}.</p>
     <p>{{ site.definitions.size }} defs in dictionary.</p>
 
     <mbp:pagebreak />
