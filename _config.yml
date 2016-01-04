@@ -3,8 +3,8 @@ title: GOTDict
 description: "Kindle dictionary for A Song of Ice and Fire."
 lang: "en"
 author: "Various"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: "/gotdict/" # the subpath of your site, e.g. /blog/
+url: "http://wjdp.github.io" # the base hostname & protocol for your site
 website: "https://wjdp.github.io/gotdict" # For issue posting
 
 # Build settings
@@ -19,14 +19,14 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - Rakefile
-  - kindlegen
+  - tmp
 
 destination: _output
 
 collections:
   definitions:
     output: true
-    permalink: site/defs/:path/
+    permalink: site/defs/:path.html
 
 defaults:
   # Shows

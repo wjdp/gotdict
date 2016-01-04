@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>{{ page.title }} - GOTDict</title>
+  <title>{% if page.head_title %}{{ page.head_title }}{% else %}{{ page.title }} - GOTDict{% endif %}</title>
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/3.3.0/octicons.min.css">
-  <link rel="stylesheet" type="text/css" href="/style.css">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}style.css">
 </head>
 <body>
   <div class="container">

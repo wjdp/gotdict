@@ -1,20 +1,27 @@
 language: ruby
 cache:
   bundler: true
+  directories:
+    - .sass-cache
 install:
-- bundle install --jobs=3 --retry=3 --deployment --path=${BUNDLE_PATH:-vendor/bundle}
-- mkdir -p bin tmp/kindlegen
-- curl http://kindlegen.s3.amazonaws.com/kindlegen_linux_2.6_i386_v2_9.tar.gz > tmp/kindlegen.tar.gz
-- tar zxvf tmp/kindlegen.tar.gz -C tmp/kindlegen
-- mv tmp/kindlegen/kindlegen bin/
+  - bundle install --jobs=3 --retry=3 --deployment --path=${BUNDLE_PATH:-vendor/bundle}
+  - mkdir -p bin tmp/kindlegen
+  - curl http://kindlegen.s3.amazonaws.com/kindlegen_linux_2.6_i386_v2_9.tar.gz > tmp/kindlegen.tar.gz
+  - tar zxvf tmp/kindlegen.tar.gz -C tmp/kindlegen
+  - mv tmp/kindlegen/kindlegen bin/
 before_script:
   - echo $TRAVIS_BUILD_NUMBER > _includes/travis_build_number.txt
 script:
-- bundle exec rake build
+  - bundle exec rake build
+after_success:
+  - bin/deploy.sh
+branches:
+  except:
+  - gh-pages
 git:
   depth: 6
 rvm:
-- 2.1.2
+  - 2.1.2
 deploy:
   provider: releases
   api_key:
@@ -26,3 +33,6 @@ deploy:
     tags: true
     repo: wjdp/gotdict
     branch: master
+env:
+  global:
+    secure: bqcgrvXw/ynOkS8HW5vCuGug5zFiYPyOYKyYN6F/Nndk9g9qMP9oBr0D6ssZgVL9GcKv+96p8x9bSwrCArPU1/ZUZNHPyQ3jchTfEkVrG4mifCFTC3ekDj1cKv5Et2thUs7JENSf8rmbVsxw5ckVKtmS4PHeKEh9CVYu6RnEt2aoWAbi2RUaI4YJoYwZydgR9LAqrgdP2snAC4K4eQnzINguwY7DdEi93Fi1Av+NyvPzrn/UCdk/5R8PNJcodryo+kBNzIAi8/sX1XQiMYqHlH3qetVeQw89odKFyVezcxLkejV/Et/xEqDvuB5Ghq1Vrn7LJIw1fsZZ3kt1ODWtlAITs2ZRjNmuxlxf4VD56Q3Eyr8SUKfrWHWXAqKgu3gTmKT05yPMXBBPucCHDkZtf7iNkX4SNSzOre69j2rZrJWdQhEbmnnd5Nq0OaHeNf/yFoC2KFF09re7Hu9rD/8vTS6TA3g0aAsv79EsaMzx7K+BERCIxQO+etXoC7hqtodflUNFO0iVfMLufsYquvZcV96WXChf9oUoMlzEaA2XrO7b7tMi3Nds5YFj7+Ct1iAakMRg7STqe7YAvk+8iBro3jGIW6Adyu9kbQpigLo1mDiIm/QgWlan5OO15gS7rKhMr4vIQ8ucehzS0qOadIqvSEgC95nToTAc5dz9wwjIWwY=
