@@ -6,7 +6,7 @@ inflections:
   - Ned Stark
 ---
 
-Eddard Stark, also affectionately called "Ned", is the head of House Stark, Lord of Winterfell, and Warden of the North. He is married to Catelyn Tully and father to Robb, Sansa, Arya, Bran, and Rickon Stark. He has a bastard, Jon Snow. He is a friend to King Robert Baratheon, whom he was raised with and helped to win the Iron Throne. Eddard is in his mid-thirties. He has a long face, dark hair and grey eyes. His closely-trimmed beard is beginning to grey. His dark grey eyes reflect his moods, turning soft as fog or hard as stone.
+Eddard "Ned" Stark, the head of House Stark, Lord of Winterfell, and Warden of the North. Is married to Catelyn Tully and father to Robb, Sansa, Arya, Bran, and Rickon Stark and his bastard, Jon Snow. A friend to King Robert Baratheon, whom he was raised with and helped to win the Iron Throne. Eddard is in his mid-thirties, with a long face, dark hair and grey eyes. His closely-trimmed beard is beginning to grey. His dark grey eyes reflect his moods, turning soft as fog or hard as stone.
 
 Among his enemies, Eddard has the reputation of having cold eyes. They are thought to reflect his frozen heart. Eddard is known for his sense of honor and justice and his family finds him kind, although some consider his reserved personality a sign of coldness and disdain.
 
