@@ -1,0 +1,22 @@
+---
+layout: default
+title: Definitions
+permalink: /site/defs/
+---
+
+<div class="page">
+
+<h1>Definition Index</h1>
+
+<p>Shown are the primary titles for each definition. A definition may have multiple inflections or aliases which are shown on their pages.</p>
+
+<ul class="definition-index">
+{% for def in site.definitions %}
+  {% capture name %}{{ def.path | replace: '_definitions/', '' | replace: '.md', '' }}{% endcapture %}
+  <li>
+    <a href="{{ site.baseurl }}defs/{{ name }}.html">{{ def.title }}</a>
+  </li>
+{% endfor %}
+</ul>
+
+</div>

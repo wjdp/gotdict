@@ -1,0 +1,142 @@
+---
+---
+
+// Variables
+
+$color-text: black
+$color-icon: #404040
+
+$color-link: #3779B0
+$color-link-visited: adjust-hue($color-link, 40%)
+
+$color-grey: #ddd
+
+// Responsive
+
+@mixin breakpoint($point)
+  // Respond to $point and bigger
+  @if $point == L
+    @media (min-width: 1100px)
+      @content
+  @else if $point == M
+    @media (min-width: 760px)
+      @content
+  @else if $point == S
+    @media (min-width: 490px)
+      @content
+  @else if $point == XS
+    @media (min-width: 320px)
+      @content
+
+// Generics
+
+html
+  box-sizing: border-box
+  font-family: Georgia, Times, Times New Roman, serif
+  color: $color-text
+
+*, *:before, *:after
+  box-sizing: inherit
+  font-family: inherit
+  color: inherit
+
+.container
+
+.page
+  will-change: width
+  width: 98%
+  @include breakpoint(S)
+    width: 90%
+  @include breakpoint(M)
+    width: 85%
+  @include breakpoint(L)
+    width: 75%
+
+  margin: 0 auto
+
+// Typography
+
+p, li, th, td
+  line-height: 1.5em
+
+a
+  color: $color-link
+a:visited
+  color: $color-link-visited
+
+i
+  // Icons
+  color: $color-icon
+  font-size: 1em
+
+code
+  font-family: monospace
+  font-size: 0.9em
+  background: $color-grey
+  padding: 4px
+
+// Navigation element
+
+nav ul
+  list-style: none
+  padding: 0
+
+li.break
+  margin-top: 1em
+  margin-bottom: 1em
+
+li.line
+  border-bottom: 2px solid $color-grey
+
+// Definition Index
+
+.definition-index
+  list-style: none
+  padding: 0
+
+  $column-count: 1
+  column-count: $column-count
+  -webkit-column-count: $column-count
+  -moz-column-count: $column-count
+  @include breakpoint(S)
+    $column-count: 3
+    column-count: $column-count
+    -webkit-column-count: $column-count
+    -moz-column-count: $column-count
+  @include breakpoint(M)
+    $column-count: 4
+    column-count: $column-count
+    -webkit-column-count: $column-count
+    -moz-column-count: $column-count
+  @include breakpoint(L)
+    $column-count: 6
+    column-count: $column-count
+    -webkit-column-count: $column-count
+    -moz-column-count: $column-count
+
+// Definition Single
+
+article
+  text-align: justify
+
+.definition-wrapper
+  & > *
+    @include breakpoint(M)
+      float: left
+
+.definition-definition
+  width: 100%
+  @include breakpoint(M)
+    width: 73%
+    padding-right: 3em
+
+.inflections
+  font-size: 0.7em
+  color: $color-grey
+  font-style: italic
+  font-weight: normal
+
+.definition-navigation
+  width: 100%
+  @include breakpoint(M)
+    width: 100% - 73%
