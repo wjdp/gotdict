@@ -29,7 +29,6 @@ deploy:
     secure: b5qYl10xNFZ689L6PVzyi0zw9zMK6hV+boB9tS+XLJ6+e4X9DNr4cUdfE8mTeYcuBmZTZZn8biYhy9L0dzkQgfubqFIPS15zO7RaXZDoMEf9jRnKEbtFE90NJIqYbCwwLlFDAsevul2EeVQFsk8Mgp3b96QrxNQaDdU/bJu/dzftgoGq3F03/coXPj42uOArRt0YA5eEpIQVChBEZRy03iYlwCu5BaI7WKEcs/PDvwlOm+jf3gIZuC7l/wi6e3Ixnh7eXX/FfF4WJCIVZC5eGhCfkOvYbf6u8tk9HrW296r4JjgvBR5VjtrRA8QXRGzjA7Q+A5hkj7/WCUwUIhzYOHnb5/73sNUHzo94k0P+uFBeJO0U1STPChdWNSVDX4hmkEvCpEuGcj+qaSkH7L8JuoCHeh/fZWB7dS1Xxb+sLzQnvG8V1m/og447RGmSVBpwh3f90XreHrmf+kKCJehBVmSAS7JsTo4HjzdWODSWZ9YG3PkSxPBxBOeu8uheiqUuwMonxfz6YoKZJCCEZ96WhCMc/FDpWUQdgAgYteacWDhZy3lptrQtzZuUbeQPADkwGiQUOZAMxnNxssjjp3Yym6vkbl0We6Qqx2ymU8KvEuv74v4RuD7CNKSnvedglc9Zq/8LvvaTE0gyMcV58q/KAIMdxEt9hyRjs31UoxfKFKM=
   file:
     - _output/gotdict.mobi
-    - _output/dic.html
   on:
     tags: true
     repo: wjdp/gotdict
