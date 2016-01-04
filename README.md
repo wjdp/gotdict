@@ -38,6 +38,10 @@ mv tmp/kindlegen/kindlegen bin/
 
 To build run `bundle exec rake build`. All output is within `_output/`, the compiled MOBI is `_output/gotdict.mobi`.
 
+## Releases
+
+When a certain number of edits have happened (arbitrary number TBD) or some time has passed (arbitrary duration TBD) and the project is in good standing (no unresolved blocker bugs) a release will be made. If a commit gets on master with a version tag Travis will upload the build to GitHub. A better description than Travis leaves should then be added to it.
+
 ## Links
 
 - https://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf
