@@ -25,5 +25,13 @@ destination: _output
 
 collections:
   definitions:
-    output: false
+    output: true
+    permalink: site/defs/:path/
 
+defaults:
+  # Shows
+  - scope:
+      path: ""
+      type: definitions
+    values:
+      layout: definition
