@@ -1,6 +1,6 @@
 # GOTDict
 
-[![Build Status](https://travis-ci.com/wjdp/gotdict.svg?token=sKdtjFnTpCtrxW67g7nf&branch=master)](https://travis-ci.com/wjdp/gotdict)
+[![Build Status](https://travis-ci.org/wjdp/gotdict.svg?branch=master)](https://travis-ci.org/wjdp/gotdict)
 
 A community built Kindle dictionary for A Song of Ice and Fire based on the work of [KEC Krew](http://keckrew.blogspot.co.uk/2013/06/game-of-thrones-kindle-dictionary.html). While a number of characters have X-Ray entries this dictionary aims to be much more extensive having information on houses, locations, ships, maps and much more. See http://wjdp.github.io/gotdict/ for more details and install instructions.
 
