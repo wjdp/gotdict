@@ -1,0 +1,25 @@
+---
+---
+<mbp:frameset>
+<a id="defs" name="defs"></a>
+{% for def in site.definitions %}
+{% capture name %}{{ def.path | replace: '_definitions/', '' | replace: '.md', '' }}{% endcapture %}
+<idx:entry name="got" scriptable="yes" spell="yes" id="{{ name }}">
+  <a id="{{ name }}" name="{{ name }}"></a>
+  <div class="orth">
+    <idx:orth value="{{ def.title }}">
+      {{ def.title }}
+      {% if def.inflections.size > 0 %}
+      <idx:infl>
+        {% for infl in def.inflections %}
+        <idx:iform value="{{ infl }}" />{% endfor %}
+      </idx:infl>
+      {% endif %}
+    </idx:orth>
+  </div>
+
+  {{ def.content }}
+</idx:entry>
+<hr />
+{% endfor %}
+</mbp:frameset>

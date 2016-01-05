@@ -31,6 +31,10 @@ collections:
 defaults:
   # Shows
   - scope:
+      path: "dict"
+    values:
+      layout: ebook
+  - scope:
       path: ""
       type: definitions
     values:

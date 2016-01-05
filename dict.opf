@@ -20,12 +20,22 @@
     </x-metadata>
   </metadata>
   <manifest>
-    <item id="dic" media-type="text/x-oeb1-document" href="dic.html"></item>
+    <item id="cimage" media-type="image/jpeg" href="images/cover.jpg" properties="coverimage"/>
+    <item id="title" href="dict/title.html" media-type="application/xhtml+xml"/>
+    <item id="toc" properties="nav" href="dict/toc.html" media-type="application/xhtml+xml"/>
+    <item id="defs" href="dict/defs.html" media-type="application/xhtml+xml"/>
+    <item id="contributing" href="dict/contributing.html" media-type="application/xhtml+xml"/>
+    <item id="build" href="dict/build.html" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="toc">
-    <itemref idref="dic"/>
+    <itemref idref="cimage"/>
+    <itemref idref="title"/>
+    <itemref idref="toc"/>
+    <itemref idref="defs"/>
+    <itemref idref="contributing"/>
+    <itemref idref="build"/>
   </spine>
   <guide>
-    <reference type="toc" title="Table of Contents" href="dic.html#toc"></reference>
+    <reference type="toc" title="Table of Contents" href="dict/toc.html"></reference>
   </guide>
 </package>
