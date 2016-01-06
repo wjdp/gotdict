@@ -11,7 +11,7 @@ install:
   - tar zxvf tmp/kindlegen.tar.gz -C tmp/kindlegen
   - mv tmp/kindlegen/kindlegen bin/
 before_script:
-  - echo $TRAVIS_BUILD_NUMBER > _includes/travis_build_number.txt
+  - echo -n $TRAVIS_BUILD_NUMBER > _includes/travis_build_number.txt
 script:
   - bundle exec rake build
 after_success:

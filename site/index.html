@@ -3,7 +3,6 @@ layout: default
 title: GOTDict
 head_title: GOTDict
 ---
-{% capture buildvar %}{% include travis_build_number.txt %}{% endcapture %}
 
 <div class="page">
 
@@ -13,7 +12,7 @@ head_title: GOTDict
 
 <ul>
   <li><a href="https://github.com/wjdp/gotdict/releases/latest">Downloads (stable releases)</a></li>
-  <li><a href="{{ site.baseurl }}gotdict.mobi">Download (bleeding edge, build {{ buildvar | replace: ' ', '' }})</a></li>
+  <li><a href="{{ site.baseurl }}gotdict.mobi">Download (bleeding edge, build {% include travis_build_number.txt %})</a></li>
   <li><a href="https://github.com/wjdp/gotdict">GitHub repository</a></li>
   <li><a href="{{ site.baseurl }}defs/">Online dictionary index</a></li>
 </ul>
