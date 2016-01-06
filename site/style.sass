@@ -22,7 +22,7 @@ $color-grey: #ddd
     @media (min-width: 760px)
       @content
   @else if $point == S
-    @media (min-width: 490px)
+    @media (min-width: 520px)
       @content
   @else if $point == XS
     @media (min-width: 320px)
@@ -74,6 +74,23 @@ code
   font-size: 0.9em
   background: $color-grey
   padding: 4px
+
+// Index
+
+img.kindle
+  display: block
+
+  width: 300px
+  margin: 0 auto
+  padding: 0 30px
+
+  @include breakpoint(S)
+    margin: none
+    padding-left: 30px
+    float: right
+
+  @include breakpoint(M)
+    width: 400px
 
 // Navigation element
 
