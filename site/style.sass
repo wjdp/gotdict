@@ -15,6 +15,9 @@ $color-grey: #ddd
 
 @mixin breakpoint($point)
   // Respond to $point and bigger
+  @if $point == XL
+    @media (min-width: 1600px)
+      @content
   @if $point == L
     @media (min-width: 1100px)
       @content
@@ -32,15 +35,13 @@ $color-grey: #ddd
 
 html
   box-sizing: border-box
-  font-family: Georgia, Times, Times New Roman, serif
+  font-family: 'Bookerly', Georgia, Times, Times New Roman, serif
   color: $color-text
 
 *, *:before, *:after
   box-sizing: inherit
   font-family: inherit
   color: inherit
-
-.container
 
 .page
   will-change: width
@@ -51,10 +52,18 @@ html
     width: 85%
   @include breakpoint(L)
     width: 75%
+  @include breakpoint(XL)
+    width: 60%
 
   margin: 0 auto
 
 // Typography
+
+h1, h2, h3, h4
+  font-weight: normal
+
+p
+  text-align: justify
 
 p, li, th, td
   line-height: 1.5em
@@ -75,18 +84,21 @@ code
   background: $color-grey
   padding: 4px
 
+p + h2
+  margin-top: 1em
+
 // Index
 
 img.kindle
   display: block
 
-  width: 300px
+  width: 320px
   margin: 0 auto
-  padding: 0 30px
+  padding: 0 40px
 
   @include breakpoint(S)
     margin: none
-    padding-left: 30px
+    padding-left: 40px
     float: right
 
   @include breakpoint(M)
