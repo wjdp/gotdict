@@ -1,0 +1,15 @@
+---
+title: House Volmark
+inflections:
+  - Volmark
+---
+
+House Volmark of Volmark is a noble house from the Iron Islands. Its seat is at the island of Harlaw, and they are sworn to the house of the same name. They have large holdings on the island and have a decorated history. They blazon their arms with a black leviathan on a grey sea.
+
+The known members of House Volmark are:
+
+Lord Maron Volmark : Lord of Volmark. A young boy.
+
+![Image](images/000042.jpg)
+
+

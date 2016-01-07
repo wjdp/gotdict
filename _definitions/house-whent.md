@@ -1,0 +1,19 @@
+---
+title: House Whent
+inflections:
+  - Whent
+---
+
+House Whent of Harrenhal is a noble house form the Riverlands. Their seat is the huge castle of Harrenhal built three hundred years ago by Harren the Black and since then the Whents are the seventh noble house to rule there, after houses Hoare, Qoherys, Towers, Harroway, Strong and Lothston.
+
+The exact time and reason House Whent came to rule over Harrenhal are unknown. The first reference is from 281 AL, the Year of the False Spring, when Lord Whent hosted a tournament.
+
+They blazon their arms depict nine black bats displayed over a yellow field. Their words do not appear in the books.
+
+House Wode is sworn to Harrenhal.
+
+The known members of this house are:
+
+Lady Shella Whent : wife of the unnamed Lord Whent.
+
+

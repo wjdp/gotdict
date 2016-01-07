@@ -1,0 +1,15 @@
+---
+title: House Oakheart
+inflections:
+  - Oakheart
+---
+
+ House Oakheart of Old Oak is an old and powerful family from the Reach. They are among the noble houses from the Reach that can trace their descent from Garth Greenhand. Their arms are three green oak leaves on gold. Their motto is "Our Roots Go Deep".
+
+The known members of this house are:
+
+Lady Arwyn Oakheart, Lady of Old Oak. A tiny and delicate woman.
+
+Ser Arys Oakheart, her youngest son. A member of the Kingsguard,
+
+

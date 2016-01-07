@@ -1,0 +1,17 @@
+---
+title: House Tollett
+inflections:
+  - Tollett
+---
+
+House Tollett of the Grey Glen is a house from the Vale sworn to the Royces from Runestone.
+
+They blazon their shield as pily grey and black. Their words are "When All is Darkest".
+
+The known members of this house are:
+
+Lord Uthor Tollett, Lord of the Grey Glen.
+
+Eddison Tollett, a member of the Night's Watch, known as Dolorous Edd.
+
+

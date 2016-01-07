@@ -1,0 +1,19 @@
+---
+title: House Cassel
+inflections:
+  - Cassel
+---
+
+House Cassel is a house in the service of the Starks of Winterfell. They blazon their arms with ten white wolf heads, 4-3-2-1, on grey with a black border.
+
+The known members of this house are:
+
+Ser Rodrik Cassel, master-at-arms of Winterfell.
+
+Beth Cassel, daughter of Ser Rodrik.
+
+Martyn Cassel, father of Jory, brother of Rodrik.
+
+Jory Cassel, captain of the guards.
+
+

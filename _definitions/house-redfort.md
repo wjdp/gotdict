@@ -1,0 +1,25 @@
+---
+title: House Redfort
+inflections:
+  - Redfort
+---
+
+House Redfort of Redfort is a noble house from the Vale. They trace their descent to the First Men that inhabited the Vale before the coming of the Andals.
+
+They blazon their arms with a red castle on a white field within a red embattled border. Their motto is As Strong as Stone.
+
+The known members of this house are:
+
+Lord Horton Redfort, Lord of Redfort.
+
+Ser Jasper Redfort, his son.
+
+Ser Creighton Redfort, his son.
+
+Ser Jon Redfort, his son.
+
+Ser Mychel Redfort, Lord Horton's youngest son.
+
+![Image](images/000009.jpg)
+
+

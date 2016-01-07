@@ -1,0 +1,35 @@
+---
+title: House Redwyne
+inflections:
+  - Redwyne
+---
+
+ House Redwyne of the Arbor is a noble house sworn to Highgarden. Their seat is the Arbor, an island south of the Whispering Sound. Redwyne is a powerful house with strong ties to the Tyrells, and provides a significant portion of the fleet of the Reach, owning 200 warships and five times as many merchant vessels.
+
+Their blazon is a burgundy grape cluster on blue, symbolizing the famed wines of the Arbor.
+
+The current Lord of the Arbor, Paxter Redwyne, is married to his cousin Mina Tyrell, the sister of his liege Lord Mace. His elderly aunt Olenna Redwyne, the "Queen of Thorns", is the mother of Mace and Mina, and is a schemer par excellence. Besides their marital ties, Lady Olenna's influence over House Tyrell gives the Redwynes a strong voice in the Reach. During the War of the Usurper, Paxter joined his cousin-goodbrother in staying loyal to Aerys II. His main contribution to the war was the naval blockade of Storm's End during Mace's siege, ferrying men across Blackwater Bay and blockading Shipbreaker Bay.
+
+The known members of this house are:
+
+Lord Paxter Redwyne, Lord of the Arbor.
+
+Mina Tyrell, his wife. Sister of Lord Mace Tyrell
+
+Ser Horas Redwyne, the son of Paxter
+
+Ser Hobber Redwyne, the son of Paxter
+
+Desmera Redwyne, their daughter.
+
+Olenna Redwyne, his aunt and mother in law. She is called the "Queen of Thorns".
+
+Ser Desmond Redwyne
+
+Denyse Hightower, his wife.
+
+Denys Redwyne, his son.
+
+Lady Bethany Redwyne, Lord Mathis Rowan's wife.
+
+

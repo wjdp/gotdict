@@ -1,0 +1,15 @@
+---
+title: House Jordayne
+inflections:
+  - Jordayne
+---
+
+ House Jordayne of the Tor is a Dornish noble house. Their seat is placed on the coast of the Dornish Sea. Their blazon is a golden quill on checkered dark and light green. Their words are "Let it be Written".
+
+The known members of this house are:
+
+Lord Trebor Jordayne, Lord of the Tor.
+
+Myria Jordayne, his daughter. Heir to the Tor.
+
+

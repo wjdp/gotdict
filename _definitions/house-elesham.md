@@ -1,0 +1,11 @@
+---
+title: House Elesham
+inflections:
+  - Elesham
+---
+
+House Elesham of the Paps is a noble house from the Vale. They blazon their arms with a double pile inverted, stone on pink, a black mullet between.
+
+There are no known members of this house.
+
+

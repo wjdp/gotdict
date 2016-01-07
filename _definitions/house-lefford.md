@@ -1,0 +1,17 @@
+---
+title: House Lefford
+inflections:
+  - Lefford
+---
+
+House Lefford of the Golden Tooth is a noble house from the Westerlands. The seat of the House is at the Golden Tooth. The castle controls the main entrance to the Westerlands from the east. House Lefford blazons its arms with a golden pile on sky blue, a sun left in the sky.
+
+The known members of this house are:
+
+Leo Lefford : Lord of the Golden Tooth.
+
+Alysanne Lefford :Lord Leo's heir, the Lady of the Golden Tooth.
+
+Leonella Lefford, the wife of Lothar Frey.
+
+

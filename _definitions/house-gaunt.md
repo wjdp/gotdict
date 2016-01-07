@@ -1,0 +1,13 @@
+---
+title: House Gaunt
+inflections:
+  - Gaunt
+---
+
+House Gaunt is a noble house from the Crownlands.They blazon their arms with three black lances upright on pink, between black flaunches.
+
+There are no known members of this house.
+
+
+
+

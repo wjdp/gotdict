@@ -1,0 +1,15 @@
+---
+title: House Poole
+inflections:
+  - Poole
+---
+
+House Poole is a noble house from the North. It is sworn to House Stark. They blazon their arms as a blue plate on white, with a grey tressure.
+
+The known members of this house are:
+
+Vayon Poole, the steward of Winterfell.
+
+Jeyne Poole, his daughter.
+
+

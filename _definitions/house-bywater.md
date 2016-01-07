@@ -1,0 +1,13 @@
+---
+title: House Bywater
+inflections:
+  - Bywater
+---
+
+House Bywater is a noble house from the Crownlands. They blazon their shields with fretty blue on white, three silver fish on a blue chief.
+
+The known members of this house are:
+
+Ser Jacelyn Bywater, also known as the Ironhand. A Gold Cloak officer of a lesser branch of the house.
+
+

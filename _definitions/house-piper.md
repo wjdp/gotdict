@@ -1,0 +1,19 @@
+---
+title: House Piper
+inflections:
+  - Piper
+---
+
+House Piper of Pinkmaiden is a noble house from the Riverlands. Its seat at Pinkmaiden Castle is located close to the border with the Westerlands.
+
+Their blazon is a pink dancing maiden in a swirl of white silk, over blue. Their motto is Brave and Beautiful.
+
+The known members of this house are:
+
+Lord Clement Piper : Lord of Pinkmaiden Castle.
+
+Ser Marq Piper :his eldest son. Heir to Pinkmaiden Castle.
+
+Lewys Piper : his younger son.
+
+

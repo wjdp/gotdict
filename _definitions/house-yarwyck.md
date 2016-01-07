@@ -1,0 +1,13 @@
+---
+title: House Yarwyck
+inflections:
+  - Yarwyck
+---
+
+House Yarwyck is a noble house from the Westerlands. They blazon their arms with two bronze halberds crossed between four red diamonds, on white.
+
+The known members of this house are:
+
+Othell Yarwyck, First Builder of the Night's Watch.
+
+

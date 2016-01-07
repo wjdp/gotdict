@@ -1,0 +1,15 @@
+---
+title: House Merlyn
+inflections:
+  - Merlyn
+---
+
+House Merlyn of Pebbleton is a noble house from the Iron Islands. Their seat is located on Great Wyk. They blazon their arms with twining waterspouts, green on white.
+
+The known members of House Merlyn are:
+
+Lord Meldred Merlyn: known as the Merlyn.
+
+Manfryd Merlyn : Captain in the Iron Fleet
+
+

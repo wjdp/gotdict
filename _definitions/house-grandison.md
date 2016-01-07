@@ -1,0 +1,17 @@
+---
+title: House Grandison
+inflections:
+  - Grandison
+---
+
+House Grandison of Grandview is a noble house from the Stormlands. It blazons its arms with a black sleeping lion on yellow. Their words are "Rouse Me Not".
+
+The known members of this house are:
+
+Lord Hugh Grandison, called the "Greybeard".
+
+Ser Narbert Grandison, a knight.
+
+Ser Harlan Grandison, a former member of the Kingsguard
+
+
