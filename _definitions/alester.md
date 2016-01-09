@@ -8,6 +8,6 @@ Alester Florent : Head of Florent House
 
 Alester Norcross : Hier of Hosman Norcross
 
-Alester Oakheart : former hero of house Oakheart
+Alester Oakheart : former hero of House Oakheart
 
 

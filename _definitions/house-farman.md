@@ -1,0 +1,16 @@
+---
+title: House Farman
+inflections:
+  - Farman
+type: house
+---
+
+House Farman of Faircastle is the noble house ruling the Fair Isle, off the coast of the Westerlands. They blazon their arms with three silver ships on blue, a border of crimson and gold.
+
+The known members of this house are:
+
+Lord Sebaston Farman: Lord of Fair Isle.
+
+Jeyne Farman : his sister. The wife of Ser Gareth Clifton.
+
+

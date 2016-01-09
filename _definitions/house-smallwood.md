@@ -1,0 +1,20 @@
+---
+title: House Smallwood
+inflections:
+  - Smallwood
+type: house
+---
+
+House Smallwood of Acorn Hall is a noble house from the Riverlands. Their sigil is six brown acorns, 3-2-1, on yellow. Their motto is "From These Beginnings." They are sworn to House Vance of Wayfarer's Rest. The lands of House Smallwood are near those that belonged to House Goodbrook.
+
+The known members of this house are:
+
+Lord Theomar Smallwood: Lord of Acorn Hall.
+
+Lady Ravella Swann: his wife.
+
+Carellen Smallwood :his daughter.
+
+Thoren Smallwood : a ranger of the Night's Watch.
+
+

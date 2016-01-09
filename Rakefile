@@ -1,11 +1,13 @@
 task :jekyll_build do
   sh "bundle exec jekyll build"
   sh "cp -r images _output/site/defs/"
+  sh "cp -r images _output/site/"
 end
 
 task :jekyll_build_incremental do
   sh "bundle exec jekyll build --incremental"
   sh "cp -r images _output/site/defs/"
+  sh "cp -r images _output/site/"
 end
 
 task :kindlegen_images do

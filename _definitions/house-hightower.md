@@ -1,8 +1,9 @@
 ---
 title: House Hightower
+type: house
 ---
 
- House Hightower of the Hightower is one of the most important and powerful vassals of House Tyrell (and before them of House Gardener). The sigil of House Hightower is a stone white watchtower, with a fire on the top. Their words are "We Light the Way". Members of the house are considered loyal and stalwart.
+House Hightower of the Hightower is one of the most important and powerful vassals of House Tyrell (and before them of House Gardener). The sigil of House Hightower is a stone white watchtower, with a fire on the top. Their words are "We Light the Way". Members of the house are considered loyal and stalwart.
 
 The family is very old, existing since the Dawn of Days when they were petty-kings. During the coming of the Andals and the creation of the Kingdom of the Reach, the Hightowers allied with the newcomers. Thus they were able the keep their wealth, lands and privileges.
 
@@ -32,6 +33,6 @@ Lynesse Hightower, his sixth daughter. Married to Lord Jorah Mormont;
 
 Ser Gunthor Hightower, his third son. Married to Jeyne Fossoway.
 
-Ser Humfrey Hightower, his fourth son. 
+Ser Humfrey Hightower, his fourth son.
 
 

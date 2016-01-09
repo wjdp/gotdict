@@ -1,0 +1,16 @@
+---
+title: House Greenfield
+inflections:
+  - Greenfield
+type: house
+---
+
+House Greenfield of Greenfield is a house of landed knights sworn to Casterly Rock. They blazon their shield as a double tressure white on green.
+
+The known members of this house are:
+
+Ser Garth Greenfield : the Knight of Greenfield.
+
+Ser Preston Greenfield : a member of King Robert I's Kingsguard.
+
+

@@ -1,0 +1,20 @@
+---
+title: House Kettleblack
+inflections:
+  - Kettleblack
+type: house
+---
+
+House Kettleblack is a new knightly house. They blazon their arms with a black kettle on red, a border of orles.
+
+The known members of this house are:
+
+Oswell, called 'Kettleblack', a man-at-arms in service to Lord Petyr Baelish.
+
+Ser Osmund Kettleblack, his eldest son
+
+Ser Osfryd Kettleblack, his second son
+
+Ser Osney Kettleblack, his youngest son
+
+

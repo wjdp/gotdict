@@ -1,0 +1,32 @@
+---
+title: House Manderly
+inflections:
+  - Manderly
+type: house
+---
+
+House Manderly of White Harbor is an ancient house from the North with its origins in the Reach.
+
+A thousand years before the Conquest the Manderlys lived at the banks of the mighty river Mander, but they were driven away by House Gardener. They fled north and were welcomed by the Starks of Winterfell as their own bannermen. They are the only Northern noble house of Andal origins and customs, and thus they follow the Faith instead of the Old Gods.
+
+Eventually, they became the lords of White Harbor, previously inhabited by pirates that were driven out by King Jon Stark. White Harbor is one of the five cities of Westeros, and the main Northern port for commerce and naval transport.
+
+Their blazon is a white merman with dark green hair, beard and tail, carrying a black trident, over a blue-green field.
+
+The known members of this house are:
+
+Lord Wyman Manderly, Lord of the White Harbor.
+
+Ser Wylis Manderly: His first born son and heir to White Harbor.
+
+Wynafryd Manderly, Wylis' young daughter.
+
+Wylla Manderly, Wylis' young daughter.
+
+Ser Wendel Manderly, his second son.
+
+Ser Marlon Manderly, his cousin and commander of the garrison at White Harbor
+
+Lady Donella Manderly, his cousin
+
+

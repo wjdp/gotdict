@@ -1,0 +1,14 @@
+---
+title: House Sarsfield
+inflections:
+  - Sarsfield
+type: house
+---
+
+House Sarsfield of Sarsfield is a noble house from the Westerlands. It blazons its shield with a green arrow on white bend on green. Their motto is "True to the Mark".
+
+The known members of this house are:
+
+Ser Melwyn Sarsfield
+
+

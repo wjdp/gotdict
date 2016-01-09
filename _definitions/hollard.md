@@ -1,9 +1,0 @@
----
-title: Hollard
----
-
-House Hollard was an ancient and noble house sworn to House Darklyn, who had three daughters wedded to Darklyn kings during the Age of Heroes. Following the Defiance of Duskendale, almost the entire House was executed at Aerys's command, except for the young Dontos Hollard who was allowed to live at Ser Barristan Selmy's request. He later became known as Ser Dontos the Red, a drunken knight turned fool.
-
-They blazon their arms with barry red and pink, three golden crowns on a black chief.
-
-

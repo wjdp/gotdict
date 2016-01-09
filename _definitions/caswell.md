@@ -2,10 +2,10 @@
 title: Caswell
 ---
 
-There are two Caswells:
+There are three Caswells:
 
-Caswell (House)
+House Caswell
 
-Caswell (Lord) : Head of the House
+Lorent Caswell : Lord of Bitterbridge.
 
-
+Orbert Caswell : was Lord Commander of the Night's Watch

@@ -1,5 +1,6 @@
 ---
 title: House Ambrose
+type: house
 ---
 
 House Ambrose is a noble house from the Reach. They blazon their arms as a yellow field strewn with red ants. Their motto is Never Resting.
@@ -12,6 +13,6 @@ Lady Alysanne Hightower, His wife.
 
 Alyn Ambrose, his young son. A squire.
 
-Ser Edmund Ambrose, a knight from Randyll Tarly's household. 
+Ser Edmund Ambrose, a knight from Randyll Tarly's household.
 
 

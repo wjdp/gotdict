@@ -39,3 +39,13 @@ defaults:
       type: definitions
     values:
       layout: definition
+
+image:
+  source: images
+  presets:
+    sigil:
+      attr:
+        class: sigil
+        width: 51
+        height: 56
+        align: middle

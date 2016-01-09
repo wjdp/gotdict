@@ -1,0 +1,14 @@
+---
+title: House Lonmouth
+inflections:
+  - Lonmouth
+type: house
+---
+
+ House Lonmouth is a noble house from the Stormlands. They blazon their arms with quartered of six: red lips strewn on yellow, yellow skulls strewn on black. Their words are "The Choice Is Yours".
+
+The known members of this house are:
+
+Ser Richard Lonmouth, a former squire of Prince Rhaegar Targaryen.
+
+

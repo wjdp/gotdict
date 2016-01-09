@@ -1,0 +1,11 @@
+---
+title: Flint's Finger
+inflections:
+  - Flint's Finger
+---
+
+Flint's Finger is the seat of House Flint of Flint's Finger in the North. It is located on the southern shore of Blazewater Bay, north of the Flint Cliffs and east of Cape Kraken.
+
+A weak King of the Iron Islands lost Flint's Finger in the century after King Gerold Lannister raided the Iron Islands.
+
+![Map](images/map-the-north.png)

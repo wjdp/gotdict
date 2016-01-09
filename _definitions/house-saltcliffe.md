@@ -1,0 +1,16 @@
+---
+title: House Saltcliffe
+inflections:
+  - Saltcliffe
+type: house
+---
+
+House Saltcliffe of Saltcliffe is one of the noble houses on the island of Saltcliffe in the Iron Islands. Their blazon is a a nine-headed serpent, black on silver.
+
+The known members of House Saltcliffe are:
+
+Lord Donnor Saltcliffe : Lord of Saltcliffe
+
+![Image](images/000042.jpg)
+
+

@@ -1,0 +1,16 @@
+---
+title: House Strong
+inflections:
+  - Strong
+type: house
+---
+
+House Strong of Harrenhal was a noble house in the Riverlands. Their seat was Harrenhal. Like the other families who have been in possession of Harrenhal, their family died out.
+
+The known members of this house are:
+
+Duncan Strong : an exile serving with the Golden Company.
+
+Denys Strong : an exile serving with the Golden Company.
+
+
