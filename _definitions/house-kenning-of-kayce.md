@@ -1,6 +1,7 @@
 ---
-title: House Kenning of Kayce
+title: House Kenning of Kayce in the Westerlands
 inflections:
+  - House Kenning of Kayce
   - Kenning of Kayce
 type: house
 ---
