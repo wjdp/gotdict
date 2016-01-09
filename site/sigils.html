@@ -1,0 +1,18 @@
+---
+layout: default
+title: Sigil List
+permalink: /site/sigils/
+---
+
+<h1>House Sigil Listing</h1>
+
+<ul>
+{% for def in site.definitions %}{% if def.type == "house" %}
+  {% capture name %}{{ def.path | replace: '_definitions/', '' | replace: '.md', '' }}{% endcapture %}
+  <li>
+    <img src="{{ site.baseurl }}images/{{ name }}.png" width="51" height="56" />
+    {{ def.title }}
+    <a href="http://awoiaf.westeros.org/index.php/{{ def.title }}">awoif</a>
+  </li>
+{% endif %}{% endfor %}
+</ul>

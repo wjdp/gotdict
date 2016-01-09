@@ -11,7 +11,6 @@
       <dc:Date>{{ site.time | date: "%Y-%m-%d" }}</dc:Date>
     </dc-metadata>
     <x-metadata>
-      <output encoding="utf-8" content-type="text/x-oeb1-document"></output>
       <EmbeddedCover>images/cover.jpg</EmbeddedCover>
       <!-- That's how it's recognized as a dictionary: -->
       <DictionaryInLanguage>en</DictionaryInLanguage>
@@ -21,6 +20,7 @@
   </metadata>
   <manifest>
     <item id="cimage" media-type="image/jpeg" href="images/cover.jpg" properties="coverimage"/>
+    <item id="css" href="dict/ebook.css" media-type="text/css" />
     <item id="title" href="dict/title.html" media-type="application/xhtml+xml"/>
     <item id="toc" properties="nav" href="dict/toc.html" media-type="application/xhtml+xml"/>
     <item id="defs" href="dict/defs.html" media-type="application/xhtml+xml"/>
