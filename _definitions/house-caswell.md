@@ -5,10 +5,10 @@ inflections:
 type: house
 ---
 
-There are two Caswells:
+House Caswell of Bitterbridge is a noble house from the Reach. Their seat is Bitterbridge, where the Roseroad meets the river Mander. Their blazon is a yellow centaur with bow on white.
 
-Caswell (House)
+The known members of this house are:
 
-Caswell (Lord) : Head of the House
+Lorent Caswell : Lord of Bitterbridge
 
-
+Orbert Caswell : was Lord Commander of the Night's Watch

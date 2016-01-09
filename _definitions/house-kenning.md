@@ -6,8 +6,8 @@ inflections:
 
 There are two House Kennings:
 
-House Kenning of Kayce
+Kenning of Kayce
 
-House Kenning of Harlaw
+Kenning of Harlaw
 
 

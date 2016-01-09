@@ -6,8 +6,8 @@ inflections:
 
 There are two House Shetts:
 
-House Shett of Gull Tower
+Shett of Gull Tower
 
-House Shett of Gulltown
+Shett of Gulltown
 
 
