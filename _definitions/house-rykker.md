@@ -2,6 +2,7 @@
 title: House Rykker
 inflections:
   - Rykker
+type: house
 ---
 
 House Rykker of Duskendale is a noble house from the Crownlands. Their sigil is two black warhammers crossed on a white saltire on blue. Their seat is the castle of Dun Fort.

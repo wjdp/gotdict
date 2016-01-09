@@ -2,6 +2,7 @@
 title: House Lefford
 inflections:
   - Lefford
+type: house
 ---
 
 House Lefford of the Golden Tooth is a noble house from the Westerlands. The seat of the House is at the Golden Tooth. The castle controls the main entrance to the Westerlands from the east. House Lefford blazons its arms with a golden pile on sky blue, a sun left in the sky.

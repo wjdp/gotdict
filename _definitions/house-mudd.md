@@ -2,6 +2,7 @@
 title: House Mudd
 inflections:
   - Mudd
+type: house
 ---
 
 House Mudd of Oldstones is a noble house from the Riverlands. Their castle was at Oldstones although at their time it had a different name. They blazoned their shield with a golden crown studded with emeralds on a red-brown field.

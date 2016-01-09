@@ -2,6 +2,7 @@
 title: House Haigh
 inflections:
   - Haigh
+type: house
 ---
 
 House Haigh is a knightly house from the Riverlands. They are a vassal house of House Frey. Their arms are a black pitchfork on a golden bar sinister on russet.

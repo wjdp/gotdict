@@ -2,6 +2,7 @@
 title: House Lynderly
 inflections:
   - Lynderly
+type: house
 ---
 
 House Lynderly of the Snakewood is a noble house from the Vale.

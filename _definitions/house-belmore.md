@@ -2,6 +2,7 @@
 title: House Belmore
 inflections:
   - Belmore
+type: house
 ---
 
 House Belmore of Strongsong is one of the more powerful noble houses from the Vale. Their arms are six silver bells on purple, 3-2-1.

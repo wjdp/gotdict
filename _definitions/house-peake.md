@@ -2,6 +2,7 @@
 title: House Peake
 inflections:
   - Peake
+type: house
 ---
 
  House Peake of Starpike is a noble house from the Reach. They blazon their arms with three black castles on orange.

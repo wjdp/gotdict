@@ -2,6 +2,7 @@
 title: House Lychester
 inflections:
   - Lychester
+type: house
 ---
 
 House Lychester is a noble house from the Riverlands. They blazon their arms with orange and white gyronny, a black talon.

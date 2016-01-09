@@ -2,6 +2,7 @@
 title: House Bushy
 inflections:
   - Bushy
+type: house
 ---
 
  House Bushy is a noble house from the Reach. They blazon their arms with a green fess embattled on white.

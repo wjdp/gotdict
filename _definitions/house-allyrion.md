@@ -2,6 +2,7 @@
 title: House Allyrion
 inflections:
   - Allyrion
+type: house
 ---
 
 House Allyrion of Godsgrace is a major Dornish noble house. Godsgrace sits on the fork between the Scourge and the Vaith. Their blazon is a golden hand on gyronny red and black. Their words are No Foe May Pass.

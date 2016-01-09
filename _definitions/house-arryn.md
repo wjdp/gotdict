@@ -2,6 +2,7 @@
 title: House Arryn
 inflections:
   - Arryn
+type: house
 ---
 
 House Arryn of the Eyrie is one of Great Houses of Westeros, and is the principal noble house in the Vale. Their main seat is the Eyrie, but they have many other holdings, including their winter castle at the Gates of the Moon. Both of these fortifications sit astride the Giant's Lance, the tallest mountain in the Vale, and the Eyrie is considered impregnable. Their sigil is a white moon-and-falcon on a sky-blue field, and their words are "As High as Honor." Their line dates back to the old Andal peoples that invaded Westeros. Usually marrying other Andal nobles, House Arryn to this day has the purest line of Andal nobility.

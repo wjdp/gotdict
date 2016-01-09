@@ -1,5 +1,6 @@
 ---
 title: House Gargalen
+type: house
 ---
 
  House Gargalen of Salt Shore is a major Dornish noble house. Their seat is placed on the southern coast of Dorne. Their blazon is a red cockatrice with black snake in beak on gold.

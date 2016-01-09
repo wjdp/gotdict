@@ -2,6 +2,7 @@
 title: House Estermont
 inflections:
   - Estermont
+type: house
 ---
 
 House Estermont of Greenstone is a noble house from the Stormlands, ruling the small island of Estermont south of the Shipbreaker Bay. Their arms depict a dark green sea turtle on pale green.

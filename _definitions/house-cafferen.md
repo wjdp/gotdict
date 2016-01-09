@@ -2,6 +2,7 @@
 title: House Cafferen
 inflections:
   - Cafferen
+type: house
 ---
 
 There are two Cafferens:

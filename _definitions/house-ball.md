@@ -2,6 +2,7 @@
 title: House Ball
 inflections:
   - Ball
+type: house
 ---
 
 House Ball is a noble house from the Reach. They blazon their shields with three white plates upon a chevron red on a white field.

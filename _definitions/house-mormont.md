@@ -2,6 +2,7 @@
 title: House Mormont
 inflections:
   - Mormont
+type: house
 ---
 
 House Mormont of Bear Island is an old, proud, and honorable house, sworn to House Stark of Winterfell. Their seat is at Bear Island, located in the Bay of Ice far to the north-west of Winterfell. Their blazon is a a black bear over a green wood and motto "Here We Stand".

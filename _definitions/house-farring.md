@@ -2,6 +2,7 @@
 title: House Farring
 inflections:
   - Farring
+type: house
 ---
 
 House Farring is a noble house of the Crownlands. They blazon their arms with per pale purple and white, two knights combatant with swords, counter-charged.

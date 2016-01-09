@@ -2,6 +2,7 @@
 title: House Blackfyre
 inflections:
   - Blackfyre
+type: house
 ---
 
 House Blackfyre is a semi-extinct noble house from the Crownlands. House Blackfyre was a cadet branch of House Targaryen, founded by Daemon Blackfyre, the legitimized bastard of King Aegon IV Targaryen. House Blackfyre is named for the sword of the same name.

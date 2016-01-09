@@ -2,6 +2,7 @@
 title: House Yew
 inflections:
   - Yew
+type: house
 ---
 
 House Yew is a house of landed knights from the Westerlands. They are a golden longbow on white between two crimson flaunches.

@@ -2,6 +2,7 @@
 title: House Cox
 inflections:
   - Cox
+type: house
 ---
 
 House Cox of Saltpans is a knightly house of the Riverlands. Its seat is in Saltpans.

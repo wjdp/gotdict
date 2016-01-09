@@ -2,6 +2,7 @@
 title: House Reyne
 inflections:
   - Reyne
+type: house
 ---
 
 House Reyne of Castamere was a noble house from the Westerlands. It was once the richest and most powerful Westerland house after the Lannisters. They blazoned their arms with a red lion rampant regardant with a forked tail, armed and langued gold, on silver.

@@ -2,6 +2,7 @@
 title: House Stackspear
 inflections:
   - Stackspear
+type: house
 ---
 
 House Stackspear is a noble house of the Westerlands sworn to Casterly Rock. They blazon their arms with two crossed black spears on checkered silver and gold.

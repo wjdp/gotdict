@@ -2,6 +2,7 @@
 title: House Shermer
 inflections:
   - Shermer
+type: house
 ---
 
  House Shermer of Smithyton is a noble house of the Reach. House Shermer blazons its shields with a field of copper nails on blue, a copper border rayonne.

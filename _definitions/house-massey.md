@@ -2,6 +2,7 @@
 title: House Massey
 inflections:
   - Massey
+type: house
 ---
 
 House Massey of Stonedance is a noble house of the Crownlands. They blazon their arms with a triple spiral; red, green and blue, on white, an ancient sigil for an ancient House.

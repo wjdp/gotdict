@@ -2,6 +2,7 @@
 title: House Farman
 inflections:
   - Farman
+type: house
 ---
 
 House Farman of Faircastle is the noble house ruling the Fair Isle, off the coast of the Westerlands. They blazon their arms with three silver ships on blue, a border of crimson and gold.

@@ -2,6 +2,7 @@
 title: House Blacktyde
 inflections:
   - Blacktyde
+type: house
 ---
 
 House Blacktyde of Blacktyde is a noble house from the island of Blacktyde, bannermen to House Greyjoy, the overlords of the Iron Islands, located within Westeros. They blazon their arms with vairy green and black.

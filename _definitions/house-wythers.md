@@ -2,6 +2,7 @@
 title: House Wythers
 inflections:
   - Wythers
+type: house
 ---
 
  House Wythers is a noble house from the Reach. Their sigil is a grey squirrel on white with red border.

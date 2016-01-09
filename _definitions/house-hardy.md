@@ -2,6 +2,7 @@
 title: House Hardy
 inflections:
   - Hardy
+type: house
 ---
 
 House Hardy is a noble house from the Crownlands. Their lands are located on Crackclaw Point. Neither their arms nor their words have appeared.

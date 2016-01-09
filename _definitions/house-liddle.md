@@ -2,6 +2,7 @@
 title: House Liddle
 inflections:
   - Liddle
+type: house
 ---
 
 House Liddle is the formal name given to the mountain clan of the Liddles at the North that inhabit the high mountains north of the Wolfswood.

@@ -2,6 +2,7 @@
 title: House Tully
 inflections:
   - Tully
+type: house
 ---
 
 House Tully of Riverrun, is one of the Great Houses of Seven Kingdoms. The Tullys rule over the Riverlands from their seat at Riverrun. Their sigil is a silver trout leaping on a blue and red striped field, and their words are "Family, Duty, Honor." Members of the family tend to have auburn hair, high cheekbones, and bright blue eyes.

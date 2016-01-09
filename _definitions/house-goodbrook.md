@@ -2,6 +2,7 @@
 title: House Goodbrook
 inflections:
   - Goodbrook
+type: house
 ---
 
 House Goodbrook is a noble house sworn to Riverrun. Neither their arms or their words appear in the books, but according to semi-canon sources they blazon their arms a blue wavy bend on gold.

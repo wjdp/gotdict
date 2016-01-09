@@ -2,6 +2,7 @@
 title: House Merryweather
 inflections:
   - Merryweather
+type: house
 ---
 
  House Merryweather of Longtable is a noble house from the Reach. Its seat is located at the fork of the Mander and the Blueburn. It was a powerful and rich family until Aerys II stripped them of their lands and exiled their lord for his failures as Hand. King Robert I restored their title and some of their lands when he took the Iron Throne, but the family's wealth and status has not completely recovered.

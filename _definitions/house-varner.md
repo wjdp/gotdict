@@ -2,6 +2,7 @@
 title: House Varner
 inflections:
   - Varner
+type: house
 ---
 
  House Varner is a noble house from the Reach. Its current lord is Steffon Varner. They blazon their shields with a white weasel on ermines.

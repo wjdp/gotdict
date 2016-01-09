@@ -2,6 +2,7 @@
 title: House Seaworth
 inflections:
   - Seaworth
+type: house
 ---
 
 House Seaworth of Cape Wrath is a noble house from the Stormlands. The blazon of the house is a black ship on a pale grey background, with an onion on its sails.

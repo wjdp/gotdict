@@ -2,6 +2,7 @@
 title: House Dondarrion
 inflections:
   - Dondarrion
+type: house
 ---
 
 House Dondarrion of Blackhaven is an old house from the Dornish Marches, sworn to Storm's End. Blackhaven is located near the Boneway, controlling the pass to Dorne. Their sigil is a forked purple lightning bolt on black field speckled with four-pointed stars.

@@ -2,6 +2,7 @@
 title: House Mertyns
 inflections:
   - Mertyns
+type: house
 ---
 
  House Mertyns of Mistwood is a noble house from the Stormlands. They blazon their arms with a white great horned owl on grey.

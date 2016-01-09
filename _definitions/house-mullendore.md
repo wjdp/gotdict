@@ -2,6 +2,7 @@
 title: House Mullendore
 inflections:
   - Mullendore
+type: house
 ---
 
 House Mullendore of Uplands is a noble house from the Reach. Their seat, Uplands, is probably upstream at the Honeywine, close to Oldtown. They are sworn to the Hightowers. Their arms depict a field of black-and-orange butterflies strewn over white.

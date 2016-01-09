@@ -2,6 +2,7 @@
 title: House Willum
 inflections:
   - Willum
+type: house
 ---
 
 House Willum is a noble house from the Reach. They blazon their shields with three silver longswords crossed on black beneath a dragonbone skeleton on a white chief.

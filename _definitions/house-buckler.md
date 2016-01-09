@@ -2,6 +2,7 @@
 title: House Buckler
 inflections:
   - Buckler
+type: house
 ---
 
  House Buckler of Bronzegate is one of the noble houses from the Stormlands sworn to Storm's End. Their arms depict three brass buckles on blue.

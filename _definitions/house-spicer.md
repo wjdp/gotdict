@@ -2,6 +2,7 @@
 title: House Spicer
 inflections:
   - Spicer
+type: house
 ---
 
 House Spicer of Castamere is a noble house from the Westerlands. They blazon their arms with three black pepperpots on a saffron bend, across a field of green and silver stripes. The grandfather of the current Spicers was a spice trader and the grandmother a maegi from the east.

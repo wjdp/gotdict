@@ -2,6 +2,7 @@
 title: House Trant
 inflections:
   - Trant
+type: house
 ---
 
  House Trant is a noble family from the Stormlands. They are one of the principal houses sworn to House Baratheon. Their words are "So End Our Foes". They blazon their shields with azure, a hanged man, sable.

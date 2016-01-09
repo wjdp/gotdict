@@ -1,7 +1,8 @@
 ---
 title: House Frey
 inflections:
-  - House
+  - Frey
+type: house
 ---
 
 House Frey of the Crossing is a noble house of the Riverlands. Their main seat is the Twins, a pair of castles on each bank of the Green Fork of the Trident that serves as a vital bridge across the river. The lord of the house is called the Lord of the Crossing. The strategic location of the Twins has allowed the house to become quite wealthy. Under their current lord, Walder Frey, they have grown greatly in both size and power. The House can field a thousand knights and three thousand foot.

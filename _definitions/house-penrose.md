@@ -2,6 +2,7 @@
 title: House Penrose
 inflections:
   - Penrose
+type: house
 ---
 
  House Penrose of Parchments is one of the main noble houses from the Stormlands, sworn to the Baratheons of Storm's End. Their blazon is tenee, two quills crossed argent. Their words are "Set Down Our Deeds".

@@ -2,6 +2,7 @@
 title: House Hayford
 inflections:
   - Hayford
+type: house
 ---
 
 House Hayford of Hayford is a noble house from the Crownlands. It is sworn directly to the Iron Throne. Their blazon is green fetty over gold, a green pale wavy.

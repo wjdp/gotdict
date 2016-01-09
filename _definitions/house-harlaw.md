@@ -2,6 +2,7 @@
 title: House Harlaw
 inflections:
   - Harlaw
+type: house
 ---
 
 House Harlaw of Harlaw is one of the most powerful houses from the Iron Islands, ruling over the entire island of Harlaw. To read about their holdings go to Harlaw (Lands).

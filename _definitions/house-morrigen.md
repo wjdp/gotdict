@@ -2,6 +2,7 @@
 title: House Morrigen
 inflections:
   - Morrigen
+type: house
 ---
 
  House Morrigen of Crows Nest is a noble house from the Stormlands. Their arms are a black crow in flight on storm-green

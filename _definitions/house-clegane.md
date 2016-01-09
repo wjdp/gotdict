@@ -2,6 +2,7 @@
 title: House Clegane
 inflections:
   - Clegane
+type: house
 ---
 
 House Clegane is a house of landed knights that holds fealty to House Lannister of Casterly Rock. Their lands are southeast of Casterly Rock and include a towerhouse, which, according to a semi-canon source, is named Clegane's Keep. Their sigil is three dogs on a yellow field.

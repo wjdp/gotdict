@@ -2,6 +2,7 @@
 title: House Baratheon
 inflections:
   - Baratheon
+type: house
 ---
 
 House Baratheon of Storm's End is one of the Great Houses of Westeros, and is the principal house in the Stormlands. Its seat, Storm's End, is an ancient castle raised by the Storm Kings. The Baratheon sigil is a crowned black stag on a field of gold. Members of the family tend to be tall and powerfully built, with black hair and blue eyes, as well as strong, square jawlines. They are known for their mercurial tempers, and their words are Ours is the Fury.

@@ -2,6 +2,7 @@
 title: House Codd
 inflections:
   - Codd
+type: house
 ---
 
 House Codd is a noble house from the Iron Islands. Their motto is "Though All Men Do Despise Us."Their sigil depicts a silver codfish.

@@ -4,6 +4,10 @@ inflections:
   - Vance
 ---
 
-There are two House Vances: Vance of Atranta and Vance of Wayfarer's Rest
+There are two House Vances:
+
+Vance of Atranta
+
+Vance of Wayfarer's Rest
 
 

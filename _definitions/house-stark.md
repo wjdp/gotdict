@@ -2,6 +2,7 @@
 title: House Stark
 inflections:
   - Stark
+type: house
 ---
 
 House Stark of Winterfell is one of the Great Houses of Westeros and the principal noble house of The North; many lesser houses are sworn to them. In days of old they ruled as Kings of Winter; since the Targaryen Conquest they have been Wardens of the North. Their seat, Winterfell, is an ancient castle renowned for its strength. Their sigil is a grey direwolf racing across a field of white, and their words are "Winter Is Coming," one of only a few house mottoes to be a warning rather than a boast. Members of the family tend to be lean of build and long of face, with dark brown hair and grey eyes.

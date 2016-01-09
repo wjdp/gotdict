@@ -2,6 +2,7 @@
 title: House Poole
 inflections:
   - Poole
+type: house
 ---
 
 House Poole is a noble house from the North. It is sworn to House Stark. They blazon their arms as a blue plate on white, with a grey tressure.

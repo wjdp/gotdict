@@ -2,6 +2,7 @@
 title: House Moreland
 inflections:
   - Moreland
+type: house
 ---
 
 House Moreland is a noble house from the West, with an unknown seat.

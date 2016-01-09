@@ -2,6 +2,7 @@
 title: House Humble
 inflections:
   - Humble
+type: house
 ---
 
 House Humble is a house from the Iron Islands. It is considered a lesser house due to the fact that it is descended from thralls and salt wives.

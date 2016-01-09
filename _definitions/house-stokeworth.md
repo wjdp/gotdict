@@ -2,6 +2,7 @@
 title: House Stokeworth
 inflections:
   - Stokeworth
+type: house
 ---
 
 House Stokeworth of Stokeworth rules over this town close to King's Landing, to the north.

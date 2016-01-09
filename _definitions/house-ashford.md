@@ -2,6 +2,7 @@
 title: House Ashford
 inflections:
   - Ashford
+type: house
 ---
 
  House Ashford of Ashford is a noble house from the Reach. It blazons its arms with a white sun-and-chevron on orange. Their words are "Our Sun Shines Bright".

@@ -2,6 +2,7 @@
 title: House Vypren
 inflections:
   - Vypren
+type: house
 ---
 
 House Vypren is a noble house of the Riverlands. Neither their arms nor their motto has appeared in the books. They blazon their arms with a black toad on white lily pad, on green.

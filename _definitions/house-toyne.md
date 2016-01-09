@@ -2,6 +2,7 @@
 title: House Toyne
 inflections:
   - Toyne
+type: house
 ---
 
  House Toyne was a noble house from the Stormlands.They blazoned their arms with a winged heart, black on gold, within a black bordure embattled. Their words are "Fly High, Fly Far". The house was extirpated when Simon Toyne, the last known member of the family, was killed when the Kingsguard were sent to eliminate the Kingswood Brotherhood, whom he lead.

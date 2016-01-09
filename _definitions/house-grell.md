@@ -2,6 +2,7 @@
 title: House Grell
 inflections:
   - Grell
+type: house
 ---
 
 House Grell is a noble house from the Riverlands. They blazon their arms with three red martlets on white bend, on blue.

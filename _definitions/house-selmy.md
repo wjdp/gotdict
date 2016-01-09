@@ -2,6 +2,7 @@
 title: House Selmy
 inflections:
   - Selmy
+type: house
 ---
 
 House Selmy of Harvest Hall is a noble house from the Stormlands. Its seat is Harvest Hall. They blazon their arms with three stalks of yellow wheat on brown.

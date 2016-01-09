@@ -2,6 +2,7 @@
 title: House Mooton
 inflections:
   - Mooton
+type: house
 ---
 
 House Mooton of Maidenpool is a noble house from the Riverlands. Their seat of Maidenpool is one of the main ports and trade centers of the Bay of Crabs. According to legend, this was the location where Florian the Fool saw Jonquil for the first time while she was bathing with her sisters.

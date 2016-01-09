@@ -2,6 +2,7 @@
 title: House Marbrand
 inflections:
   - Marbrand
+type: house
 ---
 
 House Marbrand of Ashemark is a noble house from the West. Their seat of Ashemark is located in the hilly area were the Tumblestone begins. Their blazon is a burning tree, orange on smoke.

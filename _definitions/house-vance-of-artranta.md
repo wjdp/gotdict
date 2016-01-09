@@ -1,5 +1,8 @@
 ---
-title: Vance of Atranta
+title: House Vance of Atranta
+inflections:
+  - Vance of Atranta
+type: house
 ---
 
 House Vance of Atranta is one of the two great branches of House Vance in the Riverlands, the other being House Vance of Wayfarer's Rest.

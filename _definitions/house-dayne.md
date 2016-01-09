@@ -2,6 +2,7 @@
 title: House Dayne
 inflections:
   - Dayne
+type: house
 ---
 
 There are two House Daynes:

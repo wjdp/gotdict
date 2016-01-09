@@ -2,6 +2,7 @@
 title: House Rosby
 inflections:
   - Rosby
+type: house
 ---
 
 House Rosby of Rosby rules at this small town just north of King's Landing. The Rosbys are not known for their robustness, tending to be sickly persons. Their blazon consists into three red chevronels on ermine.

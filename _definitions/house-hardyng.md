@@ -2,6 +2,7 @@
 title: House Hardyng
 inflections:
   - Hardyng
+type: house
 ---
 
 House Hardyng is a noble house from the Vale of Arryn. They blazon their arms with a field of red and white diamonds.

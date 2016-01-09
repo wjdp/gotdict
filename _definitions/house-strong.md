@@ -2,6 +2,7 @@
 title: House Strong
 inflections:
   - Strong
+type: house
 ---
 
 House Strong of Harrenhal was a noble house in the Riverlands. Their seat was Harrenhal. Like the other families who have been in possession of Harrenhal, their family died out.

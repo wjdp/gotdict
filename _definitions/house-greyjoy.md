@@ -2,6 +2,7 @@
 title: House Greyjoy
 inflections:
   - Greyjoy
+type: house
 ---
 
 House Greyjoy of Pyke is one of the Great Houses of Westeros ruling over the Iron Islands - a harsh and bleak collection of forbidding islands off the west coast of Westeros - from the castle and island of Pyke. Their sigil is a golden kraken on a black field, and their house motto is "We Do Not Sow." Members of the family tend to be attractive and well-built, with black hair.

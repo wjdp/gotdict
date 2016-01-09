@@ -2,6 +2,7 @@
 title: House Umber
 inflections:
   - Umber
+type: house
 ---
 
 House Umber of the Last Hearth, is a noble house of the North, sworn to Winterfell and House Stark. The head of the house is Lord Jon Umber, called "The Greatjon".

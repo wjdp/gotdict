@@ -2,6 +2,7 @@
 title: House Greyiron
 inflections:
   - Greyiron
+type: house
 ---
 
 House Greyiron of Orkmont is an extinct house of the Iron Islands. The Greyirons were the High Kings of the Iron Islands for a thousand years.

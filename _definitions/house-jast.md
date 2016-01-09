@@ -2,6 +2,7 @@
 title: House Jast
 inflections:
   - Jast
+type: house
 ---
 
 House Jast is a noble house of the Westerlands. The name and location of their keep has not been revealed yet. Their banner is an inverted pall between three lion's heads, yellow on black. Their motto has not been mentioned.

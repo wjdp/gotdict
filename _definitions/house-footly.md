@@ -2,6 +2,7 @@
 title: House Footly
 inflections:
   - Footly
+type: house
 ---
 
 House Footly of Tumbleton is a noble house from the Reach. House Footly blazons their shields with a field of silver caltrops on black. Their motto is Tread Lightly Here.

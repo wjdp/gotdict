@@ -2,6 +2,7 @@
 title: House Meadows
 inflections:
   - Meadows
+type: house
 ---
 
  House Meadows of Grassy Vale is a noble house from the Reach. House Meadows blazons their shield with a border of flowers of many colors and varieties on green.

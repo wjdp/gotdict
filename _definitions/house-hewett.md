@@ -2,6 +2,7 @@
 title: House Hewett
 inflections:
   - Hewett
+type: house
 ---
 
 House Hewett of Oakenshield rules over one of the Shield Islands. The Shield Islands are a considerable sea strength and were the first line of defense during the days that the ironborn pirates tried to sail up the Mander to sack the wealth of the Reach. Lord Hewett's castle, with thick walls and studded oaken gates evoking the ancient arms of the house, sits above the harbor of Lord Hewett's Town, which is a relatively big port.

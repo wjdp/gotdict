@@ -2,6 +2,7 @@
 title: House Plumm
 inflections:
   - Plumm
+type: house
 ---
 
 House Plumm is a noble house of the Westerlands.They blazon their arms as three purple rondels on gold. Their words are "Come Try Me".

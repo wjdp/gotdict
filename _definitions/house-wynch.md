@@ -2,6 +2,7 @@
 title: House Wynch
 inflections:
   - Wynch
+type: house
 ---
 
 House Wynch of Iron Holt is a noble house from the Iron Islands, with its seat at the island of Pyke. Their blazon is a bloody moon on purple.

@@ -2,6 +2,7 @@
 title: House Drumm
 inflections:
   - Drumm
+type: house
 ---
 
 House Drumm of Old Wyk is a noble house from the Iron Islands, tracing their history back for at least eight hundred years. Their seat is on the island of Old Wyk, the island considered holiest by the ironmen and the first one colonized by the First Men.

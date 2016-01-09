@@ -2,6 +2,7 @@
 title: House Weaver
 inflections:
   - Weaver
+type: house
 ---
 
 House Weaver is a noble house from the Iron Islands. Neither its arms nor its words have appeared yet. It is a young house and low in prestige.

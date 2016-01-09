@@ -2,6 +2,7 @@
 title: House Toland
 inflections:
   - Toland
+type: house
 ---
 
 House Toland of Ghost Hill is a Dornish noble house sworn to Sunspear. Its seat is at Ghost Hill. Their arms depict a green dragon biting its tail on gold, the dragon symbolizing the time having no beginning and no end.

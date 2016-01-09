@@ -2,6 +2,7 @@
 title: House Templeton
 inflections:
   - Templeton
+type: house
 ---
 
 House Templeton is one of the great Knightly houses of the Vale sworn to House Arryn. The head of the House is given the title 'Knight of Ninestars'. Its current head is Ser Symond Templeton.

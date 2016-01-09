@@ -2,6 +2,7 @@
 title: House Estren
 inflections:
   - Estren
+type: house
 ---
 
 House Estren of Wyndhall is a noble house from the Westerlands. The exact location of Wyndhall has not been disclosed yet. They blazon their shield as a green saltire between four red double-headed eagles on white.

@@ -2,6 +2,7 @@
 title: House Locke
 inflections:
   - Locke
+type: house
 ---
 
 House Locke of Oldcastle is a noble house from the North. They blazon their banner as two bronze keys crossed over a white pale on purple.

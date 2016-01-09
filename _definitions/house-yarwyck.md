@@ -2,6 +2,7 @@
 title: House Yarwyck
 inflections:
   - Yarwyck
+type: house
 ---
 
 House Yarwyck is a noble house from the Westerlands. They blazon their arms with two bronze halberds crossed between four red diamonds, on white.

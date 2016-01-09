@@ -2,6 +2,7 @@
 title: House Royce
 inflections:
   - Royce
+type: house
 ---
 
 House Royce of Runestone are an old noble house, perhaps the most powerful bannermen to House Arryn. House Royce seat is the ancestral castle Runestone, located on the coast of the narrow sea. Their cadet branch Royce of the Gates of the Moon occupies the non-hereditary seat of the Gates of the Moon, located on the path that leads to the Eyrie. They blazon their arms with a shower of pebbles on an orange field and their motto, is "We Remember".

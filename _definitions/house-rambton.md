@@ -2,6 +2,7 @@
 title: House Rambton
 inflections:
   - Rambton
+type: house
 ---
 
 House Rambton is a noble house from the Crownlands sworn to House Sunglass. They blazon their arms with a white ram's head with golden horns on red.

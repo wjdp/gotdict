@@ -2,6 +2,7 @@
 title: House Lannister
 inflections:
   - Lannister
+type: house
 ---
 
 House Lannister of Casterly Rock is one of the Great Houses of Seven Kingdoms, and the principal house of the Westerlands. Their seat is Casterly Rock, though another branch exists that is based in nearby Lannisport. Their sigil is a golden lion on a field of crimson. Their official motto is "Hear me roar!" However their unofficial motto, equally well known, is "A Lannister always pays his debts.

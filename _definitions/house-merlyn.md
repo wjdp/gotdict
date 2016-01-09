@@ -2,6 +2,7 @@
 title: House Merlyn
 inflections:
   - Merlyn
+type: house
 ---
 
 House Merlyn of Pebbleton is a noble house from the Iron Islands. Their seat is located on Great Wyk. They blazon their arms with twining waterspouts, green on white.

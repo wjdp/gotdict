@@ -2,6 +2,7 @@
 title: House Stonehouse
 inflections:
   - Stonehouse
+type: house
 ---
 
 House Stonehouse of Old Wyk is a noble houses from the Iron Islands. They blazon their arms with a black brazier on a grey masonry field. Their leader is called The Stonehouse.

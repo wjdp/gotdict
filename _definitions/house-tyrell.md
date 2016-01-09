@@ -2,6 +2,7 @@
 title: House Tyrell
 inflections:
   - Tyrell
+type: house
 ---
 
  House Tyrell of Highgarden is one of the Great Houses of the Seven Kingdoms, overlords over the Reach. A large, wealthy house, its wealth is only surpassed among the Great Houses by House Lannister, and the Tyrells can field the greatest armies. Additionally, if they call the fleets of their bannermen the Redwynes, the lords of the Shield Islands, and the coastal lords, they can command a navy that equals if not surpasses the royal fleet.

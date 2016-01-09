@@ -2,6 +2,7 @@
 title: House Tallhart
 inflections:
   - Tallhart
+type: house
 ---
 
 House Tallhart of Torrhen's Square is a noble house from the North, although they are of masterly rank rather than lordly.

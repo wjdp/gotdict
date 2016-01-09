@@ -2,6 +2,7 @@
 title: House Chelsted
 inflections:
   - Chelsted
+type: house
 ---
 
 House Chelsted is a noble house from the Crownlands. They blazon their arms with per bend green and white, a crossed spiked mace and a silver dagger.

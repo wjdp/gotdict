@@ -2,6 +2,7 @@
 title: House Bywater
 inflections:
   - Bywater
+type: house
 ---
 
 House Bywater is a noble house from the Crownlands. They blazon their shields with fretty blue on white, three silver fish on a blue chief.

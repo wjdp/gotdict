@@ -2,6 +2,7 @@
 title: House Kettleblack
 inflections:
   - Kettleblack
+type: house
 ---
 
 House Kettleblack is a new knightly house. They blazon their arms with a black kettle on red, a border of orles.

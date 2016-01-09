@@ -2,6 +2,7 @@
 title: House Marsh
 inflections:
   - Marsh
+type: house
 ---
 
 House Marsh is a noble house from the North. They blazon their banners as or, ten frogs vert 4-3-2-1.

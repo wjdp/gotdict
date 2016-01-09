@@ -2,6 +2,7 @@
 title: House Botley
 inflections:
   - Botley
+type: house
 ---
 
 House Botley of Lordsport is a noble house from the Iron Islands. Their seat of Lordsport is located at the island of Pyke, at the opposite side of the Greyjoy's keep. The stronghold of the Botleys had been a great structure of timber and wattle, but when Robert Baratheon put down the Greyjoy Rebellion, he razed the structure to the ground. A small square keep of stone was built afterwards.

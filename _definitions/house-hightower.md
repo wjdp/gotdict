@@ -1,5 +1,6 @@
 ---
 title: House Hightower
+type: house
 ---
 
 House Hightower of the Hightower is one of the most important and powerful vassals of House Tyrell (and before them of House Gardener). The sigil of House Hightower is a stone white watchtower, with a fire on the top. Their words are "We Light the Way". Members of the house are considered loyal and stalwart.

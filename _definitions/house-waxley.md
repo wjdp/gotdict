@@ -2,6 +2,7 @@
 title: House Waxley
 inflections:
   - Waxley
+type: house
 ---
 
 House Waxley of Wickenden is a noble house from the Vale sworn to the Arryns.

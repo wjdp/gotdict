@@ -2,6 +2,7 @@
 title: House Norcross
 inflections:
   - Norcross
+type: house
 ---
 
 House Norcross is a noble house from the Reach. They blazon their shield with a cross embattled, black on white.

@@ -2,6 +2,7 @@
 title: House Sparr
 inflections:
   - Sparr
+type: house
 ---
 
 House Sparr of Great Wyk rules over a part of this island. Their lands are about six leagues from Hammerhorn.

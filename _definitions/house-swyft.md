@@ -2,6 +2,7 @@
 title: House Swyft
 inflections:
   - Swyft
+type: house
 ---
 
 House Swyft of Cornfield is a house of landed knights sworn to Casterly Rock. Their arms depict a blue bantam rooster on yellow. Their words are "Awake! Awake!

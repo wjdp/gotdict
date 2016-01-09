@@ -2,6 +2,7 @@
 title: House Moore
 inflections:
   - Moore
+type: house
 ---
 
 House Moore is a noble house of the Vale. They blazon their arms with three bronze spearheads on white, a bronze border embattled.

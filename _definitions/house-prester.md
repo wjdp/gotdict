@@ -2,6 +2,7 @@
 title: House Prester
 inflections:
   - Prester
+type: house
 ---
 
 House Prester of Feastfires is one a noble house sworn to Casterly Rock. Their seat at Feastfires is located at the westernmost point of the Westerlands.

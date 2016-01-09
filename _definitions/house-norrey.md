@@ -2,6 +2,7 @@
 title: House Norrey
 inflections:
   - Norrey
+type: house
 ---
 
 House Norrey is the formal name given to the Norreys, a mountain clan from the North that inhabits the high mountains north of the Wolfswood. The chief of the clan is known as "The Norrey", although at Winterfell is given the treatment of "Lord Norrey".

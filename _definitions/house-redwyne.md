@@ -2,6 +2,7 @@
 title: House Redwyne
 inflections:
   - Redwyne
+type: house
 ---
 
  House Redwyne of the Arbor is a noble house sworn to Highgarden. Their seat is the Arbor, an island south of the Whispering Sound. Redwyne is a powerful house with strong ties to the Tyrells, and provides a significant portion of the fleet of the Reach, owning 200 warships and five times as many merchant vessels.

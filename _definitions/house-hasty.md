@@ -2,6 +2,7 @@
 title: House Hasty
 inflections:
   - Hasty
+type: house
 ---
 
  House Hasty is a noble house from the Stormlands. They blazon their arms with a white bend cotised on purple.

@@ -2,6 +2,7 @@
 title: House Tollett
 inflections:
   - Tollett
+type: house
 ---
 
 House Tollett of the Grey Glen is a house from the Vale sworn to the Royces from Runestone.

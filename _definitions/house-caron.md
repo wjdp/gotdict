@@ -2,6 +2,7 @@
 title: House Caron
 inflections:
   - Caron
+type: house
 ---
 
  House Caron of Nightsong is a noble house from the Dornish Marches, sworn to Storm's End. They hold the title "Lord of the Marches" suggesting that they have some kind of overlordship over other marcher lords. Their blazon is a field of black nightingales on yellow.

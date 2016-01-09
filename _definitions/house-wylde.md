@@ -2,6 +2,7 @@
 title: House Wylde
 inflections:
   - Wylde
+type: house
 ---
 
  House Wylde of Rain House is a noble house from the Stormlands. It is one of the principal houses sworn to House Baratheon. According to semi-canon sources they blazon their arms with a blue-green maelstrom on gold.

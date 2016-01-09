@@ -2,6 +2,7 @@
 title: House Lorch
 inflections:
   - Lorch
+type: house
 ---
 
 House Lorch is a knightly house from the Westerlands. They blazon their shields with A black manticore on white, beneath a crimson chief with three gold coins.

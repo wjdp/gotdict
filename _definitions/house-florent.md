@@ -2,6 +2,7 @@
 title: House Florent
 inflections:
   - Florent
+type: house
 ---
 
  House Florent of Brightwater Keep is sworn to House Tyrell, but also known to chafe at their fealty owed to them. The Florents, like the Tyrells, claim descent from the extinct House Gardener, the defunct royal line of the Reach. The Florents believe that they have a superior line of descent, and by rights should possess Highgarden. The Florent seat is Brightwater Keep.

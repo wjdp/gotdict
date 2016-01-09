@@ -2,6 +2,7 @@
 title: House Dalt
 inflections:
   - Dalt
+type: house
 ---
 
 House Dalt of Lemonwood is a knightly Dornish house. Lemonwood is located south of the mouth of the Greenblood, close to the Shadow City. Their blazon are proper lemons strewn on purple.

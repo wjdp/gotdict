@@ -2,6 +2,7 @@
 title: House Ruttiger
 inflections:
   - Ruttiger
+type: house
 ---
 
 House Ruttiger is a house of landed knights sworn to Casterly Rock. They blazon their arms with an orange bend engrailed on black.

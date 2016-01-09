@@ -2,6 +2,7 @@
 title: House Inchfield
 inflections:
   - Inchfield
+type: house
 ---
 
 House Inchfield is a noble house from the Reach. Their blazon is a bend sinister, chequy black and white on a pale grey field.

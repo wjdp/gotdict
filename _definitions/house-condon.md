@@ -2,6 +2,7 @@
 title: House Condon
 inflections:
   - Condon
+type: house
 ---
 
 House Condon is a noble house from the North. They blazon their arms with an eagle's head between crossed tridents, red on white.

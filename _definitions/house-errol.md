@@ -2,6 +2,7 @@
 title: House Errol
 inflections:
   - Errol
+type: house
 ---
 
  House Errol of Haystack Hall is a noble house from the Stormlands. It is one of the principal houses sworn to House Baratheon. They blazon their shield as a yellow haystack on orange.

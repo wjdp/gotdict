@@ -2,6 +2,7 @@
 title: House Ryswell
 inflections:
   - Ryswell
+type: house
 ---
 
 House Ryswell of the Rills rules in the extensive area between the Barrowlands and the Stony Shore.

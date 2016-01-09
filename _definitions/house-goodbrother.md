@@ -2,6 +2,7 @@
 title: House Goodbrother
 inflections:
   - Goodbrother
+type: house
 ---
 
 House Goodbrother of Hammerhorn is a noble house from the Iron Islands. They are one of the most powerful houses from Great Wyk, the largest of the islands. Their keep of Hammerhorn is inland, in the Hardstone Hills, their wealth not coming from the sea but from their mines.

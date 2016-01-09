@@ -2,6 +2,7 @@
 title: House Boggs
 inflections:
   - Boggs
+type: house
 ---
 
 House Boggs is a noble house from the Crownlands. Its seat is located on Crackclaw Point.

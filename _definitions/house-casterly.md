@@ -2,6 +2,7 @@
 title: House Casterly
 inflections:
   - Casterly
+type: house
 ---
 
 House Casterly of Casterly Rock is the extinct house of the First Men that ruled the Westerlands until the arrival of the Andal adventurers.

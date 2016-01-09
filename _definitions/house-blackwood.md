@@ -2,6 +2,7 @@
 title: House Blackwood
 inflections:
   - Blackwood
+type: house
 ---
 
 House Blackwood of Raventree Hall is an old house from the Riverlands, sworn to House Tully. They blazon their arms with a flock of ravens on scarlet surrounding a dead weirwood upon a black escutcheon.

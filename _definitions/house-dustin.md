@@ -2,6 +2,7 @@
 title: House Dustin
 inflections:
   - Dustin
+type: house
 ---
 
 House Dustin of Barrowton is a noble house from the North. They blazon their shield as two rusted longaxes with black shafts crossed, a black crown between their points, on yellow.

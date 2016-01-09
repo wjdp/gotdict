@@ -2,6 +2,7 @@
 title: House Cassel
 inflections:
   - Cassel
+type: house
 ---
 
 House Cassel is a house in the service of the Starks of Winterfell. They blazon their arms with ten white wolf heads, 4-3-2-1, on grey with a black border.

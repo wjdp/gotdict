@@ -2,6 +2,7 @@
 title: House Baelish
 inflections:
   - Baelish
+type: house
 ---
 
 House Baelish of the Fingers is a noble house from the Vale. The seat of House Baelish is located on the Fingers in the Vale. Their holdings lie on the smallest of the Fingers. The current lord, Petyr Baelish is only the second generation of the landed family. His grandfather had been a landless hedge knight and his father the smallest of lords.

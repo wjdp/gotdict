@@ -1,5 +1,6 @@
 ---
 title: House Uller
+type: house
 ---
 
 House Uller of Hellholt is one of the great noble houses in Dorne. The Ullers have their keep in the middle of the Dornish desert, and are reputed to be impulsive and unpredictable. There's a saying in Dorne that goes "Half of the Ullers are half-mad, and the other half are worse.

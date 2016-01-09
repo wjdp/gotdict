@@ -2,6 +2,7 @@
 title: House Hunter
 inflections:
   - Hunter
+type: house
 ---
 
 House Hunter of Longbow Hall is a noble house from the Vale. They blazon their arms with five silver arrows, fanned, on brown.

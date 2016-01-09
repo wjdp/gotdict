@@ -2,6 +2,7 @@
 title: House Bulwer
 inflections:
   - Bulwer
+type: house
 ---
 
  House Bulwer of Blackcrown is a noble house from the Reach, sworn to the Hightowers. Blackcrown is located on the northern coast of the Whispering Sound. Their arms depict a bull's skull, bone over blood. Their words are Death Before Disgrace.

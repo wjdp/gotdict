@@ -2,6 +2,7 @@
 title: House Karstark
 inflections:
   - Karstark
+type: house
 ---
 
 House Karstark of Karhold is a noble house from the North, and a cadet branch of the overlords, House Stark. Karstarks are big, fierce men, bearded and long-haired, and favor wearing cloaks made of the pelts of seals, bears, and wolves. Their blazon is a white sunburst on black and their motto is, "The Sun of Winter".

@@ -2,6 +2,7 @@
 title: House Darry
 inflections:
   - Darry
+type: house
 ---
 
 House Darry of Darry is a noble house from the Riverlands. Historically it had been one of the more prominent and powerful houses of the Trident, until the fall of the Targaryens. House Darry could trace their rule to the days when the Andals cast down the First Men. Their blazon is a black plowman on brown.

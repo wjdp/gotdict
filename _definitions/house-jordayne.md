@@ -2,6 +2,7 @@
 title: House Jordayne
 inflections:
   - Jordayne
+type: house
 ---
 
  House Jordayne of the Tor is a Dornish noble house. Their seat is placed on the coast of the Dornish Sea. Their blazon is a golden quill on checkered dark and light green. Their words are "Let it be Written".

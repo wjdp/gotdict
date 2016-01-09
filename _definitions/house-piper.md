@@ -2,6 +2,7 @@
 title: House Piper
 inflections:
   - Piper
+type: house
 ---
 
 House Piper of Pinkmaiden is a noble house from the Riverlands. Its seat at Pinkmaiden Castle is located close to the border with the Westerlands.

@@ -2,6 +2,7 @@
 title: House Bracken
 inflections:
   - Bracken
+type: house
 ---
 
 House Bracken of Stone Hedge is an old house from the Riverlands, with the blood of the First Men in their veins. They are sworn to House Tully. They blazon their arms with a red stallion upon a golden escutcheon on brown. Bracken lands lie along the Red Fork of the Trident.

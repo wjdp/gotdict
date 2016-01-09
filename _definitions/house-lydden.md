@@ -2,6 +2,7 @@
 title: House Lydden
 inflections:
   - Lydden
+type: house
 ---
 
 House Lydden of the Deep Den is a noble house of the Westerlands. Their castle, Deep Den, is located on the Goldenroad and just south of Hornvale. Their banner is a white badger on per pale green and brown.

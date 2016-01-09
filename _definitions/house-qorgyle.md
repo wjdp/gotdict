@@ -2,6 +2,7 @@
 title: House Qorgyle
 inflections:
   - Qorgyle
+type: house
 ---
 
  House Qorgyle of Sandstone is a Dornish noble house sworn to Sunspear. Their arms are three black scorpions over red.

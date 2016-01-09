@@ -2,6 +2,7 @@
 title: House Harclay
 inflections:
   - Harclay
+type: house
 ---
 
 House Harclay is noble house in the North, and one of the Northern mountain clans. They live in the hills to the north of the Wolfswood.

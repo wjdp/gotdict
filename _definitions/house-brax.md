@@ -2,6 +2,7 @@
 title: House Brax
 inflections:
   - Brax
+type: house
 ---
 
 House Brax of Hornvale is a noble house from the Westerlands, and is one of the chief bannerhouses of the Lannisters. Their shield depicts a purple unicorn on silver.

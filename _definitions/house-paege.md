@@ -2,6 +2,7 @@
 title: House Paege
 inflections:
   - Paege
+type: house
 ---
 
 House Paege is a knightly house sworn to Riverrun.

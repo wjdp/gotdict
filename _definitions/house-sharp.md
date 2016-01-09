@@ -2,6 +2,7 @@
 title: House Sharp
 inflections:
   - Sharp
+type: house
 ---
 
 House Sharp is a noble house from the Iron Islands. Neither its arms nor its words are known.

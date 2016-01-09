@@ -2,6 +2,7 @@
 title: House Webber
 inflections:
   - Webber
+type: house
 ---
 
 There are two Webbers:

@@ -2,6 +2,7 @@
 title: House Mallister
 inflections:
   - Mallister
+type: house
 ---
 
 House Mallister of Seagard is one of the most prominent noble houses from the Riverlands. Seagard is a fortress built to defend the coast against the reavers from the Iron Islands, and dates from before the conquest. The Mallisters distrust the ironborn.

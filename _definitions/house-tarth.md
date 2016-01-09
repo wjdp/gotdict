@@ -2,6 +2,7 @@
 title: House Tarth
 inflections:
   - Tarth
+type: house
 ---
 
  House Tarth of Evenfall Hall is a noble house that rule the island of Tarth, a beautiful island north of the Shipbreaker Bay that controls the Straits of Tarth between the island and the continent. Their blazon is quartered with yellow suns on rose and white crescents and azure.

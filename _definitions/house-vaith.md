@@ -2,6 +2,7 @@
 title: House Vaith
 inflections:
   - Vaith
+type: house
 ---
 
  House Vaith of the Red Dunes is a Dornish noble house. Their seat, also named Vaith, is placed on the river with the same name. They blazon their shield with three black leopards standing on a yellow pile on orange.

@@ -2,6 +2,7 @@
 title: House Swann
 inflections:
   - Swann
+type: house
 ---
 
  House Swann of Stonehelm is a noble house from the Dornish Marches, in the the Stormlands. They rule over the lands surrounding the Red Watch on Cape Wrath, from their seat at Stonehelm. They blazon their arms with argent and sable a swan counter charged.

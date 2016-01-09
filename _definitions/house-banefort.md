@@ -2,6 +2,7 @@
 title: House Banefort
 inflections:
   - Banefort
+type: house
 ---
 
 House Banefort of Banefort is a noble house from the Westerlands.They blazon their shields with a hooded man, black on grey, within a fiery tressure.

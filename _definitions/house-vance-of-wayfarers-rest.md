@@ -1,5 +1,8 @@
 ---
-title: Vance of Wayfarer's Rest
+title: House Vance of Wayfarer's Rest
+inflections:
+  - Vance of Wayfarer's Rest
+type: house
 ---
 
 House Vance of Wayfarer's Rest is one of the two great branches of House Vance in the Riverlands, the other being House Vance of Atranta. House Smallwood is sworn to Wayfarer's Rest.

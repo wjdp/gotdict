@@ -2,6 +2,7 @@
 title: House Stout
 inflections:
   - Stout
+type: house
 ---
 
 House Stout of Goldgrass is a petty noble house from Barrowton in the North. It is sworn to House Dustin. They blazon their arms as chevrony russet and gold.

@@ -2,6 +2,7 @@
 title: House Grandison
 inflections:
   - Grandison
+type: house
 ---
 
 House Grandison of Grandview is a noble house from the Stormlands. It blazons its arms with a black sleeping lion on yellow. Their words are "Rouse Me Not".

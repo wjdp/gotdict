@@ -2,6 +2,7 @@
 title: House Wull
 inflections:
   - Wull
+type: house
 ---
 
 House Wull is the formal name given to the Wulls, a mountain clan from the North that inhabits the area west of the mountains behind the Bay of Ice. The chief of the clan is known as "The Wull", although at Winterfell is given the treatment of "Lord Wull".

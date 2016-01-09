@@ -2,6 +2,7 @@
 title: House Osgrey
 inflections:
   - Osgrey
+type: house
 ---
 
  House Osgrey of Standfast is a noble house of the Reach. It is sworn to House Rowan. Its lands border those of House Webber. They had not been lords in centuries, though they once had been. Their blazon is a chequy lion, green and gold rampant on a field of white.

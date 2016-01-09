@@ -2,6 +2,7 @@
 title: House Hogg
 inflections:
   - Hogg
+type: house
 ---
 
 House Hogg of Sow's Horn is a knightly house sworn to House Hayford. Its lands are located in the Crownlands near the border with the Riverlands.

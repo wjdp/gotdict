@@ -2,6 +2,7 @@
 title: House Horpe
 inflections:
   - Horpe
+type: house
 ---
 
 House Horpe is a noble house from the Stormlands. They blazon their arms with per chevron engrailed grey and bone, three deaths head moths countercharged.

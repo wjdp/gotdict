@@ -2,6 +2,7 @@
 title: House Waynwood
 inflections:
   - Waynwood
+type: house
 ---
 
 House Waynwood of Ironoaks is one of the great noble families from the Vale. They are known for their insistence on ceremony.

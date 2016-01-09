@@ -1,5 +1,9 @@
 ---
-title: Fossoway of New Barrel
+title: House Fossoway of New Barrel
+inflections:
+  - Fossoway of New Barrel
+  - New Barrel
+type: house
 ---
 
  House Fossoway of New Barrel is a house of landed knights from the Reach, sworn to Highgarden.

@@ -2,6 +2,7 @@
 title: House Byrch
 inflections:
   - Byrch
+type: house
 ---
 
 House Byrch is a noble house from the Crownlands. They blazon their arms with quarterly, gyronny white and black, a silver axe on green.

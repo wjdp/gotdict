@@ -2,6 +2,7 @@
 title: House Martell
 inflections:
   - Martell
+type: house
 ---
 
  House Nymeros Martell of Sunspear is one of the Great Houses of Westeros and the ruling house of Dorne. 'Nymeros' indicates "of the line of Nymeria," but generally it is simply called House Martell. The Martells of old used a spear as their emblem, while Nymeria and the Rhoynar used the sun as theirs. These were combined when Nymeria wed King Mors Martell into a gold spear piercing a red sun on an orange field. Their words are, "Unbowed, Unbent, Unbroken." In appearance they are classic salty Dornishmen, with dark eyes, dark hair in ringlets, and olive skin.

@@ -2,6 +2,7 @@
 title: House Sunderland
 inflections:
   - Sunderland
+type: house
 ---
 
 House Sunderland of Sisterton rules from the chief port in the Three Sisters, three islands located in the Bite.

@@ -2,6 +2,7 @@
 title: House Glover
 inflections:
   - Glover
+type: house
 ---
 
 House Glover of Deepwood Motte is a noble house from the North, although they are of masterly rank rather than lordly. Their lands presumably consist of the majority of the Wolfswood.

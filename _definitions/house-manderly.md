@@ -2,6 +2,7 @@
 title: House Manderly
 inflections:
   - Manderly
+type: house
 ---
 
 House Manderly of White Harbor is an ancient house from the North with its origins in the Reach.

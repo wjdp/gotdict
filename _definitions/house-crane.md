@@ -2,6 +2,7 @@
 title: House Crane
 inflections:
   - Crane
+type: house
 ---
 
  House Crane of Red Lake is a noble house from the Reach. It is one of the principal houses sworn to House Tyrell. They blazon their shield with a vee of golden cranes on pale blue.

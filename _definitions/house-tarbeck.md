@@ -2,6 +2,7 @@
 title: House Tarbeck
 inflections:
   - Tarbeck
+type: house
 ---
 
 House Tarbeck of Tarbeck Hall was a house in The Westerlands. They were quite influential until they rebelled with House Reyne against their Lannister overlords. The rebellion was broken by Tywin Lannister. In the course of putting down the rebellion the house was exterminated. According to semi-canon sources they blazoned their arms with a seven-pointed star, parts silver parts blue, on silver and blue field.

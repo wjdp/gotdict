@@ -2,6 +2,7 @@
 title: House Staedmon
 inflections:
   - Staedmon
+type: house
 ---
 
  House Staedmon of Broad Arch is one of the noble houses from the Stormlands sworn to the Baratheons of Storm's End. They blazon the arms as a black dagger piercing a red heart on white de sang within an undulating red border.

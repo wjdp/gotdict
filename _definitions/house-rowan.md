@@ -2,6 +2,7 @@
 title: House Rowan
 inflections:
   - Rowan
+type: house
 ---
 
 There are two Rowans:

@@ -2,6 +2,7 @@
 title: House Cerwyn
 inflections:
   - Cerwyn
+type: house
 ---
 
 House Cerwyn of Cerwyn is from the North. They are one of closest bannermen to the Starks, Castle Cerwyn being just a half days ride from Winterfell.

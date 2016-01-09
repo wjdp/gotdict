@@ -2,6 +2,7 @@
 title: House Connington
 inflections:
   - Connington
+type: house
 ---
 
 House Connington of Griffin's Roost is an old knightly house from the Stormlands, sworn to Storm's End.

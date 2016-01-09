@@ -2,6 +2,7 @@
 title: House Crakehall
 inflections:
   - Crakehall
+type: house
 ---
 
 House Crakehall of Crakehall is a noble house from the Westerlands. The Crakehall is located along the Ocean Road, at the south of the Westerlands, between the Sunset Sea and a big forest. The Crakehalls are known for their uncommon robustness.

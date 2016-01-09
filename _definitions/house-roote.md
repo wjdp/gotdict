@@ -2,6 +2,7 @@
 title: House Roote
 inflections:
   - Roote
+type: house
 ---
 
 House Roote of Lord Harroway's Town is a noble house from the Riverlands. They blazon their arms with a two-headed horse, brown, on a field of wavy green and green.

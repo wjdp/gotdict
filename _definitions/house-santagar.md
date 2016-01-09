@@ -2,6 +2,7 @@
 title: House Santagar
 inflections:
   - Santagar
+type: house
 ---
 
  House Santagar of Spottswood is a house of landed knights from Dorne.

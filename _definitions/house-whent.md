@@ -2,6 +2,7 @@
 title: House Whent
 inflections:
   - Whent
+type: house
 ---
 
 House Whent of Harrenhal is a noble house form the Riverlands. Their seat is the huge castle of Harrenhal built three hundred years ago by Harren the Black and since then the Whents are the seventh noble house to rule there, after houses Hoare, Qoherys, Towers, Harroway, Strong and Lothston.

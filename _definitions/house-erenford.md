@@ -2,6 +2,7 @@
 title: House Erenford
 inflections:
   - Erenford
+type: house
 ---
 
 House Erenford is a knightly house of the Riverlands. It is a vassal house of House Frey. They blazon their arms with a golden heron, beaked and gammed black, standing with a silver fish in its beak, on pink.

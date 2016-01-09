@@ -2,6 +2,7 @@
 title: House Corbray
 inflections:
   - Corbray
+type: house
 ---
 
 House Corbray of Heart's Home is one of the main noble houses from the Vale. It is an old but poor house. The ancestral Valyrian sword of House Corbray is called Lady Forlorn.

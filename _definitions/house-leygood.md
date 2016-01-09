@@ -2,6 +2,7 @@
 title: House Leygood
 inflections:
   - Leygood
+type: house
 ---
 
 House Leygood is a noble house from the Reach. Their blazon is a threefold thunderbolt.

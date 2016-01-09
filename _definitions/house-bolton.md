@@ -3,6 +3,7 @@ title: House Bolton of the Dreadfort
 inflections:
   - Bolton
   - House Bolton
+type: house
 ---
 
 House Bolton of the Dreadfort is an old line descended from the First Men and dating back to the Age of Heroes. Their sigil is a flayed man, red on pink. Their seat is the Dreadfort and they are one of the most powerful lords of the North. The Boltons are best known for their practice of flaying their enemies.

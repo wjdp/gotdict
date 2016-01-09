@@ -2,6 +2,7 @@
 title: House Beesbury
 inflections:
   - Beesbury
+type: house
 ---
 
  House Beesbury of Honeyholt is a noble house from the Reach, sworn to the Hightowers. Honeyholt is located next to the Honeywine river, which flows towards Oldtown and the Whispering Sound.

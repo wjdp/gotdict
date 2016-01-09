@@ -2,6 +2,7 @@
 title: House Blackmont
 inflections:
   - Blackmont
+type: house
 ---
 
 House Blackmont of Blackmont is a major Dornish noble house. Their seat is placed on the banks of the Torentine, at the mountains of Dorne. Their blazon is a black vulture with a pink infant in its claws on yellow.

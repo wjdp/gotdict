@@ -2,6 +2,7 @@
 title: House Westerling
 inflections:
   - Westerling
+type: house
 ---
 
 House Westerling of the Crag is a noble house sworn to House Lannister. Their sigil is six white shells on a sand-colored field. The Westerlings are an old and well-regarded family that descends from the First Men and who once intermarried with the Kings of the Rock and House Targaryen. Their lands and incomes have dwindled over the years, however, with their mines having failed years ago, and having sold or lost their best lands. They now scarcely have the funds to maintain their keep, and are regarded as having more pride than power. According to semi-canon sources, their words are "Honor, not Honors".

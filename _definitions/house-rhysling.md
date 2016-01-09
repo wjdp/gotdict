@@ -2,6 +2,7 @@
 title: House Rhysling
 inflections:
   - Rhysling
+type: house
 ---
 
  House Rhysling is a noble house from the Reach. Neither their arms nor their motto have appeared in the books, but according to a semi-canon source they blazon their arms with an oaken door banded with iron, in a grey stone doorway, on black masonry.

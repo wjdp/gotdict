@@ -2,6 +2,7 @@
 title: House Redfort
 inflections:
   - Redfort
+type: house
 ---
 
 House Redfort of Redfort is a noble house from the Vale. They trace their descent to the First Men that inhabited the Vale before the coming of the Andals.

@@ -2,6 +2,7 @@
 title: House Velaryon
 inflections:
   - Velaryon
+type: house
 ---
 
 House Velaryon of Driftmark is an ancient and proud house, with the blood of old Valyria in its veins. Velaryons, like the Targaryens, often have the Valyrian features of silver hair and purple eyes. They rule over Driftmark, the largest island of the Blackwater Bay. Their arms depict a silver seahorse on sea green. Their words are "The Old, the True, the Brave".

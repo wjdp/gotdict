@@ -2,6 +2,7 @@
 title: House Staunton
 inflections:
   - Staunton
+type: house
 ---
 
 House Staunton of Rook's Rest is a noble house of the Crownlands. They blazon their arms with two black wings upon a white fess on checkered black and grey.

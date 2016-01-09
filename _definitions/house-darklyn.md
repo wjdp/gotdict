@@ -2,6 +2,7 @@
 title: House Darklyn
 inflections:
   - Darklyn
+type: house
 ---
 
 House Darklyn of Duskendale is an extinct house that ruled for centuries the town of Duskendale and the surrounding lands. Their keep was the Dun Fort, at the top of the hill that dominates the town.

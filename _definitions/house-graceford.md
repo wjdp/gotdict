@@ -2,6 +2,7 @@
 title: House Graceford
 inflections:
   - Graceford
+type: house
 ---
 
  House Graceford of Holyhall is a noble house from the Reach. According to semi-canon sources, they blazon their arms with the Mother's face upon white pale wavy dividing a brown field. Their words are "Work Her Will".

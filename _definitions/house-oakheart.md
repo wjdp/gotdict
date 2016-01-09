@@ -2,6 +2,7 @@
 title: House Oakheart
 inflections:
   - Oakheart
+type: house
 ---
 
  House Oakheart of Old Oak is an old and powerful family from the Reach. They are among the noble houses from the Reach that can trace their descent from Garth Greenhand. Their arms are three green oak leaves on gold. Their motto is "Our Roots Go Deep".

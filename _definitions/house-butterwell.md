@@ -2,6 +2,7 @@
 title: House Butterwell
 inflections:
   - Butterwell
+type: house
 ---
 
  House Butterwell is a noble house of the Riverlands. Their blazon is undy green, white, and yellow. House Butterwell is a rich house with extensive lands though its main incomes from milk. They once had a castle called Whitewalls.

@@ -2,6 +2,7 @@
 title: House Torrent
 inflections:
   - Torrent
+type: house
 ---
 
 House Torrent of Littlesister is a noble house from the Vale. Their arms and their words are unknown. They are vassals of House Sunderland.
