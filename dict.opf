@@ -23,6 +23,7 @@
     <item id="css" href="dict/ebook.css" media-type="text/css" />
     <item id="title" href="dict/title.html" media-type="application/xhtml+xml"/>
     <item id="toc" properties="nav" href="dict/toc.html" media-type="application/xhtml+xml"/>
+    <item id="sources" properties="nav" href="dict/sources.html" media-type="application/xhtml+xml"/>
     <item id="defs" href="dict/defs.html" media-type="application/xhtml+xml"/>
     <item id="contributing" href="dict/contributing.html" media-type="application/xhtml+xml"/>
     <item id="build" href="dict/build.html" media-type="application/xhtml+xml"/>
@@ -30,6 +31,7 @@
   <spine toc="toc">
     <itemref idref="cimage"/>
     <itemref idref="title"/>
+    <itemref idref="sources"/>
     <itemref idref="toc"/>
     <itemref idref="defs"/>
     <itemref idref="contributing"/>
