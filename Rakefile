@@ -27,4 +27,5 @@ task :copy_mobi do
 end
 
 task :build => [:jekyll_build, :kindlegen_full, :copy_mobi]
+task :buildnocomp => [:jekyll_build, :kindlegen_quick, :copy_mobi]
 task :buildquick => [:jekyll_build_incremental, :kindlegen_quick, :copy_mobi]
