@@ -14,6 +14,6 @@ Westeros was originally divided into several independent kingdoms before the con
 
 Map on Next page.
 
-![Image](images/000074.jpg)
+![Image](images/world-westeros.png)
 
 

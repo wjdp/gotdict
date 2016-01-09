@@ -11,6 +11,6 @@ The north coast has many islands along its length, such as the Isle of Tears and
 
 Map on Next page.
 
-![Image](images/000059.jpg)
+![Image](images/world-sothoryos.png)
 
 

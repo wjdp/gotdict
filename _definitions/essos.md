@@ -6,6 +6,6 @@ Essos is the largest of the three known continents in the world. It lies east of
 
 Map on Next page.
 
-![Image](images/000000.jpg)
+![Image](images/world-essos.png)
 
 
