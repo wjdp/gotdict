@@ -1,8 +1,0 @@
----
-title: Aron Santagar
-inflections: [Aron]
----
-
-Ser Aron Santagar is the master-at-arms of the Red Keep. According to Ser Rodrik Cassel, he is a vain but honest man.
-
-

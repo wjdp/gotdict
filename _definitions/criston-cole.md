@@ -1,8 +1,0 @@
----
-title: Criston Cole
-inflections: [Criston]
----
-
-Ser Criston Cole, better known as Ser Criston the Kingmaker, was Lord Commander of the Kingsguard at the time of the death of Viserys I, and convinced his son Aegon II to claim the rule of the Seven Kingdoms as his father lay dying. This led to the war between Aegon and his elder sister Rhaenyra, whom Viserys had long groomed as his successor. For this Ser Criston became known as the Kingmaker, and ultimately died because of his actions.
-
-

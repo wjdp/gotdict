@@ -12,9 +12,9 @@ layout: default
       <img src="{{ site.baseurl }}images/{{ name }}.png" class="sigil" />
     {% endif %}
     {{ page.title }}
-    {% if page.inflections.size > 0 %}
-    <span class="inflections">(
-    {% for infl in page.inflections %}
+    {% if page.terms.size > 0 %}
+    <span class="terms">(
+    {% for infl in page.terms %}
     {{ infl }}{% unless forloop.last %}, {% endunless %}
     {% endfor %}
     )</span>

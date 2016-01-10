@@ -1,8 +1,0 @@
----
-title: Normund Tyrell
-inflections: [Normund]
----
-
-Maester Normund Tyrell is a Maester of the Citadel. He is a cousin of Lord Mace Tyrell. He is in service at Blackcrown.
-
-

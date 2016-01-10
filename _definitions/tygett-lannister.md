@@ -1,8 +1,0 @@
----
-title: Tygett Lannister
-inflections: [Tygett]
----
-
-Ser Tygett Lannister was a member of House Lannister. He was the second brother of Tywin Lannister, the head of the house. He died of a pox. 
-
-

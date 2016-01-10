@@ -1,7 +1,0 @@
----
-title: Olyvar Oakheart.
----
-
-Ser Olyvar Oakheart, better known as Ser Olyvar the Green Oak, was a member of House Oakheart and a member of the Kingsguard. There is a tapestry depicting him all in white dying beside King Daeron I in Dorne. 
-
-

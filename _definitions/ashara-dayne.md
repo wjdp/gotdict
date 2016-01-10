@@ -1,8 +1,0 @@
----
-title: Ashara Dayne
-inflections: [Ashara]
----
-
-Ashara Dayne was a noblewoman of House Dayne, the younger sister of the famous knight Ser Arthur Dayne. She committed suicide shortly after the end of Robert's Rebellion. Ashara was tall, with long dark hair and haunting violet eyes. She had a reputation for great beauty. Many men were infatuated with her, including Barristan Selmy and, according to rumor, Eddard Stark.
-
-

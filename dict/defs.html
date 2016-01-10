@@ -3,15 +3,26 @@
 <mbp:frameset>
 <a id="defs" name="defs"></a>
 {% for def in site.definitions %}
-{% capture name %}{{ def.path | replace: '_definitions/', '' | replace: '.md', '' }}{% endcapture %}
-<idx:entry name="got" scriptable="yes" spell="yes" id="{{ name }}">
-  <a id="{{ name }}" name="{{ name }}"></a>
+<idx:entry name="got" scriptable="yes" spell="yes" id="{{ def.id }}">
+
+  <a id="{{ def.id }}" name="{{ def.id }}"></a>
+
   <div class="orth">
     <idx:orth value="{{ def.title }}">
-      {% ebook_image sigil {{ name }}.png %} {{ def.title }}
-      {% if def.inflections.size > 0 %}
+      {% ebook_image sigil {{ def.id }}.png %}
+
+      <span class="def-title">{{ def.title }}</span>
+
+      {% if def.house %}
+        <span class="def-house">
+          ({% ebook_image sigil_inline house-{{ def.house | downcase }}.png %}
+          <a href="#house-{{ def.house | downcase }}">House {{ def.house }}</a>)
+        </span>
+      {% endif %}
+
+      {% if def.terms.size > 0 %}
       <idx:infl>
-        {% for infl in def.inflections %}
+        {% for infl in def.terms %}
         <idx:iform value="{{ infl }}" />{% endfor %}
       </idx:infl>
       {% endif %}
@@ -19,6 +30,16 @@
   </div>
 
   {{ def.content }}
+
+  {% if def.members %}
+  <p>There are {{ def.members.size }} known members of this house</p>
+  <ul>
+  {% for member in def.members %}
+  <li><a href="#{{ member.id }}">{{ member.title }}</a></li>
+  {% endfor %}
+  </ul>
+  {% endif %}
+
 </idx:entry>
 <hr />
 {% endfor %}

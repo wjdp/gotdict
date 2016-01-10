@@ -1,8 +1,0 @@
----
-title: Godric Borrell
-inflections: [Godric]
----
-
-Lord Godric Borrell is the Lord of Sweetsister and head of House Borrell. Lord Godric is a big fleshy ugly man with massive shoulders. Coarse white hair grows from his cheeks and chin. He is bald on the top of his scalp, with a lumpy red veined nose and webbing between his three middle fingers. 
-
-

@@ -1,8 +1,0 @@
----
-title: Bennard Brune
-inflections: [Bennard]
----
-
-Ser Bennard Brune, the Knight of Brownhollow, is the head of House Brune of Brownhollow in the Crackclaw Point area of the Crownlands. He is the cousin of Lord Eustace Brune of the Dyre Den.
-
-

@@ -1,7 +1,0 @@
----
-title: Alester Norcross.
----
-
-Alester Norcross is the eldest son of Ser Hosman Norcross. He is eight years old.
-
-
