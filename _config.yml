@@ -8,10 +8,11 @@ url: "http://wjdp.github.io" # the base hostname & protocol for your site
 website: "https://wjdp.github.io/gotdict" # For issue posting
 
 # Build settings
-markdown: kramdown
+# skip_autolinker: true
 
 # Prevents excerpts from being generated (wasted 50s+ on build)
 # See https://github.com/jekyll/jekyll/pull/1386
+markdown: kramdown
 excerpt_separator: ""
 
 exclude:
@@ -48,4 +49,10 @@ image:
         class: sigil
         width: 51
         height: 56
+        align: middle
+    sigil_inline:
+      attr:
+        class: sigil-inline
+        width: 30
+        height: 33
         align: middle

@@ -8,9 +8,8 @@ permalink: /site/sigils/
 
 <ul>
 {% for def in site.definitions %}{% if def.type == "house" %}
-  {% capture name %}{{ def.path | replace: '_definitions/', '' | replace: '.md', '' }}{% endcapture %}
   <li>
-    <img src="{{ site.baseurl }}images/{{ name }}.png" width="51" height="56" />
+    <img src="{{ site.baseurl }}images/{{ def.id }}.png" width="51" height="56" />
     {{ def.title }}
     <a href="http://awoiaf.westeros.org/index.php/{{ def.title }}">awoif</a>
   </li>

@@ -17,7 +17,7 @@ This project draws upon openly licensed content - mainly from [awoiaf.westeros.o
 
 - `_definitions` contains each entry in the dictionary as a [Markdown file](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), each contains a little [YAML frontmatter](http://jekyllrb.com/docs/frontmatter/) for attributes such as the title. A list of these is shown below
   - `title`: the title of the definition
-  - `inflections`: a list of inflections, other forms of the title that will be recognised in-book
+  - `terms`: a list of terms, other forms of the title that will be recognised in-book
 - `images\` contains all images
 
 Other files are used in the generation of the MOBI file.

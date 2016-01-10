@@ -1,8 +1,0 @@
----
-title: Alysane Mormont
-inflections: [Alysane]
----
-
-Alysane Mormont, known as She-Bear, is one of Lady Maege Mormont's many daughters. She is in her mid twenties and has two children, the eldest is a daughter of nine, the youngest a son of two. She is unwed and claims the children were fathered by a bear. She is short, chunky, muscular with big thighs, breast and hands. Her Hands are heavily callused. 
-
-

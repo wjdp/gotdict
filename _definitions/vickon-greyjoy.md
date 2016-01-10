@@ -1,8 +1,0 @@
----
-title: Vickon Greyjoy
-inflections: [Vickon]
----
-
-Lord Vickon Greyjoy of Pyke was the first Lord of the Iron Islands after the War of Conquest.
-
-

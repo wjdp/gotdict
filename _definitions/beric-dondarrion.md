@@ -1,8 +1,0 @@
----
-title: Beric Dondarrion
-inflections: [Beric]
----
-
-Beric Dondarrion is Lord of Blackhaven. He is also known as the Lightning Lord. He is almost twenty-two years old. He is betrothed to Lady Allyria Dayne. He is handsome with red-gold hair.
-
-

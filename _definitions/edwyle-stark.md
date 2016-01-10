@@ -1,8 +1,0 @@
----
-title: Edwyle Stark
-inflections: [Edwyle]
----
-
-Lord Edwyle Stark, Lord of Winterfell and Warden of the North. He was the father of Rickard Stark and grandfather of Eddard (Ned) Stark. In the catacombs of Winterfell there is a statue of him.
-
-

@@ -1,8 +1,0 @@
----
-title: Sybelle Locke
-inflections: [Sybelle]
----
-
-Sybelle Locke is the wife of Robett Glover and the mother of Gawen and Erena Glover.
-
-

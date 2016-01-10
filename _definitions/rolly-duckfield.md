@@ -1,8 +1,0 @@
----
-title: Rolly Duckfield
-inflections: [Rolly]
----
-
-Ser Rolly Duckfield, also known as Duck, is a knight in service to Aegon Targaryen. Duck is described as a brawny man with a shaggy beard and a shock of orange hair. 
-
-

@@ -1,8 +1,0 @@
----
-title: Hotho Harlaw
-inflections: [Hotho]
----
-
-Hotho Harlaw, known as Hotho Humpback, is a member of House Harlaw and the master of the Tower of Glimmering. He has a hump back. His personal sigil is the Harlaw scythe girdled within an embattled border. He has a daughter. 
-
-

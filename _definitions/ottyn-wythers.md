@@ -1,8 +1,0 @@
----
-title: Ottyn Wythers
-inflections: [Ottyn]
----
-
-Ser Ottyn Wythers is a ranger of the Night's Watch. He is an old man. He has a weathered face and is small. He always looks tired.
-
-

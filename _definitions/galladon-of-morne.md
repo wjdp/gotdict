@@ -1,9 +1,0 @@
----
-title: Galladon Of Morne
----
-
-Ser Galladon, better known as Ser Galladon of Morne was a legendary knight.
-
-Legend: Ser Galladon was a perfect knight. His valor was so great the Maiden, of the Seven, fell in love with him. She gave him an enchanted sword, the Just Maid, to demonstrate her love for him. No sword could check the sword's blows, no shield could stop them. According to the legend, he only unsheathed the sword three times, not once against a mortal man, for the fight would have been unfair.
-
-

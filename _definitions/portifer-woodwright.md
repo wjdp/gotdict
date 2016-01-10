@@ -1,8 +1,0 @@
----
-title: Portifer Woodwright
-inflections: [Portifer]
----
-
-Ser Portifer Woodwright is the brother of Ser Lucantine Woodwright and is a household knight in King's Landing.
-
-
