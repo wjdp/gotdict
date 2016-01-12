@@ -22,6 +22,9 @@ This project draws upon openly licensed content - mainly from [awoiaf.westeros.o
     - `character`: a character
     - `house`: a house
     - `event`: an event in time
+    - `city`: a city
+    - `location`: a location
+    - `river`: a river
     - `ship`: a ship
     - `word`: definition of an ASOIAF specific or uncommon word used in the books
 - `images\` contains all images
