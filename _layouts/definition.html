@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-{% capture name %}{{ page.path | replace: '_definitions/', '' | replace: '.md', '' }}{% endcapture %}
 
 <div class="page">
 <div class="definition-wrapper">
@@ -9,7 +8,7 @@ layout: default
 <article class="definition-definition">
   <h1>
     {% if page.type == "house" %}
-      <img src="{{ site.baseurl }}images/{{ name }}.png" class="sigil" />
+      <img src="{{ site.baseurl }}images/{{ page.id }}.png" class="sigil" />
     {% endif %}
     {{ page.title }}
     {% if page.terms.size > 0 %}
