@@ -4,6 +4,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="description" content="Community built Kindle dictionary for George R. R. Martin's A Song of Ice and Fire series including houses, locations, ships, maps and more.">
   <title>{% if page.head_title %}{{ page.head_title }}{% else %}{{ page.title }} - GOTDict{% endif %}</title>
+  <link rel="canonical" href="{{ site.url }}">
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/3.3.0/octicons.min.css">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}style.css">
 </head>
@@ -12,5 +13,6 @@
     {{ content }}
   </div>
   {% include ga.html %}
+  {% include redirect.html %}
 </body>
 </html>

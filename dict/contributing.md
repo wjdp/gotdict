@@ -4,4 +4,4 @@
 
 ## Contributing To The Dictionary
 
-This section will be expanded later. Pull requests are welcome at [wjdp.github.io/gotdict](http://wjdp.github.io/gotdict)
+This section will be expanded later. Pull requests are welcome at [gotdict.wjdp.uk](http://gotdict.wjdp.uk)

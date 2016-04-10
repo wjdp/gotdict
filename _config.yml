@@ -3,9 +3,9 @@ title: GOTDict
 description: "Kindle dictionary for A Song of Ice and Fire."
 lang: "en"
 author: "Various"
-baseurl: "/gotdict/" # the subpath of your site, e.g. /blog/
-url: "http://wjdp.github.io" # the base hostname & protocol for your site
-website: "https://wjdp.github.io/gotdict" # For issue posting
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://gotdict.wjdp.uk" # the base hostname & protocol for your site
+website: "https://gotdict.wjdp.uk" # For issue posting
 
 # Build settings
 # skip_autolinker: true
