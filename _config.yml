@@ -7,6 +7,9 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://gotdict.wjdp.uk" # the base hostname & protocol for your site
 website: "https://gotdict.wjdp.uk" # For issue posting
 
+gems:
+- jekyll-coffeescript
+
 # Build settings
 # skip_autolinker: true
 
