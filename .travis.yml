@@ -1,9 +1,12 @@
 language: ruby
+rvm: 2.1.2
+
 cache:
   bundler: true
   directories:
-    - vendor/bundle
-    - .sass-cache
+  - vendor/bundle
+  - ".sass-cache"
+
 install:
   - bundle install --jobs=3 --retry=3 --deployment --path=${BUNDLE_PATH:-vendor/bundle}
   - mkdir -p bin tmp/kindlegen
@@ -16,22 +19,20 @@ script:
   - bundle exec rake build
 after_success:
   - bin/deploy.sh
+
 branches:
   except:
   - gh-pages
+
 git:
   depth: 6
-rvm:
-  - 2.1.2
+
 deploy:
   provider: releases
   api_key:
-    secure: sw0+kTFWQOj0cvSUotCI2hU42cTCzObTMaJ2LrdLRdflzcj1a1Kci6rpCQSbgwzOHx+RfeDklXsxIg8hyfhd4CMYUNTUNindPSUB2r3TcfLkmWyP6hJQW8SEBtpqezfxwYs80gDfXk4akoRS8sLxotZcD6LZpyz4ht57ORV/iPyy3K63WARWxFgRb/fjkSUbN1UunLn8ykwhPWzee+1t+abE+d0zr/8lsJ3N3rx35Z+KzBq8PTZ7rycOCDfZsJbW+79HQQFjOcPjfDj0tChrSREmRuHHyQRqOSYFmZ/ezXQ48W9WOK/KrSa63aGJtk7yRjYL55+7JfD3r8yKC4JojHpz8imi0qwnzjCKeQphyMNLQyMDcJoNOB+Fw/3rrQk9v/JEl1gZbN4Ve5JkzPHja61Pb2LqIm9egJB74maVkhPgPJPfQSs3doIDx1IKaJfMuYct2m9TMyf8DY5ddIRdDd3fWMhzPSNBXur+RsBQUoiS5FQeKi1JWps0kNSIv1MTL1+5opM9eYj5rtUi9gp6tNY2XsLQfED+mQHFQz8d6XIz3CFtTbAb8DLc2WG98d20xMcS54NZ6w33ywtcaHhFg6gi+wmrzOg/yar6nm80QqkmrBgyKhfSeudfxW6JlaF8KtDQrXEfA8pNG5HayuePU6PhgB2NolVXGT3If1drQcA=
+    secure: yFesaHHSluwsCEoTrUmsoS5zYonKCvBBoGaH/bVKLjfZsW5K5dQM90Ipd/qQrBm2mZXTNUS8vG7pC2obeave9lNeaaIwc0s7pFdvPVJ8v2RAhGaaO53iVPiNG8mU4LOqOwzKkvMCesLzylkrslUqorur/AyKwdZbuH3L+7IeFdinAaDyxkiIkNn+ZwJNB/1DKagufVfuwU8urp166Zduo3B+Kod9utlneHu6fTkMrEFDI+end2PBIhygQohSkz9EBsu4kZUghLtwVPWz3Uk/RTb2Ry7vcSeA5ptIiTr2k3gTL/QDvVmAqov3pbqt+Qqh/H78PZ0RfjMZT80iJ+y1xSqkaAih23uTMw6mniQNx0g560pgJMkSgFv/twya/On4OtkvTkeLxw04j9vEhfn4hMTlUaAfZ1OaAhxAxhEOSAg0dGob26nH6Hfw8Vh4n5rqTvq/QFnX29mQECBm/qzMDeCl2OM9Tw0MkmH1nyY/X920jhhlVAgRIFz5FMyL15wJJisDNs/UWrmX+jrXy1mXlbHT1DTbJ8xGFkwRu8QxXgxQxwWzlyo6qIYj/v7VkX0UeCea5FvD+FSMighD/d9Pt7LAO4iKIoGMZJabXmuXDOHcGUeMrN2U/mqRVzaCSzHcYxZ1yvP7WNdpylZaOENiWy16JuT9mniV6oF5ByLhswg=
   file: _output/gotdict.mobi
   on:
-    tags: true
     repo: wjdp/gotdict
     branch: master
-env:
-  global:
-    secure: bqcgrvXw/ynOkS8HW5vCuGug5zFiYPyOYKyYN6F/Nndk9g9qMP9oBr0D6ssZgVL9GcKv+96p8x9bSwrCArPU1/ZUZNHPyQ3jchTfEkVrG4mifCFTC3ekDj1cKv5Et2thUs7JENSf8rmbVsxw5ckVKtmS4PHeKEh9CVYu6RnEt2aoWAbi2RUaI4YJoYwZydgR9LAqrgdP2snAC4K4eQnzINguwY7DdEi93Fi1Av+NyvPzrn/UCdk/5R8PNJcodryo+kBNzIAi8/sX1XQiMYqHlH3qetVeQw89odKFyVezcxLkejV/Et/xEqDvuB5Ghq1Vrn7LJIw1fsZZ3kt1ODWtlAITs2ZRjNmuxlxf4VD56Q3Eyr8SUKfrWHWXAqKgu3gTmKT05yPMXBBPucCHDkZtf7iNkX4SNSzOre69j2rZrJWdQhEbmnnd5Nq0OaHeNf/yFoC2KFF09re7Hu9rD/8vTS6TA3g0aAsv79EsaMzx7K+BERCIxQO+etXoC7hqtodflUNFO0iVfMLufsYquvZcV96WXChf9oUoMlzEaA2XrO7b7tMi3Nds5YFj7+Ct1iAakMRg7STqe7YAvk+8iBro3jGIW6Adyu9kbQpigLo1mDiIm/QgWlan5OO15gS7rKhMr4vIQ8ucehzS0qOadIqvSEgC95nToTAc5dz9wwjIWwY=
+    tags: true
