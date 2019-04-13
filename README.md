@@ -4,6 +4,10 @@
 
 A community built Kindle dictionary for A Song of Ice and Fire based on the work of [KEC Krew](http://keckrew.blogspot.co.uk/2013/06/game-of-thrones-kindle-dictionary.html). While a number of characters have X-Ray entries this dictionary aims to be much more extensive having information on houses, locations, ships, maps and much more. See http://gotdict.wjdp.uk/ for more details and install instructions.
 
+## Get the dictionary
+
+A build is created on every commit to the master branch. The latest build is avaliable to download here: <https://gotdict.wjdp.uk/gotdict.mobi>
+
 ## Contributing
 
 This project needs help to improve the quality and quantity of the entries.
@@ -46,10 +50,6 @@ mv tmp/kindlegen/kindlegen bin/
 ```
 
 To build run `bundle exec rake build`. All output is within `_output/`, the compiled MOBI is `_output/gotdict.mobi`.
-
-## Releases
-
-When a certain number of edits have happened (arbitrary number TBD) or some time has passed (arbitrary duration TBD) and the project is in good standing (no unresolved blocker bugs) a release will be made. If a commit gets on master with a version tag Travis will upload the build to GitHub. A better description than Travis leaves should then be added to it.
 
 ## Links
 
