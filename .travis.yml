@@ -39,4 +39,3 @@ deploy:
   on:
     repo: wjdp/gotdict
     branch: master
-    tags: true
