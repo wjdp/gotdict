@@ -1,0 +1,134 @@
+html {
+  box-sizing: border-box;
+  font-family: "Bookerly", Georgia, Times, Times New Roman, serif;
+  color: black; }
+
+*, *:before, *:after {
+  box-sizing: inherit;
+  font-family: inherit;
+  color: inherit; }
+
+.page {
+  will-change: width;
+  width: 98%;
+  margin: 0 auto; }
+  @media (min-width: 520px) {
+    .page {
+      width: 90%; } }
+  @media (min-width: 760px) {
+    .page {
+      width: 85%; } }
+  @media (min-width: 1100px) {
+    .page {
+      width: 75%; } }
+  @media (min-width: 1600px) {
+    .page {
+      width: 60%; } }
+
+img {
+  max-width: 100%; }
+
+h1, h2, h3, h4 {
+  font-weight: normal; }
+
+p {
+  text-align: justify; }
+
+p, li, th, td {
+  line-height: 1.5em; }
+
+a {
+  color: #3779B0; }
+
+a:visited {
+  color: #6e37b0; }
+
+i {
+  color: #404040;
+  font-size: 1em; }
+
+code {
+  font-family: monospace;
+  font-size: 0.9em;
+  background: #ddd;
+  padding: 4px; }
+
+p + h2 {
+  margin-top: 1em; }
+
+img.kindle {
+  display: block;
+  width: 320px;
+  margin: 0 auto;
+  padding: 0 40px; }
+  @media (min-width: 520px) {
+    img.kindle {
+      margin: none;
+      padding-left: 40px;
+      float: right; } }
+  @media (min-width: 760px) {
+    img.kindle {
+      width: 400px; } }
+
+nav ul {
+  list-style: none;
+  padding: 0; }
+
+li.break {
+  margin-top: 1em;
+  margin-bottom: 1em; }
+
+li.line {
+  border-bottom: 2px solid #ddd; }
+
+.definition-index {
+  list-style: none;
+  padding: 0;
+  column-count: 1;
+  -webkit-column-count: 1;
+  -moz-column-count: 1; }
+  @media (min-width: 520px) {
+    .definition-index {
+      column-count: 3;
+      -webkit-column-count: 3;
+      -moz-column-count: 3; } }
+  @media (min-width: 760px) {
+    .definition-index {
+      column-count: 4;
+      -webkit-column-count: 4;
+      -moz-column-count: 4; } }
+  @media (min-width: 1100px) {
+    .definition-index {
+      column-count: 6;
+      -webkit-column-count: 6;
+      -moz-column-count: 6; } }
+
+article {
+  text-align: justify; }
+
+@media (min-width: 760px) {
+  .definition-wrapper > * {
+    float: left; } }
+
+.definition-definition {
+  width: 100%; }
+  @media (min-width: 760px) {
+    .definition-definition {
+      width: 73%;
+      padding-right: 3em; } }
+
+.terms {
+  font-size: 0.7em;
+  color: #ddd;
+  font-style: italic;
+  font-weight: normal; }
+
+.definition-navigation {
+  width: 100%; }
+  @media (min-width: 760px) {
+    .definition-navigation {
+      width: 27%; } }
+
+h1 .sigil {
+  height: 2em;
+  vertical-align: middle; }
