@@ -26,3 +26,8 @@ jobs:
         run: echo -n $(($GITHUB_RUN_ID + 100)) > _includes/travis_build_number.txt
       - name: Build
         run: bundle exec rake build
+      - name: Upload dist
+        uses: actions/upload-artifact@v2
+        with:
+          name: dist
+          path: dist
