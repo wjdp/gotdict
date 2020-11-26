@@ -4,7 +4,7 @@ description: "Kindle dictionary for A Song of Ice and Fire."
 lang: "en"
 author: "Various"
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://gotdict.wjdp.uk" # the base hostname & protocol for your site
+url: "https://gotdict.wjdp.uk" # the base hostname & protocol for your site
 website: "https://gotdict.wjdp.uk" # For issue posting
 
 gems:
